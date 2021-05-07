@@ -3,6 +3,5 @@
   "NameTag_TitleUpdatingEnabled": true,
   "Dock_CreditsDockVisible": true,
   "Dock_GameRoomsDockVisible": true,
-  "GameRooms_UnbitternessSaysEnabled": true,
-  "OldGameRoomsCeremony_TimeIsUp": true
+  "GameRooms_UnbitternessSaysEnabled": true
 }
