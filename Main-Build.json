@@ -27,6 +27,8 @@
   "GameRooms_StartDelay": 15,
   "GameRooms_UnbitternessSaysEnabled": false,
   
+  "OldGameRooms_Appear": true,
+  
   "Intro_QuietAnimateScript": true,
   
   "NameTag_TitleUpdatingEnabled": false,
