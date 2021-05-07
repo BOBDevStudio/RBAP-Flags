@@ -27,7 +27,7 @@
   "GameRooms_StartDelay": 15,
   "GameRooms_UnbitternessSaysEnabled": false,
   
-  "OldGameRoomsCeremony_TimeIsUp": true,
+  "OldGameRoomsCeremony_TimeIsUp": false,
   
   "Intro_QuietAnimateScript": true,
   
