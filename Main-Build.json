@@ -1,4 +1,6 @@
 {
+  "FlagsSystem_UpdateCheckTime": 300,
+  
   "Dock_BloxyStatueReMadeDockVisible": true,
   "Dock_BobTheMobDockVisible": true,
   "Dock_CampFireDockVisible": true,

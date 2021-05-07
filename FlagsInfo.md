@@ -1,5 +1,6 @@
 | Flag Name | Base Value | Pre-Update Build Overwrite | Dev Build Overwrite | Flag Info |
 |-|-|-|-|-|
+| `FlagsSystem_UpdateCheckTime` | `300` |  | `15` | Controls the number of seconds until the system should check if there's any updates to the flags. |
 | `Dock_BloxyStatueReMadeDockVisible` | `true` |  |  |  |
 | `Dock_BobTheMobDockVisible` | `true` |  |  |  |
 | `Dock_CampFireDockVisible` | `true` |  |  |  |
