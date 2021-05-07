@@ -26,7 +26,7 @@
 | `Dock_WeirdHillsDockVisible` | `true` |  |  |  |
 | `GameRooms_StartDelay` | `15` |  |  |  |
 | `GameRooms_UnbitternessSaysEnabled` | `false` |  | `true` |  |
-| `OldGameRoomsCeremony_TimeIsUp` | `false` |  |  | Controls whether or not the old game rooms dock appears. The plan is for this to be set to `true` by the BDS's bot at a set time and date and then have the flag removed a few days after. |
 | `Intro_QuietAnimateScript` | `true` |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). |
 | `NameTag_TitleUpdatingEnabled` | `false` |  | `true` | Controls whether or not the title updating system is available. |
+| `OldGameRoomsCeremony_TimeIsUp` | `false` |  |  | Controls whether or not the old game rooms dock appears. The plan is for this to be set to `true` by the BDS's bot at a set time and date and then have the flag removed a few days after. |
 | `Season_LockInSummer` | `false` |  |  | Locks the game's season in summer. This is only intended to be used for Imaging purposes. |
