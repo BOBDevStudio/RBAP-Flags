@@ -1,3 +1,7 @@
 {
-
+  "Regulator_NotAllowedGroupRanks": [
+    0,
+    1,
+    3
+  ]
 }
