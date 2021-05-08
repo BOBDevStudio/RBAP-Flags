@@ -9,7 +9,7 @@
   "Dock_ConstructionBarrierDockVisible": true,
   "Dock_CreditsDockVisible": false,
   "Dock_DonationsDockVisible": true,
-  "Dock_GameRoomsDockVisible": false,
+  "Dock_GameRoomsDockVisible": true,
   "Dock_IceCubeTrayDcokVisible": true,
   "Dock_IndustrialLightDockVisible": true,
   "Dock_LighthouseDockVisible": true,

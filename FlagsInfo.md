@@ -9,7 +9,7 @@
 | `Dock_ConstructionBarrierDockVisible` | `true` |  |  |  |
 | `Dock_CreditsDockVisible` | `false` |  | `true` |  |
 | `Dock_DonationsDockVisible` | `true` |  |  |  |
-| `Dock_GameRoomsDockVisible` | `false` |  | `true` |  |
+| `Dock_GameRoomsDockVisible` | `true` |  |  |  |
 | `Dock_IceCubeTrayDcokVisible` | `true` |  |  |  |
 | `Dock_IndustrialLightDockVisible` | `true` |  |  |  |
 | `Dock_LighthouseDockVisible` | `true` |  |  |  |
