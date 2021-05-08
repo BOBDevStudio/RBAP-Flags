@@ -29,5 +29,5 @@
 | `GameRooms_UnbitternessSaysEnabled` | `false` |  | `true` |  |
 | `Intro_QuietAnimateScript` | `true` |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). |
 | `NameTag_TitleUpdatingEnabled` | `false` |  | `true` | Controls whether or not the title updating system is available. |
-| `OldGameRoomsCeremony_TimeIsUp` | `false` |  |  | Controls whether or not the old game rooms dock appears. The plan is for this to be set to `true` by the BDS's bot at a set time and date and then have the flag removed a few days after. |
+| `OldGameRoomsCeremony_ClosingTime` | `1622401200` |  |  | Long story short this flag sets the time that the old game rooms dock will no longer appear in newer servers after. |
 | `Season_LockInSummer` | `false` |  |  | Locks the game's season in summer. This is only intended to be used for Imaging purposes. |
