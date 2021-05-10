@@ -34,4 +34,4 @@
 | `OldGameRoomsCeremony_TimeCheckTime` | `60` |  | `15` | Similar to the `FlagsSystem_UpdateCheckTime` flag. |
 | `Season_LockInSummer` | `false` |  |  | Locks the game's season in summer. This is only intended to be used for Imaging purposes. |
 | `ServerAndGameInfoDock_RunningTimeDisplaySeconds` | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |
-| `ServerAndGameInfoDock_RunningTimeDisplaySeconds` | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
+| `ServerAndGameInfoDock_RunningTimeDisplayExactSeconds` | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
