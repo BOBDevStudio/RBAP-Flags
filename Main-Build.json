@@ -38,6 +38,6 @@
   
   "Season_LockInSummer": false,
   
-  "ServerAndGameInfoDock_RunningTimeDisplaySeconds": false,
-  "ServerAndGameInfoDock_RunningTimeDisplayExactSeconds": false
+  "ServerInfo_RunTimeDisplaySeconds": false,
+  "ServerInfo_RunTimeDisplayExactSeconds": false
 }

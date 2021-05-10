@@ -4,6 +4,6 @@
   "Dock_CreditsDockVisible": true,
   "GameRooms_UnbitternessSaysEnabled": true,
   "OldGameRoomsCeremony_TimeCheckTime": 15,
-  "ServerAndGameInfoDock_RunningTimeDisplaySeconds": true,
-  "ServerAndGameInfoDock_RunningTimeDisplayExactSeconds": true
+  "ServerInfo_RunTimeDisplaySeconds": true,
+  "ServerInfo_RunTimeDisplayExactSeconds": true
 }
