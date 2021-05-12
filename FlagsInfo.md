@@ -26,6 +26,7 @@
 | `Dock_StageVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `Dock_UpdateLogsDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `Dock_WeirdHillsDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DonationsDock_OpenOutsideMain` | `false` |  | `true` | Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build. |
 | `GameRooms_StartDelay` | `15` |  |  |  |
 | `GameRooms_UnbitternessSaysEnabled` | `false` |  | `true` |  |
 | `Intro_QuietAnimateScript` | `true` |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). |

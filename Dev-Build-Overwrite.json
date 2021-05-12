@@ -6,5 +6,6 @@
   "OldGameRoomsCeremony_TimeCheckTime": 15,
   "ServerInfo_RunTimeDisplaySeconds": true,
   "ServerInfo_RunTimeDisplayExactSeconds": true,
-  "Dock_NoStandingJokeDockVisible": true
+  "Dock_NoStandingJokeDockVisible": true,
+  "DonationsDock_OpenOutsideMain": true
 }

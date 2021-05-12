@@ -26,6 +26,8 @@
   "Dock_UpdateLogsDockVisible": true,
   "Dock_WeirdHillsDockVisible": true,
   
+  "DonationsDock_OpenOutsideMain": false,
+  
   "GameRooms_StartDelay": 15,
   "GameRooms_UnbitternessSaysEnabled": false,
   
