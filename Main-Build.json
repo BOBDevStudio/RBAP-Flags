@@ -15,7 +15,7 @@
   "Dock_LighthouseDockVisible": true,
   "Dock_MineDockVisible": true,
   "Dock_NPCsKeyDockVisible": true,
-  "Dock_NoStandingJokeDockVisible": false,
+  "Dock_NoStandingJokeDockVisible": true,
   "Dock_OldGameRoomsDockVisible": true,
   "Dock_RainbowDanceFloorDockVisible": true,
   "Dock_RobloxIconsDockVisible": true,
