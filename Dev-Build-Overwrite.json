@@ -4,6 +4,7 @@
   "Dock_CreditsDockVisible": true,
   "GameRooms_UnbitternessSaysEnabled": true,
   "OldGameRoomsCeremony_TimeCheckTime": "pls remove",
+  "OldGameRoomsCeremony_ClosingTime": "pls remove",
   "ServerInfo_RunTimeDisplaySeconds": true,
   "ServerInfo_RunTimeDisplayExactSeconds": true,
   "DonationsDock_OpenOutsideMain": true

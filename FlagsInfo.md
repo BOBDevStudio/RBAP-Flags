@@ -32,7 +32,7 @@
 | `GameRooms_UnbitternessSaysEnabled` | `false` |  | `true` |  |
 | `Intro_QuietAnimateScript` | `true` |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). |
 | `NameTag_TitleUpdatingEnabled` | `false` |  | `true` | Controls whether or not the title updating system is available. |
-| `OldGameRoomsCeremony_ClosingTime` | `1621839600` |  |  | Long story short this flag sets the time that the old game rooms dock will no longer appear in newer servers after. |
+| `OldGameRoomsCeremony_ClosingTime` | `1621839600` |  | *Removed* | Long story short this flag sets the time that the old game rooms dock will no longer appear in newer servers after. |
 | `OldGameRoomsCeremony_TimeCheckTime` | `60` |  | *Removed* | Similar to the `FlagsSystem_UpdateCheckTime` flag. |
 | `Season_ExtraLeafDetailEnabled` | `true` |  |  | Enables extra detail on the leaves of trees. |
 | `Season_LockInSummer` | `false` |  |  | Locks the game's season in summer. This is only intended to be used for imaging purposes. |
