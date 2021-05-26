@@ -7,5 +7,6 @@
   "OldGameRoomsCeremony_ClosingTime": "pls remove",
   "ServerInfo_RunTimeDisplaySeconds": true,
   "ServerInfo_RunTimeDisplayExactSeconds": true,
-  "DonationsDock_OpenOutsideMain": true
+  "DonationsDock_OpenOutsideMain": true,
+  "Dock_OldGameRoomsDockVisible": false
 }
