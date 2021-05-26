@@ -34,7 +34,8 @@
 | `NameTag_TitleUpdatingEnabled` | `false` |  | `true` | Controls whether or not the title updating system is available. |
 | `OldGameRoomsCeremony_ClosingTime` | `1621839600` |  |  | Long story short this flag sets the time that the old game rooms dock will no longer appear in newer servers after. |
 | `OldGameRoomsCeremony_TimeCheckTime` | `60` |  | `15` | Similar to the `FlagsSystem_UpdateCheckTime` flag. |
-| `Season_LockInSummer` | `false` |  |  | Locks the game's season in summer. This is only intended to be used for Imaging purposes. |
+| `Season_ExtraLeafDetailEnabled` | `true` |  |  | Enables extra detail on the leaves of trees. |
+| `Season_LockInSummer` | `false` |  |  | Locks the game's season in summer. This is only intended to be used for imaging purposes. |
 | `ServerInfo_RunTimeDisplaySeconds` | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |
 | `ServerInfo_RunTimeDisplayExactSeconds` | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
 
