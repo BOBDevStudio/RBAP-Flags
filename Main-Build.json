@@ -39,7 +39,7 @@
   "OldGameRoomsCeremony_ClosingTime": 1621839600,
   "OldGameRoomsCeremony_TimeCheckTime": 60,
   
-  "Season_ExtraLeafDetailEnabled": true,
+  "Season_ExtraLeafDetailEnabled": false,
   "Season_LockInSummer": false,
   
   "ServerInfo_RunTimeDisplaySeconds": false,
