@@ -1,6 +1,7 @@
 {
   "Game_IsMainBuild": false,
   "Game_IsPreUpdateBuild": true,
+  "Game_IsDevBuild": false,
   
   "Regulator_NotAllowedGroupRanks": [
     0,

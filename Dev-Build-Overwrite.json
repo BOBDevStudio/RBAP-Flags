@@ -3,6 +3,7 @@
   
   "Game_IsMainBuild": false,
   "Game_IsPreUpdateBuild": false,
+  "Game_IsDevBuild": true,
   
   "NameTag_TitleUpdatingEnabled": "pls remove",
   "Dock_CreditsDockVisible": true,
