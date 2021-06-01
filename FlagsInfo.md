@@ -1,6 +1,6 @@
 | Flag Name | Base Value | Pre-Update Build Overwrite | Dev Build Overwrite | Flag Info |
 |-|-|-|-|-|
-| `FlagsSystem_UpdateCheckTime` | `300` |  | `15` | Controls the number of seconds until the system should check if there's any updates to the flags. |
+| `FlagsSystem_UpdateCheckTime` | `300` - P |  | `15` | Controls the number of seconds until the system should check if there's any updates to the flags. |
 | `Regulator_NotAllowedGroupRanks` | P | `{0, 1, 3}` |  |  |
 | `Dock_BloxyStatueReMadeDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `Dock_BobTheMobDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
