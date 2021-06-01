@@ -1,4 +1,6 @@
 {
+  "Game_IsMainBuild": false,
+  
   "Regulator_NotAllowedGroupRanks": [
     0,
     1,

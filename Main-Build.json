@@ -1,6 +1,8 @@
 {
   "FlagsSystem_UpdateCheckTime": 300,
   
+  "Game_IsMainBuild": true,
+  
   "Dock_BloxyStatueReMadeDockVisible": true,
   "Dock_BobTheMobDockVisible": true,
   "Dock_CampFireDockVisible": true,
