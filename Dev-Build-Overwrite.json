@@ -2,6 +2,7 @@
   "FlagsSystem_UpdateCheckTime": 15,
   
   "Game_IsMainBuild": false,
+  "Game_IsPreUpdateBuild": false,
   
   "NameTag_TitleUpdatingEnabled": "pls remove",
   "Dock_CreditsDockVisible": true,
