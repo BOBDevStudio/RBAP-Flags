@@ -43,6 +43,6 @@
 ### Key:
 
 * `R` - Flag does not exist when that overwrite is used by the game. Useless when in used in a base value.
-* `P` - The value of the flag is protected by the game in someway.
+* `P` - The value of the flag is protected by the the flags system in someway.
 
 With the current implementation of the flags system all flags live update. Although the system that gathers the list of flags does live update, whether an individual flag live updates or not is actually dependent on the system that uses it.
