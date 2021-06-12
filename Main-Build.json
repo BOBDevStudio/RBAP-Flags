@@ -33,6 +33,7 @@
   "DonationsDock_OpenInStudio": true,
   "DonationsDock_OpenOutsideMain": false,
   
+  "GameRooms_ControlComputerEnabled": false,
   "GameRooms_StartDelay": 15,
   "GameRooms_UnbitternessSaysEnabled": false,
   
