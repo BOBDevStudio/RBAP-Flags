@@ -32,6 +32,7 @@ DonationsDock_OpenInStudio,true,,,false,Controls whether or not the donations do
 DonationsDock_OpenOutsideMain,false,,true,false,Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build.
 Files_MainBuildRecentUpdateLog,Update-Logs/Main-Build/Most-Recent-Update-Log,,,true,
 Files_PreUpdateBuildRecentUpdateLog,Update-Logs/Pre-Update-Build/Most-Recent-Update-Log,,,true,
+Files_DevBuildRecentUpdateLog,Update-Logs/Dev-Build/Most-Recent-Update-Log,,,true,
 GameRooms_ControlComputerEnabled,false,,,false,
 GameRooms_StartDelay,15,,,false,
 GameRooms_UnbitternessSaysEnabled,false,,true,false,
