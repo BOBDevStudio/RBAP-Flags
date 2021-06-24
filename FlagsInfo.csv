@@ -34,6 +34,7 @@ Files_MainBuildRecentUpdateLog,Update-Logs/Main-Build/Most-Recent-Update-Log,,,t
 Files_PreUpdateBuildRecentUpdateLog,Update-Logs/Pre-Update-Build/Most-Recent-Update-Log,,,true,
 Files_DevBuildRecentUpdateLog,Update-Logs/Dev-Build/Most-Recent-Update-Log,,,true,
 Files_MainBuildGameVersion,Game-Version/Main-Build,,,true,
+Files_PreUpdateBuildGameVersion,Game-Version/Pre-Update-Build,,,true,
 GameRooms_ControlComputerEnabled,false,,,false,
 GameRooms_StartDelay,15,,,false,
 GameRooms_UnbitternessSaysEnabled,false,,true,false,
