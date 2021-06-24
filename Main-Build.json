@@ -34,6 +34,7 @@
   "DonationsDock_OpenOutsideMain": false,
   
   "Files_MainBuildRecentUpdateLog": "Update-Logs/Main-Build/Most-Recent-Update-Log",
+  "Files_PreUpdateBuildRecentUpdateLog": "Update-Logs/Pre-Update-Build/Most-Recent-Update-Log",
   
   "GameRooms_ControlComputerEnabled": false,
   "GameRooms_StartDelay": 15,

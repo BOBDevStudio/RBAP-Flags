@@ -32,6 +32,7 @@
 | `DonationsDock_OpenInStudio` | `true` |  |  | Controls whether or not the donations dock's dock entrance is open in studio |
 | `DonationsDock_OpenOutsideMain` | `false` |  | `true` | Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build. |
 | `Files_MainBuildRecentUpdateLog` | `Update-Logs/Main-Build/Most-Recent-Update-Log` - P |  |  |  |
+| `Files_PreUpdateBuildRecentUpdateLog` | `Update-Logs/Pre-Update-Build/Most-Recent-Update-Log` - P |  |  |  |
 | `GameRooms_ControlComputerEnabled` | `false` |  |  |  |
 | `GameRooms_StartDelay` | `15` |  |  |  |
 | `GameRooms_UnbitternessSaysEnabled` | `false` |  | `true` |  |
