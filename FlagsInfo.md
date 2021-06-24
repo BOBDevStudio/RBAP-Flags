@@ -36,6 +36,7 @@
 | `Files_DevBuildRecentUpdateLog` | `Update-Logs/Dev-Build/Most-Recent-Update-Log` - P |  |  |  |
 | `Files_MainBuildGameVersion` | `Game-Version/Main-Build` - P |  |  |  |
 | `Files_PreUpdateBuildGameVersion` | `Game-Version/Pre-Update-Build` - P |  |  |  |
+| `Files_DevBuildGameVersion` | `Game-Version/Dev-Build` - P |  |  |  |
 | `GameRooms_ControlComputerEnabled` | `false` |  |  |  |
 | `GameRooms_StartDelay` | `15` |  |  |  |
 | `GameRooms_UnbitternessSaysEnabled` | `false` |  | `true` |  |

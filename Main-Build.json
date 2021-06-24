@@ -38,6 +38,7 @@
   "Files_DevBuildRecentUpdateLog": "Update-Logs/Dev-Build/Most-Recent-Update-Log",
   "Files_MainBuildGameVersion": "Game-Version/Main-Build",
   "Files_PreUpdateBuildGameVersion": "Game-Version/Pre-Update-Build",
+  "Files_DevBuildGameVersion": "Game-Version/Dev-Build",
   
   "GameRooms_ControlComputerEnabled": false,
   "GameRooms_StartDelay": 15,
