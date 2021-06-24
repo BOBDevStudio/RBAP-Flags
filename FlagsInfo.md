@@ -40,11 +40,8 @@
 | `GameRooms_ControlComputerEnabled` | `false` |  |  |  |
 | `GameRooms_StartDelay` | `15` |  |  |  |
 | `GameRooms_UnbitternessSaysEnabled` | `false` |  | `true` |  |
-| `Intro_QuietAnimateScript` | `true` |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). |
-| `NameTag_TitlePreferencePlaceKeep` | `false` |  | `true` | Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates. This is disabled in the main build for now but will *eventually* have to be enabled. |
-| `NameTag_TitleUpdatingEnabled` | `false` |  | R | Controls whether or not the title updating system is available. |
-| `OldGameRoomsCeremony_ClosingTime` | `1621839600` |  | R | Long story short this flag sets the time that the old game rooms dock will no longer appear in newer servers after. |
-| `OldGameRoomsCeremony_TimeCheckTime` | `60` |  | R | Similar to the `FlagsSystem_UpdateCheckTime` flag. |
+| `Intro_QuietAnimateScript` | `false` |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
+| `NameTag_TitlePreferencePlaceKeep` | `true` |  |  | Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates. |
 | `Season_ExtraLeafDetailEnabled` | `false` |  | `true` | Enables extra detail on the leaves of trees. |
 | `Season_LockInSummer` | `false` |  |  | Locks the game's season in summer. This is only intended to be used for imaging purposes. |
 | `ServerInfo_RunTimeDisplaySeconds` | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |

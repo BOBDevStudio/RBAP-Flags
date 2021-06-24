@@ -44,13 +44,9 @@
   "GameRooms_StartDelay": 15,
   "GameRooms_UnbitternessSaysEnabled": false,
   
-  "Intro_QuietAnimateScript": true,
+  "Intro_QuietAnimateScript": false,
   
-  "NameTag_TitlePreferencePlaceKeep": false,
-  "NameTag_TitleUpdatingEnabled": false,
-  
-  "OldGameRoomsCeremony_ClosingTime": 1621839600,
-  "OldGameRoomsCeremony_TimeCheckTime": 60,
+  "NameTag_TitlePreferencePlaceKeep": true,
   
   "Season_ExtraLeafDetailEnabled": false,
   "Season_LockInSummer": false,

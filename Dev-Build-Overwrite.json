@@ -5,15 +5,11 @@
   "Game_IsPreUpdateBuild": false,
   "Game_IsDevBuild": true,
   
-  "NameTag_TitleUpdatingEnabled": "pls remove",
   "Dock_CreditsDockVisible": true,
   "GameRooms_UnbitternessSaysEnabled": true,
-  "OldGameRoomsCeremony_TimeCheckTime": "pls remove",
-  "OldGameRoomsCeremony_ClosingTime": "pls remove",
   "ServerInfo_RunTimeDisplaySeconds": true,
   "ServerInfo_RunTimeDisplayExactSeconds": true,
   "DonationsDock_OpenOutsideMain": true,
   "Dock_OldGameRoomsDockVisible": false,
-  "Season_ExtraLeafDetailEnabled": true,
-  "NameTag_TitlePreferencePlaceKeep": false
+  "Season_ExtraLeafDetailEnabled": true
 }
