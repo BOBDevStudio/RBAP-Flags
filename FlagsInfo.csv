@@ -33,6 +33,7 @@ DonationsDock_OpenOutsideMain,false,,true,false,Controls whether or not the dona
 Files_MainBuildRecentUpdateLog,Update-Logs/Main-Build/Most-Recent-Update-Log,,,true,
 Files_PreUpdateBuildRecentUpdateLog,Update-Logs/Pre-Update-Build/Most-Recent-Update-Log,,,true,
 Files_DevBuildRecentUpdateLog,Update-Logs/Dev-Build/Most-Recent-Update-Log,,,true,
+Files_MainBuildGameVersion,Game-Version/Main-Build,,,true,
 GameRooms_ControlComputerEnabled,false,,,false,
 GameRooms_StartDelay,15,,,false,
 GameRooms_UnbitternessSaysEnabled,false,,true,false,
