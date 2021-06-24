@@ -31,6 +31,7 @@
 | `Dock_WeirdHillsDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DonationsDock_OpenInStudio` | `true` |  |  | Controls whether or not the donations dock's dock entrance is open in studio |
 | `DonationsDock_OpenOutsideMain` | `false` |  | `true` | Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build. |
+| `Files_MainBuildRecentUpdateLog` | `Update-Logs/Main-Build/Most-Recent-Update-Log` - P |  |  |  |
 | `GameRooms_ControlComputerEnabled` | `false` |  |  |  |
 | `GameRooms_StartDelay` | `15` |  |  |  |
 | `GameRooms_UnbitternessSaysEnabled` | `false` |  | `true` |  |

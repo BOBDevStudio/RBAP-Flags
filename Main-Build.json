@@ -33,6 +33,8 @@
   "DonationsDock_OpenInStudio": true,
   "DonationsDock_OpenOutsideMain": false,
   
+  "Files_MainBuildRecentUpdateLog": "Update-Logs/Main-Build/Most-Recent-Update-Log",
+  
   "GameRooms_ControlComputerEnabled": false,
   "GameRooms_StartDelay": 15,
   "GameRooms_UnbitternessSaysEnabled": false,
