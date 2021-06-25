@@ -23,11 +23,11 @@
   "Dock_OldGameRoomsDockVisible": true,
   "Dock_RainbowDanceFloorDockVisible": true,
   "Dock_RobloxIconsDockVisible": true,
-  "Dock_ServerAndGameInfoDockVisible": true,
+  "Dock_ServerAndGameInfoDockVisible": false,
   "Dock_WindowShowcaseDockVisible": true,
   "Dock_WindowShowcaseV2DockVisible": true,
   "Dock_StageVisible": true,
-  "Dock_UpdateLogsDockVisible": true,
+  "Dock_UpdateLogsDockVisible": false,
   "Dock_WeirdHillsDockVisible": true,
   
   "DonationsDock_OpenInStudio": true,

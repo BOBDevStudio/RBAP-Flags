@@ -11,5 +11,7 @@
   "ServerInfo_RunTimeDisplayExactSeconds": true,
   "DonationsDock_OpenOutsideMain": true,
   "Dock_OldGameRoomsDockVisible": false,
-  "Season_ExtraLeafDetailEnabled": true
+  "Season_ExtraLeafDetailEnabled": true,
+  "Dock_ServerAndGameInfoDockVisible": true,
+  "Dock_UpdateLogsDockVisible": true
 }
