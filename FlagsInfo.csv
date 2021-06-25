@@ -11,7 +11,7 @@ Dock_ColorBlocksDockVisible,false,,,false,Toggles whether or not the correspondi
 Dock_ColorMixerDockVisible,false,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 Dock_ConstructionBarrierDockVisible,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 Dock_CreditsDockVisible,false,,true,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-Dock_DonationsDockVisible,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+Dock_DonationsDockVisible,false,,true,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 Dock_GameRoomsDockVisible,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 Dock_IceCubeTrayDcokVisible,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 Dock_IndustrialLightDockVisible,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.

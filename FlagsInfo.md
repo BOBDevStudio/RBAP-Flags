@@ -12,7 +12,7 @@
 | `Dock_ColorMixerDockVisible` | `false` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `Dock_ConstructionBarrierDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `Dock_CreditsDockVisible` | `false` |  | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_DonationsDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `Dock_DonationsDockVisible` | `false` |  | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `Dock_GameRoomsDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `Dock_IceCubeTrayDcokVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `Dock_IndustrialLightDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |

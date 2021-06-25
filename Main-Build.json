@@ -12,7 +12,7 @@
   "Dock_ColorMixerDockVisible": false,
   "Dock_ConstructionBarrierDockVisible": true,
   "Dock_CreditsDockVisible": false,
-  "Dock_DonationsDockVisible": true,
+  "Dock_DonationsDockVisible": false,
   "Dock_GameRoomsDockVisible": true,
   "Dock_IceCubeTrayDcokVisible": true,
   "Dock_IndustrialLightDockVisible": true,

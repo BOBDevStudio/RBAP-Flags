@@ -13,5 +13,6 @@
   "Dock_OldGameRoomsDockVisible": false,
   "Season_ExtraLeafDetailEnabled": true,
   "Dock_ServerAndGameInfoDockVisible": true,
-  "Dock_UpdateLogsDockVisible": true
+  "Dock_UpdateLogsDockVisible": true,
+  "Dock_DonationsDockVisible": true
 }
