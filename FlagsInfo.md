@@ -23,11 +23,11 @@
 | `Dock_OldGameRoomsDockVisible` | `true` |  | `false` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `Dock_RainbowDanceFloorDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `Dock_RobloxIconsDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_ServerAndGameInfoDockVisible` | `false` |  | `true` |  Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.|
+| `Dock_ServerAndGameInfoDockVisible` | `true` |  |  |  Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.|
 | `Dock_WindowShowcaseDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `Dock_WindowShowcaseV2DockVisible` | `true` |  |  |  Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.|
 | `Dock_StageVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_UpdateLogsDockVisible` | `false` |  | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `Dock_UpdateLogsDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `Dock_WeirdHillsDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DonationsDock_OpenInStudio` | `true` |  |  | Controls whether or not the donations dock's dock entrance is open in studio |
 | `DonationsDock_OpenOutsideMain` | `false` |  | `true` | Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build. |
