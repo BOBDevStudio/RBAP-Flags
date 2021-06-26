@@ -5,7 +5,7 @@
   "Game_IsPreUpdateBuild": false,
   "Game_IsDevBuild": true,
   
-  "GameRooms_UnbitternessSaysEnabled": true,
+  "GameRooms_UnbitternessSaysEnabled": "pls remove",
   "ServerInfo_RunTimeDisplaySeconds": true,
   "ServerInfo_RunTimeDisplayExactSeconds": true,
   "DonationsDock_OpenOutsideMain": true,

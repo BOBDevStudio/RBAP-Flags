@@ -39,7 +39,7 @@
 | `Files_DevBuildGameVersion` | `Game-Version/Dev-Build` - P |  |  |  |
 | `GameRooms_ControlComputerEnabled` | `false` |  |  |  |
 | `GameRooms_StartDelay` | `15` |  |  |  |
-| `GameRooms_UnbitternessSaysEnabled` | `false` |  | `true` |  |
+| `GameRooms_UnbitternessSaysEnabled` | `false` |  | R |  |
 | `Intro_QuietAnimateScript` | `false` |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
 | `NameTag_TitlePreferencePlaceKeep` | `true` |  |  | Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates. |
 | `Season_ExtraLeafDetailEnabled` | `false` |  | `true` | Enables extra detail on the leaves of trees. |
