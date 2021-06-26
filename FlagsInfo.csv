@@ -19,7 +19,7 @@ Dock_LighthouseDockVisible,true,,,false,Toggles whether or not the corresponding
 Dock_MineDockVisible,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 Dock_NPCsKeyDockVisible,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 Dock_NoStandingJokeDockVisible,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-Dock_OldGameRoomsDockVisible,true,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+Dock_OldGameRoomsDockVisible,false,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 Dock_RainbowDanceFloorDockVisible,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 Dock_RobloxIconsDockVisible,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 Dock_ServerAndGameInfoDockVisible,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.

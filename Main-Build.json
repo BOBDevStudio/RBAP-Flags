@@ -19,7 +19,7 @@
   "Dock_MineDockVisible": true,
   "Dock_NPCsKeyDockVisible": true,
   "Dock_NoStandingJokeDockVisible": true,
-  "Dock_OldGameRoomsDockVisible": true,
+  "Dock_OldGameRoomsDockVisible": false,
   "Dock_RainbowDanceFloorDockVisible": true,
   "Dock_RobloxIconsDockVisible": true,
   "Dock_ServerAndGameInfoDockVisible": true,
