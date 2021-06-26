@@ -65,6 +65,7 @@
   
   "GameRooms_ControlComputerEnabled": false,
   "GameRooms_StartDelay": 15,
+  "GameRooms_Game": 24,
   "GameRooms_UnbitternessSaysEnabled": false,
   
   "Intro_QuietAnimateScript": false,

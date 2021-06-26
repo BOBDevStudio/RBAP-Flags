@@ -38,6 +38,7 @@ Files_PreUpdateBuildGameVersion,Game-Version/Pre-Update-Build,,,true,
 Files_DevBuildGameVersion,Game-Version/Dev-Build,,,true,
 GameRooms_ControlComputerEnabled,false,,,false,
 GameRooms_StartDelay,15,,,false,
+GameRooms_Game,24,,,true,
 GameRooms_UnbitternessSaysEnabled,false,,[Removed],false,
 Intro_QuietAnimateScript,false,,,false,Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness.
 NameTag_TitlePreferencePlaceKeep,true,,,false,"Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates."
