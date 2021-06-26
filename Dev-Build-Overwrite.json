@@ -5,7 +5,6 @@
   "Game_IsPreUpdateBuild": false,
   "Game_IsDevBuild": true,
   
-  "Dock_CreditsDockVisible": true,
   "GameRooms_UnbitternessSaysEnabled": true,
   "ServerInfo_RunTimeDisplaySeconds": true,
   "ServerInfo_RunTimeDisplayExactSeconds": true,
