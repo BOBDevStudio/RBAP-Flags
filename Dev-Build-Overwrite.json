@@ -10,5 +10,5 @@
   "ServerInfo_RunTimeDisplayExactSeconds": true,
   "DonationsDock_OpenOutsideMain": true,
   "Season_ExtraLeafDetailEnabled": true,
-  "Dock_DonationsDockVisible": true
+  "DockEnabled_DonationsDock": true
 }

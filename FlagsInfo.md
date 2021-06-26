@@ -5,32 +5,32 @@
 | `Game_IsPreUpdateBuild` | `false` - P | `true` | `false` |  |
 | `Game_IsDevBuild` | `false` - P | `false` | `true` |  |
 | `Regulator_NotAllowedGroupRanks` | P | `{0, 1, 3}` |  |  |
-| `Dock_BloxyStatueReMadeDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_BobTheMobDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_CampFireDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_ColorBlocksDockVisible` | `false` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_ColorMixerDockVisible` | `false` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_ConstructionBarrierDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_CreditsDockVisible` | `false` |  | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_DonationsDockVisible` | `false` |  | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_GameRoomsDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_IceCubeTrayDcokVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_IndustrialLightDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_LighthouseDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_MineDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_NPCsKeyDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_NoStandingJokeDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_OldGameRoomsDockVisible` | `false` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_RainbowDanceFloorDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_RobloxIconsDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_ServerAndGameInfoDockVisible` | `true` |  |  |  Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.|
-| `Dock_WindowShowcaseDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_WindowShowcaseV2DockVisible` | `true` |  |  |  Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.|
-| `Dock_StageVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_UpdateLogsDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `Dock_WeirdHillsDockVisible` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `DonationsDock_OpenInStudio` | `true` |  |  | Controls whether or not the donations dock's dock entrance is open in studio |
-| `DonationsDock_OpenOutsideMain` | `false` |  | `true` | Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build. |
+| `DockEnabled_BloxyStatueReMadeDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_BobTheMobDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_CampFireDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_ColorBlocksDock` | `false` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_ColorMixerDock` | `false` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_ConstructionBarrierDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_CreditsDock` | `false` |  | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_DonationsDock` | `false` |  | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_GameRoomsDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_IceCubeTrayDcok` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_IndustrialLightDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_LighthouseDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_MineDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_NPCsKeyDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_NoStandingJokeDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_OldGameRoomsDock` | `false` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_RainbowDanceFloorDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_RobloxIconsDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_ServerAndGameInfoDock` | `true` |  |  |  Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.|
+| `DockEnabled_WindowShowcaseDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_WindowShowcaseV2Dock` | `true` |  |  |  Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.|
+| `DockEnabled_Stage` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_UpdateLogsDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_WeirdHillsDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DonationsDockEnabled_OpenInStudio` | `true` |  |  | Controls whether or not the donations dock's dock entrance is open in studio |
+| `DonationsDockEnabled_OpenOutsideMain` | `false` |  | `true` | Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build. |
 | `Files_MainBuildRecentUpdateLog` | `Update-Logs/Main-Build/Most-Recent-Update-Log` - P |  |  |  |
 | `Files_PreUpdateBuildRecentUpdateLog` | `Update-Logs/Pre-Update-Build/Most-Recent-Update-Log` - P |  |  |  |
 | `Files_DevBuildRecentUpdateLog` | `Update-Logs/Dev-Build/Most-Recent-Update-Log` - P |  |  |  |
