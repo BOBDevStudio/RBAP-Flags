@@ -11,6 +11,7 @@
   "DonationsDock_OpenOutsideMain": true,
   "Season_ExtraLeafDetailEnabled": true,
   "DockEnabled_DonationsDock": true,
+  "DockEnabled_OldGameRoomsDock": true,
   
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
