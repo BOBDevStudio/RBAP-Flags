@@ -31,6 +31,7 @@
 | `DockEnabled_WeirdHillsDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DonationsDockEnabled_OpenInStudio` | `true` |  |  | Controls whether or not the donations dock's dock entrance is open in studio |
 | `DonationsDockEnabled_OpenOutsideMain` | `false` |  | `true` | Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build. |
+| `Entrance_ArrivalTimeSignsEnabled` | `false` |  | `true` | This controls weather or not a sign that displays the time until the elevator arrives is enabled. BOB made it mostly just as a fun side project and is likely to not be enabled outside of the dev build for some time. |
 | `Files_MainBuildRecentUpdateLog` | `Update-Logs/Main-Build/Most-Recent-Update-Log` - P |  |  |  |
 | `Files_PreUpdateBuildRecentUpdateLog` | `Update-Logs/Pre-Update-Build/Most-Recent-Update-Log` - P |  |  |  |
 | `Files_DevBuildRecentUpdateLog` | `Update-Logs/Dev-Build/Most-Recent-Update-Log` - P |  |  |  |

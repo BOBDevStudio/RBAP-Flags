@@ -56,6 +56,8 @@
   "DonationsDock_OpenInStudio": true,
   "DonationsDock_OpenOutsideMain": false,
   
+  "Entrance_ArrivalTimeSignsEnabled": false,
+  
   "Files_MainBuildRecentUpdateLog": "Update-Logs/Main-Build/Most-Recent-Update-Log",
   "Files_PreUpdateBuildRecentUpdateLog": "Update-Logs/Pre-Update-Build/Most-Recent-Update-Log",
   "Files_DevBuildRecentUpdateLog": "Update-Logs/Dev-Build/Most-Recent-Update-Log",
