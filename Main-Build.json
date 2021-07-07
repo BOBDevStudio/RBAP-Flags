@@ -5,8 +5,6 @@
   "Game_IsPreUpdateBuild": false,
   "Game_IsDevBuild": false,
   
-  "Chat_RemadeSystemMessageEnabled": true,
-  
   "Dock_BloxyStatueReMadeDockVisible": true,
   "Dock_BobTheMobDockVisible": true,
   "Dock_CampFireDockVisible": true,

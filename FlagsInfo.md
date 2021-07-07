@@ -5,7 +5,6 @@
 | `Game_IsPreUpdateBuild` | `false` - P | `true` | `false` |  |
 | `Game_IsDevBuild` | `false` - P | `false` | `true` |  |
 | `Regulator_NotAllowedGroupRanks` | P | `{0, 1, 3}` |  |  |
-| `Chat_RemadeSystemMessageEnabled` | `true` |  |  | Enables or disables the custom look of messages from the chat system. |
 | `DockEnabled_BloxyStatueReMadeDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_BobTheMobDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_CampFireDock` | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
