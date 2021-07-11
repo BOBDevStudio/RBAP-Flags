@@ -1,4 +1,4 @@
-Flag Name,Base Value,Pre-Update Build Overwrite,Dev Build Overwrite,Protected,Live Updates.Flag Info
+Flag Name,Base Value,Pre-Update Build Overwrite,Dev Build Overwrite,Protected,Live Updates,Flag Info
 FlagsSystem_UpdateCheckTime,300,,15,true,false,Controls the number of seconds until the system should check if there's any updates to the flags.
 Game_IsMainBuild,true,false,false,true,false,
 Game_IsPreUpdateBuild,false,true,false,true,false,
