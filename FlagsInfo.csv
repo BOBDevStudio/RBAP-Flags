@@ -1,51 +1,51 @@
-Flag Name,Base Value,Pre-Update Build Overwrite,Dev Build Overwrite,Protected,Flag Info
-FlagsSystem_UpdateCheckTime,300,,15,true,Controls the number of seconds until the system should check if there's any updates to the flags.
-Game_IsMainBuild,true,false,false,true,
-Game_IsPreUpdateBuild,false,true,false,true,
-Game_IsDevBuild,false,false,true,true,
-Regulator_NotAllowedGroupRanks,,"{0, 1, 3}",,true,
-DockEnabled_BloxyStatueReMadeDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_BobTheMobDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_CampFireDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_ColorBlocksDock,false,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_ColorMixerDock,false,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_ConstructionBarrierDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_CreditsDock,false,,true,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_DonationsDock,false,,true,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_GameRoomsDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_IceCubeTrayDcok,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_IndustrialLightDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_LighthouseDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_MineDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_NPCsKeyDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_NoStandingJokeDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_OldGameRoomsDock,false,,true,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_RainbowDanceFloorDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_RobloxIconsDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_ServerAndGameInfoDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_WindowShowcaseDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_WindowShowcaseV2Dock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_Stage,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_UpdateLogsDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_WeirdHillsDock,true,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DonationsDockEnabled_OpenInStudio,true,,,false,Controls whether or not the donations dock's dock entrance is open in studio
-DonationsDockEnabled_OpenOutsideMain,false,,true,false,Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build.
-Entrance_ArrivalTimeSignsEnabled,false,,true,false,This controls weather or not a sign that displays the time until the elevator arrives is enabled. BOB made it mostly just as a fun side project and is likely to not be enabled outside of the dev build for some time.
-Files_MainBuildRecentUpdateLog,Update-Logs/Main-Build/Most-Recent-Update-Log,,,true,
-Files_PreUpdateBuildRecentUpdateLog,Update-Logs/Pre-Update-Build/Most-Recent-Update-Log,,,true,
-Files_DevBuildRecentUpdateLog,Update-Logs/Dev-Build/Most-Recent-Update-Log,,,true,
-Files_MainBuildGameVersion,Game-Version/Main-Build,,,true,
-Files_PreUpdateBuildGameVersion,Game-Version/Pre-Update-Build,,,true,
-Files_DevBuildGameVersion,Game-Version/Dev-Build,,,true,
-GameRooms_ControlComputerEnabled,false,,,false,
-GameRooms_StartDelay,15,,,false,
-GameRooms_Game,24,,,true,
-GameRooms_UnbitternessSaysEnabled,false,,[Removed],false,
-Intro_QuietAnimateScript,false,,,false,Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness.
-NameTag_TitlePreferencePlaceKeep,true,,,false,"Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates."
-Season_ExtraLeafDetailEnabled,false,,true,false,Enables extra detail on the leaves of trees.
-Season_LockInSummer,false,,,false,Locks the game's season in summer. This is only intended to be used for imaging purposes.
-ServerInfo_RunTimeDisplaySeconds,false,,true,false,Controls whether or not the Server Running Time statistic on the server and game info dock will display seconds.
-ServerInfo_RunTimeDisplayExactSeconds,false,,true,false,Controls whether or not the Server Running Time statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build.
-TimeZone_Difference,-7,,,true,
-TimeZone_Name,PDT,,,true,
+Flag Name,Base Value,Pre-Update Build Overwrite,Dev Build Overwrite,Protected,Live Updates.Flag Info
+FlagsSystem_UpdateCheckTime,300,,15,true,false,Controls the number of seconds until the system should check if there's any updates to the flags.
+Game_IsMainBuild,true,false,false,true,false,
+Game_IsPreUpdateBuild,false,true,false,true,false,
+Game_IsDevBuild,false,false,true,true,false,
+Regulator_NotAllowedGroupRanks,,"{0, 1, 3}",,true,false,
+DockEnabled_BloxyStatueReMadeDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_BobTheMobDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_CampFireDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_ColorBlocksDock,false,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_ColorMixerDock,false,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_ConstructionBarrierDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_CreditsDock,false,,true,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_DonationsDock,false,,true,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_GameRoomsDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_IceCubeTrayDcok,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_IndustrialLightDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_LighthouseDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_MineDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_NPCsKeyDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_NoStandingJokeDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_OldGameRoomsDock,false,,true,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_RainbowDanceFloorDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_RobloxIconsDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_ServerAndGameInfoDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_WindowShowcaseDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_WindowShowcaseV2Dock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_Stage,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_UpdateLogsDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_WeirdHillsDock,true,,,false,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DonationsDockEnabled_OpenInStudio,true,,,false,false,Controls whether or not the donations dock's dock entrance is open in studio
+DonationsDockEnabled_OpenOutsideMain,false,,true,false,false,Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build.
+Entrance_ArrivalTimeSignsEnabled,false,,true,false,false,This controls weather or not a sign that displays the time until the elevator arrives is enabled. BOB made it mostly just as a fun side project and is likely to not be enabled outside of the dev build for some time.
+Files_MainBuildRecentUpdateLog,Update-Logs/Main-Build/Most-Recent-Update-Log,,,true,false,
+Files_PreUpdateBuildRecentUpdateLog,Update-Logs/Pre-Update-Build/Most-Recent-Update-Log,,,true,false,
+Files_DevBuildRecentUpdateLog,Update-Logs/Dev-Build/Most-Recent-Update-Log,,,true,false,
+Files_MainBuildGameVersion,Game-Version/Main-Build,,,true,false,
+Files_PreUpdateBuildGameVersion,Game-Version/Pre-Update-Build,,,true,false,
+Files_DevBuildGameVersion,Game-Version/Dev-Build,,,true,false,
+GameRooms_ControlComputerEnabled,false,,,false,false,
+GameRooms_StartDelay,15,,,false,false,
+GameRooms_Game,24,,,true,false,
+GameRooms_UnbitternessSaysEnabled,false,,[Removed],false,false,
+Intro_QuietAnimateScript,false,,,false,false,Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness.
+NameTag_TitlePreferencePlaceKeep,true,,,false,false,"Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates."
+Season_ExtraLeafDetailEnabled,false,,true,false,false,Enables extra detail on the leaves of trees.
+Season_LockInSummer,false,,,false,false,Locks the game's season in summer. This is only intended to be used for imaging purposes.
+ServerInfo_RunTimeDisplaySeconds,false,,true,false,false,Controls whether or not the Server Running Time statistic on the server and game info dock will display seconds.
+ServerInfo_RunTimeDisplayExactSeconds,false,,true,false,false,Controls whether or not the Server Running Time statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build.
+TimeZone_Difference,-7,,,true,false,
+TimeZone_Name,PDT,,,true,false,
