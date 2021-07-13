@@ -1,10 +1,8 @@
 {
   "FlagsSystem_UpdateCheckTime": 15,
-  
   "Game_IsMainBuild": false,
   "Game_IsPreUpdateBuild": false,
   "Game_IsDevBuild": true,
-  
   "GameRooms_UnbitternessSaysEnabled": "pls remove",
   "ServerInfo_RunTimeDisplaySeconds": true,
   "ServerInfo_RunTimeDisplayExactSeconds": true,
@@ -13,6 +11,5 @@
   "DockEnabled_DonationsDock": true,
   "DockEnabled_OldGameRoomsDock": true,
   "Entrance_ArrivalTimeSignsEnabled": true,
-  
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }

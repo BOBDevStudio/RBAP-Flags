@@ -1,10 +1,8 @@
 {
   "FlagsSystem_UpdateCheckTime": 300,
-  
   "Game_IsMainBuild": true,
   "Game_IsPreUpdateBuild": false,
   "Game_IsDevBuild": false,
-  
   "Dock_BloxyStatueReMadeDockVisible": true,
   "Dock_BobTheMobDockVisible": true,
   "Dock_CampFireDockVisible": true,
@@ -28,7 +26,6 @@
   "Dock_StageVisible": true,
   "Dock_UpdateLogsDockVisible": true,
   "Dock_WeirdHillsDockVisible": true,
-  
   "DockEnabled_BloxyStatueReMadeDock": true,
   "DockEnabled_BobTheMobDock": true,
   "DockEnabled_CampFireDock": true,
@@ -52,36 +49,26 @@
   "DockEnabled_Stage": true,
   "DockEnabled_UpdateLogsDock": true,
   "DockEnabled_WeirdHillsDock": true,
-  
   "DonationsDock_OpenInStudio": true,
   "DonationsDock_OpenOutsideMain": false,
-  
   "Entrance_ArrivalTimeSignsEnabled": false,
-  
   "Files_MainBuildRecentUpdateLog": "Update-Logs/Main-Build/Most-Recent-Update-Log",
   "Files_PreUpdateBuildRecentUpdateLog": "Update-Logs/Pre-Update-Build/Most-Recent-Update-Log",
   "Files_DevBuildRecentUpdateLog": "Update-Logs/Dev-Build/Most-Recent-Update-Log",
   "Files_MainBuildGameVersion": "Game-Version/Main-Build",
   "Files_PreUpdateBuildGameVersion": "Game-Version/Pre-Update-Build",
   "Files_DevBuildGameVersion": "Game-Version/Dev-Build",
-  
   "GameRooms_ControlComputerEnabled": false,
   "GameRooms_StartDelay": 15,
   "GameRooms_Game": 24,
   "GameRooms_UnbitternessSaysEnabled": false,
-  
   "Intro_QuietAnimateScript": false,
-  
   "NameTag_TitlePreferencePlaceKeep": true,
-  
   "Season_ExtraLeafDetailEnabled": false,
   "Season_LockInSummer": false,
-  
   "ServerInfo_RunTimeDisplaySeconds": false,
   "ServerInfo_RunTimeDisplayExactSeconds": false,
-  
   "TimeZone_Difference": -7,
   "TimeZone_Name": "PDT",
-  
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
