@@ -72,7 +72,7 @@
 | ServerInfo_RunTimeDisplaySeconds | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |
 | TimeUnifier_Enabled |  |  | `false` | Toggles whether or not a new not quite ready system is enabled. This flag is only temporary and will likely be removed by Saturday. |
 | TimeZone_Difference | `-7` - PU |  |  |  |
-| TimeZone_Name | `PDT` - P |  |  |  |
+| TimeZone_Name | `PDT` - PU |  |  |  |
 
 ### Key:
 
