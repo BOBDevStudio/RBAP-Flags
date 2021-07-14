@@ -7,7 +7,6 @@
   "Game_IsDevBuild": true,
   "Game_IsMainBuild": false,
   "Game_IsPreUpdateBuild": false,
-  "GameRooms_Game": 14,
   "GameRooms_UnbitternessSaysEnabled": "pls remove",
   "Season_ExtraLeafDetailEnabled": true,
   "ServerInfo_RunTimeDisplayExactSeconds": true,

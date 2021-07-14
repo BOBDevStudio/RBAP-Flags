@@ -60,7 +60,7 @@
 | Game_IsMainBuild | `true` - P | `false` | `false` |  |
 | Game_IsPreUpdateBuild | `false` - P | `true` | `false` |  |
 | GameRooms_ControlComputerEnabled | `false` |  |  |  |
-| GameRooms_Game | `24` - P |  | `14` |  |
+| GameRooms_Game | `24` - P | `14` |  |  |
 | GameRooms_StartDelay | `15` |  |  |  |
 | GameRooms_UnbitternessSaysEnabled | `false` |  | R |  |
 | Intro_QuietAnimateScript | `false` |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
