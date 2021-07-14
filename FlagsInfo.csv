@@ -71,4 +71,4 @@ ServerInfo_RunTimeDisplayExactSeconds,false,,true,false,false,Controls whether o
 ServerInfo_RunTimeDisplaySeconds,false,,true,false,false,Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds.
 TimeUnifier_Enabled,,,false,false,false,Toggles whether or not a new not quite ready system is enabled. This flag is only temporary and will likely be removed by Saturday.
 TimeZone_Difference,-7,,,true,true,
-TimeZone_Name,PDT,,,true,false,
+TimeZone_Name,PDT,,,true,true,
