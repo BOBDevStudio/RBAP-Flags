@@ -66,7 +66,7 @@
 | Intro_QuietAnimateScript | `false` |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
 | NameTag_TitlePreferencePlaceKeep | `true` |  |  | Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates. |
 | Regulator_NotAllowedGroupRanks | P | `[0,1,3]` |  |  |
-| Season_ExtraLeafDetailEnabled | `false` |  | `true` | Enables extra detail on the leaves of trees. |
+| Season_ExtraLeafDetailEnabled | `false` | `true` | `true` | Enables extra detail on the leaves of trees. |
 | Season_LockInSummer | `false` |  |  | Locks the game's season in summer. This is only intended to be used for imaging purposes. |
 | ServerInfo_RunTimeDisplayExactSeconds | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
 | ServerInfo_RunTimeDisplaySeconds | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |
