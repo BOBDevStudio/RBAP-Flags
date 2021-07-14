@@ -59,7 +59,7 @@ Game_IsDevBuild,false,false,true,true,false,
 Game_IsMainBuild,true,false,false,true,false,
 Game_IsPreUpdateBuild,false,true,false,true,false,
 GameRooms_ControlComputerEnabled,false,,,false,false,
-GameRooms_Game,24,true,,true,false,
+GameRooms_Game,24,14,,true,false,
 GameRooms_StartDelay,15,,,false,false,
 GameRooms_UnbitternessSaysEnabled,false,[Removed],[Removed],false,false,
 Intro_QuietAnimateScript,false,,,false,false,Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness.
