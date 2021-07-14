@@ -62,7 +62,7 @@
 | GameRooms_ControlComputerEnabled | `false` |  |  |  |
 | GameRooms_Game | `24` - P | `true` |  |  |
 | GameRooms_StartDelay | `15` |  |  |  |
-| GameRooms_UnbitternessSaysEnabled | `false` |  | R |  |
+| GameRooms_UnbitternessSaysEnabled | `false` | R | R |  |
 | Intro_QuietAnimateScript | `false` |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
 | NameTag_TitlePreferencePlaceKeep | `true` |  |  | Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates. |
 | Regulator_NotAllowedGroupRanks | P | `[0,1,3]` |  |  |
