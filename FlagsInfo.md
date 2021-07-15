@@ -37,7 +37,7 @@
 | DockEnabled_MineDock | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_NoStandingJokeDock | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_NPCsKeyDock | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| DockEnabled_OldGameRoomsDock | `false` | `true` | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_OldGameRoomsDock | `false` |  | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_RainbowDanceFloorDock | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_RobloxIconsDock | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_ServerAndGameInfoDock | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
@@ -60,9 +60,9 @@
 | Game_IsMainBuild | `true` - P | `false` | `false` |  |
 | Game_IsPreUpdateBuild | `false` - P | `true` | `false` |  |
 | GameRooms_ControlComputerEnabled | `false` |  |  |  |
-| GameRooms_Game | `24` - P | `14` |  |  |
+| GameRooms_Game | `24` - P |  |  |  |
 | GameRooms_StartDelay | `15` |  |  |  |
-| GameRooms_UnbitternessSaysEnabled | `false` | R | R |  |
+| GameRooms_UnbitternessSaysEnabled | `false` |  | R |  |
 | Intro_QuietAnimateScript | `false` |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
 | NameTag_TitlePreferencePlaceKeep | `true` |  |  | Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates. |
 | Regulator_NotAllowedGroupRanks | P | `[0,1,3]` |  |  |
@@ -70,7 +70,6 @@
 | Season_LockInSummer | `false` |  |  | Locks the game's season in summer. This is only intended to be used for imaging purposes. |
 | ServerInfo_RunTimeDisplayExactSeconds | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
 | ServerInfo_RunTimeDisplaySeconds | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |
-| TimeUnifier_Enabled |  | `false` | `true` | Toggles whether or not a new not quite ready system is enabled. This flag is only temporary and will likely be removed by Saturday. |
 | TimeZone_Difference | `-7` - PU |  |  |  |
 | TimeZone_Name | `PDT` - PU |  |  |  |
 
