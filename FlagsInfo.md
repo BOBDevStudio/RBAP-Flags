@@ -42,7 +42,7 @@
 | DockEnabled_RobloxIconsDock | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_ServerAndGameInfoDock | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_Stage | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| DockEnabled_UpdateLogsDock | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_UpdateLogsDock | `true` |  | `false` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_WeirdHillsDock | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_WindowShowcaseDock | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_WindowShowcaseV2Dock | `true` |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
