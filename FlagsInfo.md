@@ -70,6 +70,7 @@
 | Season_LockInSummer | `false` |  |  | Locks the game's season in summer. This is only intended to be used for imaging purposes. |
 | ServerInfo_RunTimeDisplayExactSeconds | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
 | ServerInfo_RunTimeDisplaySeconds | `false` |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |
+| StreetLights_DebugColorEnabled | `false` |  |  | Toggles whether or not the street lights are randomly color coded. This is only intended to be used on certain occasions for debugging purposes. |
 | TimeZone_Difference | `-7` - PU |  |  |  |
 | TimeZone_Name | `PDT` - PU |  |  |  |
 
