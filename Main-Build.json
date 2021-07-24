@@ -71,5 +71,13 @@
   "StreetLights_DebugColorEnabled": false,
   "TimeZone_Difference": -7,
   "TimeZone_Name": "PDT",
+  "Time_SecondTrackingEnabled": false,
+  "TimeUTC_MinuteTrackingEnabled": false,
+  "TimeUTC_HourTrackingEnabled": false,
+  "TimeUTC_DayTrackingEnabled": false,
+  "TimeUTC_MonthTrackingEnabled": true,
+  "TimeGameTime_MinuteTrackingEnabled": false,
+  "TimeGameTime_HourTrackingEnabled": false,
+  "TimeGameTime_DayTrackingEnabled": false,
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }

@@ -12,5 +12,13 @@
   "Files_DevBuildGameVersion",
   "GameRooms_Game",
   "TimeZone_Difference",
-  "TimeZone_Name"
+  "TimeZone_Name",
+  "Time_SecondTrackingEnabled",
+  "TimeUTC_MinuteTrackingEnabled",
+  "TimeUTC_HourTrackingEnabled",
+  "TimeUTC_DayTrackingEnabled",
+  "TimeUTC_MonthTrackingEnabled",
+  "TimeGameTime_MinuteTrackingEnabled",
+  "TimeGameTime_HourTrackingEnabled",
+  "TimeGameTime_DayTrackingEnabled"
 ]
