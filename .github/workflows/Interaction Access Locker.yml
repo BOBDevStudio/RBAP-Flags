@@ -12,4 +12,4 @@ jobs:
     steps:
     - name: Lock interaction access
       run: |
-        curl -X PUT -H "Authorization: token ${{ secrets.KEY_INTERACTION }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""limit\"": \""collaborators_only\"", \""expiry\"": \""six_months\"" }" --url "https://api.github.com/repos/BOBDevStudio/RBAP-Wiki/interaction-limits"
+        curl -X PUT -H "Authorization: token ${{ secrets.KEY_INTERACTION }}" -H "Accept: application/vnd.github.v3+json" -d "{ \""limit\"": \""collaborators_only\"", \""expiry\"": \""six_months\"" }" --url "https://api.github.com/repos/${{ env.GITHUB_REPOSITORY }}/interaction-limits"
