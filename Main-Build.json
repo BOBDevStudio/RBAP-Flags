@@ -49,6 +49,7 @@
   "DonationsDock_OpenOutsideMain": false,
   "Entrance_ArrivalTimeSignsEnabled": false,
   "FavoriteColor_BOB": "rgb 0 255 255 pls",
+  "FavoriteColor_Unbitterness": "rgb 71 13 83 pls",
   "Files_DevBuildGameVersion": "Game-Version/Dev-Build",
   "Files_DevBuildRecentUpdateLog": "Update-Logs/Dev-Build/Most-Recent-Update-Log",
   "Files_MainBuildGameVersion": "Game-Version/Main-Build",
