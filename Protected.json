@@ -12,5 +12,6 @@
   "Files_DevBuildGameVersion",
   "GameRooms_Game",
   "TimeZone_Difference",
-  "TimeZone_Name"
+  "TimeZone_Name",
+  "CommaAvoiderFlag"
 ]
