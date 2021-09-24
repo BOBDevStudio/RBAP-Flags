@@ -1,6 +1,7 @@
 {
   "DockEnabled_DonationsDock": true,
   "DockEnabled_OldGameRoomsDock": true,
+  "DockEnabled_InfoDock": true,
   "DockEnabled_UpdateLogsDock": false,
   "DockEnabled_ServerAndGameInfoDock": false,
   "DonationsDock_OpenOutsideMain": true,
