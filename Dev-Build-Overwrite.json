@@ -1,6 +1,7 @@
 {
   "DockEnabled_DonationsDock": true,
   "DockEnabled_OldGameRoomsDock": true,
+  "DockEnabled_UpdateLogsDock": false,
   "DonationsDock_OpenOutsideMain": true,
   "Entrance_ArrivalTimeSignsEnabled": false,
   "FlagsSystem_UpdateCheckTime": 15,
