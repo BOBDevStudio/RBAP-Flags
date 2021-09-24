@@ -45,6 +45,7 @@
   "DockEnabled_WeirdHillsDock": true,
   "DockEnabled_WindowShowcaseDock": true,
   "DockEnabled_WindowShowcaseV2Dock": true,
+  "DockEnabled_EventsDock": false,
   "DonationsDock_OpenInStudio": true,
   "DonationsDock_OpenOutsideMain": false,
   "Entrance_ArrivalTimeSignsEnabled": false,
