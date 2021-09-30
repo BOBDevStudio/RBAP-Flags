@@ -14,6 +14,6 @@
   "Season_ExtraLeafDetailEnabled": "pls remove",
   "ServerInfo_RunTimeDisplayExactSeconds": true,
   "ServerInfo_RunTimeDisplaySeconds": true,
-  "TimeZone_Name": "pls remove"
+  "TimeZone_Name": "pls remove",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
