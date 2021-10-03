@@ -47,6 +47,7 @@
   "DockEnabled_WindowShowcaseV2Dock": true,
   "DockEnabled_EventsDock": false,
   "DockEnabled_GameInfoDock": false,
+  "DockEnabled_WheelOfOdditiesDock": true,
   "DonationsDock_OpenInStudio": true,
   "DonationsDock_OpenOutsideMain": false,
   "Entrance_ArrivalTimeSignsEnabled": false,
