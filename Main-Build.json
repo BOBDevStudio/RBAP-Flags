@@ -28,7 +28,7 @@
   "DockEnabled_ColorBlocksDock": false,
   "DockEnabled_ColorMixerDock": false,
   "DockEnabled_ConstructionBarrierDock": true,
-  "DockEnabled_DonationsDock": false,
+  "DockEnabled_DonationsDock": true,
   "DockEnabled_GameRoomsDock": true,
   "DockEnabled_IceCubeTrayDcok": true,
   "DockEnabled_IndustrialLightDock": true,
