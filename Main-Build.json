@@ -48,6 +48,7 @@
   "DockEnabled_EventsDock": false,
   "DockEnabled_GameInfoDock": false,
   "DockEnabled_WheelOfOdditiesDock": true,
+  "DockEnabled_MovingSpotlightDock": true,
   "DonationsDock_OpenInStudio": true,
   "DonationsDock_OpenOutsideMain": false,
   "Entrance_ArrivalTimeSignsEnabled": false,
