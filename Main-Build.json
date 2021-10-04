@@ -86,5 +86,6 @@
   "TimeGameTime_HourTrackingEnabled": false,
   "TimeGameTime_DayTrackingEnabled": false,
   "TimeGameTime_MonthTrackingEnabled": false,
+  "NewDocks_NotNewTime": 1635966000,
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
