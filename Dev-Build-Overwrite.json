@@ -16,5 +16,6 @@
   "TimeZone_Name": "pls remove",
   "TimeUTC_MonthTrackingEnabled": false,
   "TimeUTC_MinuteTrackingEnabled": true,
+  "TimeGameTime_MinuteTrackingEnabled": true,
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
