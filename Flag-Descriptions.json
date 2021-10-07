@@ -40,5 +40,7 @@
   "TimeUTC_MonthTrackingEnabled": "This flag is only used for performance reasons.",
   "TimeGameTime_MinuteTrackingEnabled": "This flag is only used for performance reasons.",
   "TimeGameTime_HourTrackingEnabled": "This flag is only used for performance reasons.",
-  "TimeGameTime_DayTrackingEnabled": "This flag is only used for performance reasons."
+  "TimeGameTime_DayTrackingEnabled": "This flag is only used for performance reasons.",
+  "DockEntrance_BarriersDisabled": "Disables the barriers that prevent from crossing through dock entrances when closed. This only exists for fun and is ineffective outside of the dev build.",
+  "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
