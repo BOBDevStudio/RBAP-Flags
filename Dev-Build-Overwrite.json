@@ -12,6 +12,7 @@
   "Files_MainBuildRecentUpdateLog": "pls remove",
   "Files_PreUpdateBuildRecentUpdateLog": "pls remove",
   "Files_DevBuildListedUpdateLogs": "Listed-Update-Logs/Dev-Build",
+  "Files_MainBuildListedUpdateLogs": "Listed-Update-Logs/Main-Build",
   "Files_PreUpdateBuildListedUpdateLogs": "Listed-Update-Logs/Pre-Update-Build",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
