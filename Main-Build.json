@@ -57,7 +57,7 @@
   "Files_DevBuildGameVersion": "Game-Version/Dev-Build",
   "Files_DevBuildRecentUpdateLog": "Old-Update-Logs-System/Dev-Build/Most-Recent-Update-Log",
   "Files_MainBuildGameVersion": "Game-Version/Main-Build",
-  "Files_MainBuildRecentUpdateLog": "Update-Logs/Main-Build/Most-Recent-Update-Log",
+  "Files_MainBuildRecentUpdateLog": "Old-Update-Logs-System/Main-Build/Most-Recent-Update-Log",
   "Files_PreUpdateBuildGameVersion": "Game-Version/Pre-Update-Build",
   "Files_PreUpdateBuildRecentUpdateLog": "Update-Logs/Pre-Update-Build/Most-Recent-Update-Log",
   "FlagsSystem_UpdateCheckTime": 300,
