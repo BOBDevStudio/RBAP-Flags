@@ -64,7 +64,6 @@
   "Game_IsDevBuild": false,
   "Game_IsMainBuild": true,
   "Game_IsPreUpdateBuild": false,
-  "GameRooms_ControlComputerEnabled": false,
   "GameRooms_Game": 24,
   "GameRooms_StartDelay": 15,
   "Intro_QuietAnimateScript": false,
