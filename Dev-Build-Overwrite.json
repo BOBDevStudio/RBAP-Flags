@@ -15,5 +15,6 @@
   "Files_MainBuildListedUpdateLogs": "Listed-Update-Logs/Main-Build",
   "Files_PreUpdateBuildListedUpdateLogs": "Listed-Update-Logs/Pre-Update-Build",
   "Files_UpdateLogsURLStart": "https://bobdevstudio.github.io/RBAP-Wiki/Posts/Update-Log",
+  "Entrance_ArrivalTimeSignsEnabled": "pls remove",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
