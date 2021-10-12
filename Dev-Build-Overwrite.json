@@ -1,6 +1,5 @@
 {
   "DonationsDock_OpenOutsideMain": true,
-  "Entrance_ArrivalTimeSignsEnabled": false,
   "FlagsSystem_UpdateCheckTime": 15,
   "Game_IsDevBuild": true,
   "Game_IsMainBuild": false,
@@ -8,13 +7,5 @@
   "ServerInfo_RunTimeDisplayExactSeconds": true,
   "ServerInfo_RunTimeDisplaySeconds": true,
   "DockEntrance_BarriersDisabled": false,
-  "Files_DevBuildRecentUpdateLog": "pls remove",
-  "Files_MainBuildRecentUpdateLog": "pls remove",
-  "Files_PreUpdateBuildRecentUpdateLog": "pls remove",
-  "Files_DevBuildListedUpdateLogs": "Listed-Update-Logs/Dev-Build",
-  "Files_MainBuildListedUpdateLogs": "Listed-Update-Logs/Main-Build",
-  "Files_PreUpdateBuildListedUpdateLogs": "Listed-Update-Logs/Pre-Update-Build",
-  "Files_UpdateLogsURLStart": "https://bobdevstudio.github.io/RBAP-Wiki/Posts/Update-Log",
-  "Entrance_ArrivalTimeSignsEnabled": "pls remove",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
