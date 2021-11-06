@@ -47,5 +47,6 @@
   "TimeGameTime_MonthTrackingEnabled": "This flag is only used for performance reasons.",
   "DockEntrance_BarriersDisabled": "Disables the barriers that prevent from crossing through dock entrances when closed. This only exists for fun and is ineffective outside of the dev build.",
   "TopbarPlus_DisableUselessOutputs": "Topbar plus makes some useless outputs to the dev console so this flag blocks it from doing that.",
+  "AvatarEditor_Enabled": "Enables an in-game avatar editor.",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
