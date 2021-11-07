@@ -50,7 +50,7 @@
   "ServerInfo_RunTimeDisplayExactSeconds": false,
   "ServerInfo_RunTimeDisplaySeconds": false,
   "StreetLights_DebugColorEnabled": false,
-  "TimeZone_Difference": -7,
+  "TimeZone_Difference": -8,
   "Time_SecondTrackingEnabled": false,
   "TimeUTC_MinuteTrackingEnabled": true,
   "TimeUTC_HourTrackingEnabled": false,
