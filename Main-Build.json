@@ -65,5 +65,6 @@
   "GameRooms_ImprovedLightChaserEnabled": false,
   "TopbarPlus_DisableUselessOutputs": true,
   "AvatarEditor_Enabled": false,
+  "AvatarEditor_DebugOutputsEnabled": false,
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
