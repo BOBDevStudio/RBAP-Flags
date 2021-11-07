@@ -67,5 +67,6 @@
   "AvatarEditor_Enabled": false,
   "AvatarEditor_DebugOutputsEnabled": false,
   "UpdateLogs_TitleId": "page-title",
+  "UpdateLogs_TitleClass": "page-title non-splash-page-title",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
