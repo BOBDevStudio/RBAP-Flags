@@ -23,7 +23,7 @@
   "DockEnabled_WindowShowcaseDock": true,
   "DockEnabled_WindowShowcaseV2Dock": true,
   "DockEnabled_EventsDock": false,
-  "DockEnabled_GameInfoDock": false,
+  "DockEnabled_GameInfoDock": true,
   "DockEnabled_WheelOfOdditiesDock": true,
   "DockEnabled_MovingSpotlightDock": true,
   "DockEnabled_ServerControlDock": false,
