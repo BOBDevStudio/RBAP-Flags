@@ -1,10 +1,5 @@
 exclude:
   - Readme.md
-  - FlagsInfo.md
-  - FlagsInfo.csv
-  - Protected.json
-  - Flag-Descriptions.json
   - License
   - .github
   - Code of Conduct.md
-  - WIP
