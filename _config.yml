@@ -2,4 +2,3 @@ exclude:
   - Readme.md
   - License
   - .github
-  - Code of Conduct.md
