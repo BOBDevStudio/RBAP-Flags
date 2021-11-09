@@ -2,3 +2,4 @@ exclude:
   - Readme.md
   - License
   - .github
+  - Flag-Descriptions.json
