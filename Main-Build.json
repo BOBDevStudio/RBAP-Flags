@@ -61,7 +61,7 @@
   "TimeGameTime_DayTrackingEnabled": false,
   "TimeGameTime_MonthTrackingEnabled": false,
   "NewDocks_NotNewTime": 1635966000,
-  "NewDocks_NotNewCheckStop": false,
+  "NewDocks_NotNewCheckStop": true,
   "GameRooms_ImprovedLightChaserEnabled": false,
   "TopbarPlus_DisableUselessOutputs": true,
   "AvatarEditor_Enabled": false,
