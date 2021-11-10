@@ -4,6 +4,7 @@
   "Game_IsDevBuild": true,
   "Game_IsMainBuild": false,
   "Game_IsPreUpdateBuild": false,
+  "Game_IsImagingBuild": false,
   "ServerInfo_RunTimeDisplayExactSeconds": true,
   "ServerInfo_RunTimeDisplaySeconds": true,
   "DockEntrance_BarriersDisabled": false,
