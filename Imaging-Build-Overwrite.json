@@ -3,6 +3,7 @@
   "Game_IsMainBuild": false,
   "Game_IsPreUpdateBuild": false,
   "Game_IsImagingBuild": true,
+  "Season_LockedOn": "Summer",
   "Holidays_HalloweenLockedOn": false,
   "Holidays_SnowDayLockedOn": false,
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
