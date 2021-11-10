@@ -1,6 +1,6 @@
 {
   "DonationsDock_OpenOutsideMain": true,
-  "FlagsSystem_UpdateCheckTime": 15,
+  "FlagsSystem_UpdateCheckTime": 60,
   "Game_IsDevBuild": true,
   "Game_IsMainBuild": false,
   "Game_IsPreUpdateBuild": false,
