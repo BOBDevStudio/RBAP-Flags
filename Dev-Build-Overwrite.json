@@ -11,5 +11,6 @@
   "DockEnabled_ServerControlDock": true,
   "AvatarEditor_Enabled": true,
   "DockEnabled_ServerAndGameInfoDock": "pls remove",
+  "DockEnabled_UpdateLogsDock": "pls remove",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
