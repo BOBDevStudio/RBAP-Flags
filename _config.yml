@@ -1,5 +1,7 @@
 exclude:
+  - FlagsInfo.md
+  - FlagsInfo.csv
+  - Flag-Descriptions.json
   - Readme.md
   - License
   - .github
-  - Flag-Descriptions.json
