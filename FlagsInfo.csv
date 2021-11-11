@@ -1,2 +1,81 @@
-Coming soon,
-This file will be compiled by the bot in the next commit it makes. But until then this text will be here.,
+Flag Name,Base Value,Pre-Update Build Overwrite,Imaging Build Overwrite,Dev Build Overwrite,Live Updates,Flag Description
+AvatarEditor_DebugOutputsEnabled,false,,,,false,
+AvatarEditor_Enabled,false,,,true,false,Enables an in-game avatar editor.
+DayAndNight_TimeLockedOn,,,720,,false,
+DockEnabled_BloxyStatueReMadeDock,true,,,,false,
+DockEnabled_BobTheMobDock,true,,,,false,
+DockEnabled_CampFireDock,true,,,,false,
+DockEnabled_ColorBlocksDock,false,,,,false,
+DockEnabled_ColorMixerDock,false,,,,false,
+DockEnabled_ConstructionBarrierDock,true,,,,false,
+DockEnabled_DonationsDock,true,,,,false,
+DockEnabled_EventsDock,false,,,,false,
+DockEnabled_GameInfoDock,true,,,,false,
+DockEnabled_GameRoomsDock,true,,,,false,
+DockEnabled_IceCubeTrayDcok,true,,,,false,
+DockEnabled_IndustrialLightDock,true,,,,false,
+DockEnabled_LighthouseDock,true,,,,false,
+DockEnabled_MineDock,true,,,,false,
+DockEnabled_MovingSpotlightDock,true,,,,false,
+DockEnabled_NoStandingJokeDock,true,,,,false,
+DockEnabled_NPCsKeyDock,true,,,,false,
+DockEnabled_OldGameRoomsDock,true,,,,false,
+DockEnabled_RainbowDanceFloorDock,true,,,,false,
+DockEnabled_RobloxIconsDock,true,,,,false,
+DockEnabled_ServerAndGameInfoDock,false,,,[Removed],false,
+DockEnabled_ServerControlDock,false,,,true,false,
+DockEnabled_Stage,true,,,,false,
+DockEnabled_UpdateLogsDock,false,,,[Removed],false,
+DockEnabled_WeirdHillsDock,true,,,,false,
+DockEnabled_WheelOfOdditiesDock,true,,,,false,
+DockEnabled_WindowShowcaseDock,true,,,,false,
+DockEnabled_WindowShowcaseV2Dock,true,,,,false,
+DockEntrance_BarriersDisabled,,,,false,true,Disables the barriers that prevent from crossing through dock entrances when closed. This only exists for fun and is ineffective outside of the dev build.
+DonationsDock_OpenInStudio,true,,,,false,Controls whether or not the donations dock's dock entrance is open in studio.
+DonationsDock_OpenOutsideMain,false,,,true,false,Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build.
+Entrance_ArrivalTimeSignsEnabled,,,,,false,This controls weather or not 2 signs that display the time until the elevator arrives are enabled. BOB made it mostly just as a fun side project and is likely to not be enabled outside of the dev build for some time.
+FavoriteColor_BOB,rgb 0 255 255 pls,,,,true,
+FavoriteColor_Unbitterness,rgb 71 13 83 pls,,,,true,
+Files_DevBuildGameVersion,Game-Version/Dev-Build,,,,false,
+Files_DevBuildListedUpdateLogs,Listed-Update-Logs/Dev-Build,,,,false,
+Files_ImagingBuildGameVersion,Game-Version/Imaging-Build,,,,false,
+Files_ImagingBuildListedUpdateLogs,Listed-Update-Logs/Imaging-Build,,,,false,
+Files_MainBuildGameVersion,Game-Version/Main-Build,,,,false,
+Files_MainBuildListedUpdateLogs,Listed-Update-Logs/Main-Build,,,,false,
+Files_PreUpdateBuildGameVersion,Game-Version/Pre-Update-Build,,,,false,
+Files_PreUpdateBuildListedUpdateLogs,Listed-Update-Logs/Pre-Update-Build,,,,false,
+Files_UpdateLogsURLStart,https://bobdevstudio.github.io/RBAP-Wiki/Posts/Update-Log,,,,false,
+FlagsSystem_UpdateCheckTime,300,,,60,false,Controls the number of seconds until the system should check if there's any updates to the flags.
+Game_IsDevBuild,false,false,false,true,false,
+Game_IsImagingBuild,false,false,true,false,false,
+Game_IsMainBuild,true,false,false,false,false,
+Game_IsPreUpdateBuild,false,true,false,false,false,
+Game_NotAllowedGroupRanks,,"[0,1,3]",,,false,
+Game_UIHidden,,,true,,false,Hides all UI rendered in 3D space.
+GameRooms_Game,24,,,,false,
+GameRooms_ImprovedLightChaserEnabled,false,,,[Removed],false,
+GameRooms_StartDelay,15,,,,false,
+Holidays_HalloweenLockedOn,,,false,,true,
+Holidays_SnowDayLockedOn,,,false,,true,
+Intro_QuietAnimateScript,false,,,,false,Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness.
+NameTag_TitlePreferencePlaceKeep,true,,,,false,"Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates."
+NewDocks_NotNewCheckStop,true,,,,false,
+NewDocks_NotNewTime,1635966000,,,,false,
+Season_LockedOn,,,Summer,,true,
+Season_LockInSummer,false,,,[Removed],false,Locks the game's season in summer. This is only intended to be used for imaging purposes.
+ServerInfo_RunTimeDisplayExactSeconds,false,,,true,false,Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build.
+ServerInfo_RunTimeDisplaySeconds,false,,,true,false,Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds.
+StreetLights_DebugColorEnabled,false,,,,false,Toggles whether or not the street lights are randomly color coded. This is only intended to be used on certain occasions for debugging purposes.
+Time_SecondTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
+TimeGameTime_DayTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
+TimeGameTime_HourTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
+TimeGameTime_MinuteTrackingEnabled,true,,,,false,This flag is only used for performance reasons.
+TimeGameTime_MonthTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
+TimeUTC_DayTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
+TimeUTC_HourTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
+TimeUTC_MinuteTrackingEnabled,true,,,,false,This flag is only used for performance reasons.
+TimeUTC_MonthTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
+TimeZone_Difference,-8,,,,true,
+TopbarPlus_DisableUselessOutputs,true,,,,false,Topbar plus makes some useless outputs to the dev console so this flag blocks it from doing that.
+UpdateLogs_TitleClass,page-title non-splash-page-title,,,,false,
+UpdateLogs_TitleId,page-title,,,,false,
