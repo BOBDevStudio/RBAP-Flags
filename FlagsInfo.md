@@ -53,7 +53,7 @@
 | Game_IsMainBuild | `true` | `false` | `false` | `false` |  |
 | Game_IsPreUpdateBuild | `false` | `true` | `false` | `false` |  |
 | Game_NotAllowedGroupRanks |  | `[0,1,3]` |  |  |  |
-| Game_UIHidden |  |  | `false` |  | Hides all UI rendered in 3D space. |
+| Game_UIHidden |  |  | `true` |  | Hides all UI rendered in 3D space. |
 | GameRooms_Game | `24` |  |  |  |  |
 | GameRooms_ImprovedLightChaserEnabled | `false` |  |  | R |  |
 | GameRooms_StartDelay | `15` |  |  |  |  |
