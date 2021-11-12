@@ -60,6 +60,7 @@
 | Holidays_HalloweenLockedOn | U |  | `false` |  |  |
 | Holidays_SnowDayLockedOn | U |  | `false` |  |  |
 | Intro_QuietAnimateScript | `false` |  |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
+| Lighthouse_RemoveLight |  |  | `false` |  | Removes the lighthouse's spinning light. |
 | NameTag_TitlePreferencePlaceKeep | `true` |  |  |  | Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates. |
 | NewDocks_NotNewCheckStop | `true` |  |  |  |  |
 | NewDocks_NotNewTime | `1635966000` |  |  |  |  |

@@ -8,6 +8,7 @@
   "Game_UIHidden": true,
   "Holidays_HalloweenLockedOn": false,
   "Holidays_SnowDayLockedOn": false,
+  "Lighthouse_RemoveLight": false,
   "Season_LockedOn": "Summer",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
