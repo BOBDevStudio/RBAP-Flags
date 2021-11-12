@@ -6,5 +6,6 @@
   "Season_LockedOn",
   "Holidays_HalloweenLockedOn",
   "Holidays_SnowDayLockedOn",
-  "CommaAvoiderFlag"
+  "CommaAvoiderFlag",
+  "DayAndNight_StreetLightsLockedOn"
 ]

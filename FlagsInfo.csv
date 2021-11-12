@@ -1,7 +1,7 @@
 Flag Name,Base Value,Pre-Update Build Overwrite,Imaging Build Overwrite,Dev Build Overwrite,Live Updates,Flag Description
 AvatarEditor_DebugOutputsEnabled,false,,,,false,
 AvatarEditor_Enabled,false,,,true,false,Enables an in-game avatar editor.
-DayAndNight_StreetLightsLockedOn,,,true,,false,Controls whether or not the street lights are locked on.
+DayAndNight_StreetLightsLockedOn,,,true,,true,Controls whether or not the street lights are locked on.
 DayAndNight_TimeLockedOn,,,720,,false,
 DockEnabled_BloxyStatueReMadeDock,true,,,,false,
 DockEnabled_BobTheMobDock,true,,,,false,
