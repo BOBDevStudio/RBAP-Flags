@@ -65,6 +65,7 @@
 | NameTag_TitlePreferencePlaceKeep | `true` |  |  |  | Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates. |
 | NewDocks_NotNewCheckStop | `true` |  |  |  |  |
 | NewDocks_NotNewTime | `1635966000` |  |  |  |  |
+| RainbowEffect_ColorLockedOn | U |  | `rgb 0 255 255 pls` |  | Locks the rainbow effect on only one color. |
 | Season_LockedOn | U |  | `Summer` |  |  |
 | Season_LockInSummer | `false` |  |  | R | Locks the game's season in summer. This is only intended to be used for imaging purposes. |
 | ServerInfo_RunTimeDisplayExactSeconds | `false` |  |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
