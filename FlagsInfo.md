@@ -3,7 +3,7 @@
 | AvatarEditor_DebugOutputsEnabled | `false` |  |  |  |  |
 | AvatarEditor_Enabled | `false` |  |  | `true` | Enables an in-game avatar editor. |
 | DayAndNight_StreetLightsLockedOn | U |  | `true` |  | Controls whether or not the street lights are locked on. |
-| DayAndNight_TimeLockedOn |  |  | `720` |  |  |
+| DayAndNight_TimeLockedOn |  |  | `720` |  | Sets the time of day using the amount of minutes after midnight. |
 | DockEnabled_BloxyStatueReMadeDock | `true` |  |  |  |  |
 | DockEnabled_BobTheMobDock | `true` |  |  |  |  |
 | DockEnabled_CampFireDock | `true` |  |  |  |  |
