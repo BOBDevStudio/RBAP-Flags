@@ -2,6 +2,7 @@
 |-|-|-|-|-|-|
 | AvatarEditor_DebugOutputsEnabled | `false` |  |  |  |  |
 | AvatarEditor_Enabled | `false` |  |  | `true` | Enables an in-game avatar editor. |
+| DayAndNight_StreetLightsLockedOn |  |  | `true` |  | Controls whether or not the street lights are locked on. |
 | DayAndNight_TimeLockedOn |  |  | `720` |  |  |
 | DockEnabled_BloxyStatueReMadeDock | `true` |  |  |  |  |
 | DockEnabled_BobTheMobDock | `true` |  |  |  |  |

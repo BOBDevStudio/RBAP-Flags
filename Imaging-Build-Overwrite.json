@@ -1,4 +1,5 @@
 {
+  "DayAndNight_StreetLightsLockedOn": true,
   "DayAndNight_TimeLockedOn": 720,
   "Game_IsDevBuild": false,
   "Game_IsImagingBuild": true,
