@@ -1,6 +1,16 @@
 exclude:
-  - FlagsInfo.md
-  - FlagsInfo.csv
+  - Flags.csv
+  - Flags.md
+  - Flags-List.csv
+  - Flags-List.md
+  - Main-Build.json.csv
+  - Main-Build.json.md
+  - Pre-Update-Build-Overwrite.json.csv
+  - Pre-Update-Build-Overwrite.json.md
+  - Imaging-Build-Overwrite.json.csv
+  - Imaging-Build-Overwrite.json.md
+  - Dev-Build-Overwrite.json.csv
+  - Dev-Build-Overwrite.json.md
   - Flag-Descriptions.json
   - Readme.md
   - License
