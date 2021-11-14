@@ -6,7 +6,7 @@
 | Game_IsImagingBuild | `true` |
 | Game_IsMainBuild | `false` |
 | Game_IsPreUpdateBuild | `false` |
-| Game_UIHidden | `true` |
+| Game_UIHidden | `false` |
 | GameRoomDock_HostGames | `false` |
 | Holidays_HalloweenLockedOn | `false` |
 | Holidays_SnowDayLockedOn | `false` |
