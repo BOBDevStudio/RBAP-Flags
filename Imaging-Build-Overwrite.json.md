@@ -2,7 +2,7 @@
 |-|-|
 | Game_IsMainBuild | false |
 | Game_IsImagingBuild | true |
-| Game_UIHidden | true |
+| Game_UIHidden | false |
 | CommaAvoiderFlag | This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas. |
 | RainbowEffect_ColorLockedOn | rgb 0 255 255 pls |
 | Season_LockedOn | Summer |
