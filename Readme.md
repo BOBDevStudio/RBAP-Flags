@@ -2,4 +2,4 @@ This repository holds some files that are used by RBAP in a system inspired by R
 
 There is also some other files that are there for easy reading. They are called `Flags.md` and `Flags.csv` and both of which are automatically compiled by the bot when it makes commits. Those 2 files are virtually the same, the only difference being `Flags.md` takes advantage of markdown and `Flags.csv` just lists everything plainly in a table.
 
-Similar files to `Flags.md` and `Flags.csv` also exist and the ones that end with `.json.md` and `.json.csv` are there for easy reading of a specific JSON file.
+Similar files to `Flags.md` and `Flags.csv` also exist and the ones that end with `.json.md` and `.json.csv` are there for easy reading of a specific JSON file and are sorted alphabetically.
