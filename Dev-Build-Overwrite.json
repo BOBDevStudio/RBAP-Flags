@@ -16,5 +16,7 @@
   "Season_LockInSummer": "pls remove",
   "GameRooms_Game": "pls remove",
   "GameRoomsDock_Game": 24,
+  "GameRooms_StartDelay": "pls remove",
+  "GameRoomsDock_StartDelay": 15,
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
