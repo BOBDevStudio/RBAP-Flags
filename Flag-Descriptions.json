@@ -8,6 +8,7 @@
   "Entrance_ArrivalTimeSignsEnabled": "This controls weather or not 2 signs that display the time until the elevator arrives are enabled. BOB made it mostly just as a fun side project and is likely to not be enabled outside of the dev build for some time.",
   "FlagsSystem_UpdateCheckTime": "Controls the number of seconds until the system should check if there's any updates to the flags.",
   "Game_UIHidden": "Hides all UI rendered in 3D space.",
+  "GameRoomDock_HostGames": "Stops the game rooms dock from running games.",
   "Intro_QuietAnimateScript": "Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness.",
   "Lighthouse_LightSpinDisabled": "Disables the spinning of the lighthouse's spinning light.",
   "Lighthouse_RemoveLight": "Removes the lighthouse's spinning light.",

@@ -1,2 +1,7 @@
-### Coming Soon
-This file will be compiled by the bot in the next commit it makes. But until then this text will be here.
+| Key | Value |
+|-|-|
+| Game_IsDevBuild | `false` |
+| Game_IsImagingBuild | `false` |
+| Game_IsMainBuild | `false` |
+| Game_IsPreUpdateBuild | `true` |
+| Game_NotAllowedGroupRanks | `[0,1,3]` |

@@ -53,9 +53,12 @@ Game_IsMainBuild,true,false,false,false,false,
 Game_IsPreUpdateBuild,false,true,false,false,false,
 Game_NotAllowedGroupRanks,,"[0,1,3]",,,false,
 Game_UIHidden,,,true,,false,Hides all UI rendered in 3D space.
-GameRooms_Game,24,,,,false,
+GameRoomDock_HostGames,,,false,,false,Stops the game rooms dock from running games.
+GameRooms_Game,24,,,[Removed],false,
 GameRooms_ImprovedLightChaserEnabled,false,,,[Removed],false,
-GameRooms_StartDelay,15,,,,false,
+GameRooms_StartDelay,15,,,[Removed],false,
+GameRoomsDock_Game,,,,24,false,
+GameRoomsDock_StartDelay,,,,15,false,
 Holidays_HalloweenLockedOn,,,false,,true,
 Holidays_SnowDayLockedOn,,,false,,true,
 Intro_QuietAnimateScript,false,,,,false,Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness.
