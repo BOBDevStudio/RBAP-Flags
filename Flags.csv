@@ -32,6 +32,7 @@ DockEnabled_WheelOfOdditiesDock,true,,,,false,
 DockEnabled_WindowShowcaseDock,true,,,,false,
 DockEnabled_WindowShowcaseV2Dock,true,,,,false,
 DockEntrance_BarriersDisabled,,,,false,true,Disables the barriers that prevent from crossing through dock entrances when closed. This only exists for fun and is ineffective outside of the dev build.
+DonationFireworks_Enabled,false,,,,false,Toggles whether or not the donation fireworks animation plays after a player purchases a donation.
 DonationsDock_OpenInStudio,true,,,,false,Controls whether or not the donations dock's dock entrance is open in studio.
 DonationsDock_OpenOutsideMain,false,,,true,false,Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build.
 Entrance_ArrivalTimeSignsEnabled,,,,,false,This controls weather or not 2 signs that display the time until the elevator arrives are enabled. BOB made it mostly just as a fun side project and is likely to not be enabled outside of the dev build for some time.

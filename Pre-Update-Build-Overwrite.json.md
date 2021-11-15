@@ -1,8 +1,8 @@
-| Key | Value |
-|-|-|
-| CommaAvoiderFlag | This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas. |
-| Game_IsDevBuild | false |
-| Game_IsImagingBuild | false |
-| Game_IsMainBuild | false |
-| Game_IsPreUpdateBuild | true |
-| Game_NotAllowedGroupRanks | [0,1,3] |
+| Key | Type | Value |
+|-|-|-|
+| CommaAvoiderFlag | String | This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas. |
+| Game_IsDevBuild | Bool | false |
+| Game_IsImagingBuild | Bool | false |
+| Game_IsMainBuild | Bool | false |
+| Game_IsPreUpdateBuild | Bool | true |
+| Game_NotAllowedGroupRanks | Table | [0,1,3] |
