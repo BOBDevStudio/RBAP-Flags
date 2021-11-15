@@ -31,7 +31,7 @@
 | DockEnabled_WheelOfOdditiesDock | Bool | true |
 | DockEnabled_WindowShowcaseDock | Bool | true |
 | DockEnabled_WindowShowcaseV2Dock | Bool | true |
-| DonationFireworks_Enabled | Bool | false |
+| DonationsDock_FireworksEnabled | Bool | false |
 | DonationsDock_OpenInStudio | Bool | true |
 | DonationsDock_OpenOutsideMain | Bool | false |
 | FavoriteColor_BOB | Color | rgb(0, 255, 255) |

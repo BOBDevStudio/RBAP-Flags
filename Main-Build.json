@@ -29,7 +29,7 @@
   "DockEnabled_WheelOfOdditiesDock": true,
   "DockEnabled_WindowShowcaseDock": true,
   "DockEnabled_WindowShowcaseV2Dock": true,
-  "DonationFireworks_Enabled": false,
+  "DonationsDock_FireworksEnabled": false,
   "DonationsDock_OpenInStudio": true,
   "DonationsDock_OpenOutsideMain": false,
   "FavoriteColor_BOB": "rgb 0 255 255 pls",
