@@ -57,7 +57,7 @@
 | Game_UIHidden |  |  | `false` |  | Hides all UI rendered in 3D space. |
 | GameRoomDock_GameRoom1HostGames |  |  | `false` |  |  |
 | GameRoomDock_GameRoom2HostGames |  |  | `false` |  |  |
-| GameRoomDock_GameRoom3HostGames |  |  | `false` |  |  |
+| GameRoomDock_GameRoom3HostGames |  |  | `true` |  |  |
 | GameRoomDock_HostGames |  |  | `true` |  | Stops the game rooms dock from running games. |
 | GameRooms_Game | `24` |  |  | R |  |
 | GameRooms_ImprovedLightChaserEnabled | `false` |  |  | R |  |

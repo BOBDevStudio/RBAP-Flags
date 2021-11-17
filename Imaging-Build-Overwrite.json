@@ -8,7 +8,7 @@
   "Game_UIHidden": false,
   "GameRoomDock_GameRoom1HostGames": false,
   "GameRoomDock_GameRoom2HostGames": false,
-  "GameRoomDock_GameRoom3HostGames": false,
+  "GameRoomDock_GameRoom3HostGames": true,
   "GameRoomDock_HostGames": true,
   "Holidays_HalloweenLockedOn": false,
   "Holidays_SnowDayLockedOn": false,
