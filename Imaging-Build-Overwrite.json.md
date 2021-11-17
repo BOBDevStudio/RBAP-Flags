@@ -8,6 +8,7 @@
 | Game_IsMainBuild | Bool | false |
 | Game_IsPreUpdateBuild | Bool | false |
 | Game_UIHidden | Bool | false |
+| GameRoomDock_GameRoom1HostGames | Bool | false |
 | GameRoomDock_HostGames | Bool | false |
 | Holidays_HalloweenLockedOn | Bool | false |
 | Holidays_SnowDayLockedOn | Bool | false |

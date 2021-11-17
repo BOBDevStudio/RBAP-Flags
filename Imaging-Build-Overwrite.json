@@ -6,6 +6,7 @@
   "Game_IsMainBuild": false,
   "Game_IsPreUpdateBuild": false,
   "Game_UIHidden": false,
+  "GameRoomDock_GameRoom1HostGames": false,
   "GameRoomDock_HostGames": false,
   "Holidays_HalloweenLockedOn": false,
   "Holidays_SnowDayLockedOn": false,
