@@ -57,7 +57,7 @@ Game_UIHidden,,,false,,false,Hides all UI rendered in 3D space.
 GameRoomDock_GameRoom1HostGames,,,false,,false,
 GameRoomDock_GameRoom2HostGames,,,false,,false,
 GameRoomDock_GameRoom3HostGames,,,false,,false,
-GameRoomDock_HostGames,,,false,,false,Stops the game rooms dock from running games.
+GameRoomDock_HostGames,,,true,,false,Stops the game rooms dock from running games.
 GameRooms_Game,24,,,[Removed],false,
 GameRooms_ImprovedLightChaserEnabled,false,,,[Removed],false,
 GameRooms_StartDelay,15,,,[Removed],false,

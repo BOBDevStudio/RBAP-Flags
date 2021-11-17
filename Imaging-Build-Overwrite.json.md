@@ -11,7 +11,7 @@
 | GameRoomDock_GameRoom1HostGames | Bool | false |
 | GameRoomDock_GameRoom2HostGames | Bool | false |
 | GameRoomDock_GameRoom3HostGames | Bool | false |
-| GameRoomDock_HostGames | Bool | false |
+| GameRoomDock_HostGames | Bool | true |
 | Holidays_HalloweenLockedOn | Bool | false |
 | Holidays_SnowDayLockedOn | Bool | false |
 | Lighthouse_LightSpinDisabled | Bool | true |

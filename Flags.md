@@ -58,7 +58,7 @@
 | GameRoomDock_GameRoom1HostGames |  |  | `false` |  |  |
 | GameRoomDock_GameRoom2HostGames |  |  | `false` |  |  |
 | GameRoomDock_GameRoom3HostGames |  |  | `false` |  |  |
-| GameRoomDock_HostGames |  |  | `false` |  | Stops the game rooms dock from running games. |
+| GameRoomDock_HostGames |  |  | `true` |  | Stops the game rooms dock from running games. |
 | GameRooms_Game | `24` |  |  | R |  |
 | GameRooms_ImprovedLightChaserEnabled | `false` |  |  | R |  |
 | GameRooms_StartDelay | `15` |  |  | R |  |
