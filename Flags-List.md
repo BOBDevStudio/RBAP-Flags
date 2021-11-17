@@ -77,6 +77,7 @@
 | Game_NotAllowedGroupRanks |  |
 | GameRoomDock_GameRoom1HostGames |  |
 | GameRoomDock_GameRoom2HostGames |  |
+| GameRoomDock_GameRoom3HostGames |  |
 | GameRooms_Game |  |
 | GameRooms_ImprovedLightChaserEnabled |  |
 | GameRooms_StartDelay |  |
