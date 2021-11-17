@@ -76,6 +76,7 @@
 | Game_IsPreUpdateBuild |  |
 | Game_NotAllowedGroupRanks |  |
 | GameRoomDock_GameRoom1HostGames |  |
+| GameRoomDock_GameRoom2HostGames |  |
 | GameRooms_Game |  |
 | GameRooms_ImprovedLightChaserEnabled |  |
 | GameRooms_StartDelay |  |

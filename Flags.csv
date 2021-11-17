@@ -55,6 +55,7 @@ Game_IsPreUpdateBuild,false,true,false,false,false,
 Game_NotAllowedGroupRanks,,"[0,1,3]",,,false,
 Game_UIHidden,,,false,,false,Hides all UI rendered in 3D space.
 GameRoomDock_GameRoom1HostGames,,,false,,false,
+GameRoomDock_GameRoom2HostGames,,,false,,false,
 GameRoomDock_HostGames,,,false,,false,Stops the game rooms dock from running games.
 GameRooms_Game,24,,,[Removed],false,
 GameRooms_ImprovedLightChaserEnabled,false,,,[Removed],false,
