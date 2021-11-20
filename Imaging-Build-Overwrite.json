@@ -1,6 +1,7 @@
 {
   "DayAndNight_StreetLightsLockedOn": true,
   "DayAndNight_TimeLockedOn": 720,
+  "DockEnabled_GameRoomsDock": true,
   "Game_IsDevBuild": false,
   "Game_IsImagingBuild": true,
   "Game_IsMainBuild": false,

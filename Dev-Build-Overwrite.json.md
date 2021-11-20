@@ -2,6 +2,7 @@
 |-|-|-|
 | AvatarEditor_Enabled | Bool | true |
 | CommaAvoiderFlag | String | This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas. |
+| DockEnabled_GameRoomsDock | Bool | true |
 | DockEnabled_ServerAndGameInfoDock | (Remove Code) String | pls remove |
 | DockEnabled_ServerControlDock | Bool | true |
 | DockEnabled_UpdateLogsDock | (Remove Code) String | pls remove |

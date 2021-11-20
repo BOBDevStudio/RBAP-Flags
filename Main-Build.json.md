@@ -12,7 +12,7 @@
 | DockEnabled_DonationsDock | Bool | true |
 | DockEnabled_EventsDock | Bool | false |
 | DockEnabled_GameInfoDock | Bool | true |
-| DockEnabled_GameRoomsDock | Bool | true |
+| DockEnabled_GameRoomsDock | Bool | false |
 | DockEnabled_IceCubeTrayDcok | Bool | true |
 | DockEnabled_IndustrialLightDock | Bool | true |
 | DockEnabled_LighthouseDock | Bool | true |
