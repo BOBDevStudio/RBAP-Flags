@@ -6,7 +6,7 @@
   "Game_IsMainBuild": false,
   "Game_IsPreUpdateBuild": false,
   "Game_UIHidden": false,
-  "GameRoomDock_GameRoom1HostGames": false,
+  "GameRoomDock_GameRoom1HostGames": true,
   "GameRoomDock_GameRoom2HostGames": false,
   "GameRoomDock_GameRoom3HostGames": false,
   "GameRoomDock_HostGames": true,

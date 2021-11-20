@@ -54,7 +54,7 @@ Game_IsMainBuild,true,false,false,false,false,
 Game_IsPreUpdateBuild,false,true,false,false,false,
 Game_NotAllowedGroupRanks,,"[0,1,3]",,,false,
 Game_UIHidden,,,false,,false,Hides all UI rendered in 3D space.
-GameRoomDock_GameRoom1HostGames,,,false,,false,
+GameRoomDock_GameRoom1HostGames,,,true,,false,
 GameRoomDock_GameRoom2HostGames,,,false,,false,
 GameRoomDock_GameRoom3HostGames,,,false,,false,
 GameRoomDock_HostGames,,,true,,false,Stops the game rooms dock from running games.

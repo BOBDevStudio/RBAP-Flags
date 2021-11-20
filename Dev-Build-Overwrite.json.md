@@ -2,9 +2,9 @@
 |-|-|-|
 | AvatarEditor_Enabled | Bool | true |
 | CommaAvoiderFlag | String | This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas. |
-| DockEnabled_ServerAndGameInfoDock | String | pls remove |
+| DockEnabled_ServerAndGameInfoDock | (Remove Code) String | pls remove |
 | DockEnabled_ServerControlDock | Bool | true |
-| DockEnabled_UpdateLogsDock | String | pls remove |
+| DockEnabled_UpdateLogsDock | (Remove Code) String | pls remove |
 | DockEntrance_BarriersDisabled | Bool | false |
 | DonationsDock_OpenOutsideMain | Bool | true |
 | FlagsSystem_UpdateCheckTime | Number | 60 |
@@ -12,11 +12,20 @@
 | Game_IsImagingBuild | Bool | false |
 | Game_IsMainBuild | Bool | false |
 | Game_IsPreUpdateBuild | Bool | false |
-| GameRooms_Game | String | pls remove |
-| GameRooms_ImprovedLightChaserEnabled | String | pls remove |
-| GameRooms_StartDelay | String | pls remove |
+| GameRooms_Game | (Remove Code) String | pls remove |
+| GameRooms_ImprovedLightChaserEnabled | (Remove Code) String | pls remove |
+| GameRooms_StartDelay | (Remove Code) String | pls remove |
 | GameRoomsDock_Game | Number | 24 |
 | GameRoomsDock_StartDelay | Number | 15 |
-| Season_LockInSummer | String | pls remove |
+| Season_LockInSummer | (Remove Code) String | pls remove |
 | ServerInfo_RunTimeDisplayExactSeconds | Bool | true |
 | ServerInfo_RunTimeDisplaySeconds | Bool | true |
+
+### Type Key:
+
+* `Bool` - A value of true or false.
+* `String` - Just a normal string with nothing special about how the flags system uses it.
+* `Number`
+* `Color` - A string encoded so it tells the flag system that its value should be a color. The bot automatically transfers it into the `rgb(Red, Green, Blue)` format for easy reading.
+* `(Remove Code) String` - A string that is the same as the remove code which tells the flag system when an overwrite file is used that flag should not exist.
+* `Table` - A list of values optionally defined by keys.

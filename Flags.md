@@ -55,7 +55,7 @@
 | Game_IsPreUpdateBuild | `false` | `true` | `false` | `false` |  |
 | Game_NotAllowedGroupRanks |  | `[0,1,3]` |  |  |  |
 | Game_UIHidden |  |  | `false` |  | Hides all UI rendered in 3D space. |
-| GameRoomDock_GameRoom1HostGames |  |  | `false` |  |  |
+| GameRoomDock_GameRoom1HostGames |  |  | `true` |  |  |
 | GameRoomDock_GameRoom2HostGames |  |  | `false` |  |  |
 | GameRoomDock_GameRoom3HostGames |  |  | `false` |  |  |
 | GameRoomDock_HostGames |  |  | `true` |  | Stops the game rooms dock from running games. |
