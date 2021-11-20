@@ -24,5 +24,6 @@
   "DockEnabled_*": "Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.",
   "TimeGameTime_*": "This flag is only used for performance reasons.",
   "TimeUTC_*": "This flag is only used for performance reasons.",
+  "HolidaysLockedOn_*": "Controls whether or not the corresponding holiday is locked in use.",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
