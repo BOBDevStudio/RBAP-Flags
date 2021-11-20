@@ -13,8 +13,8 @@
 | GameRoomDock_GameRoom2HostGames | Bool | false |
 | GameRoomDock_GameRoom3HostGames | Bool | false |
 | GameRoomDock_HostGames | Bool | true |
-| Holidays_HalloweenLockedOn | Bool | false |
-| Holidays_SnowDayLockedOn | Bool | false |
+| HolidaysLockedOn_Halloween | Bool | false |
+| HolidaysLockedOn_SnowDay | Bool | false |
 | Lighthouse_LightSpinDisabled | Bool | true |
 | Lighthouse_RemoveLight | Bool | true |
 | RainbowEffect_ColorLockedOn | Color | rgb(0, 255, 255) |

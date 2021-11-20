@@ -4,39 +4,38 @@
 | AvatarEditor_Enabled | `false` |  |  | `true` | Enables an in-game avatar editor. |
 | DayAndNight_StreetLightsLockedOn | U |  | `true` |  | Controls whether or not the street lights are locked on. |
 | DayAndNight_TimeLockedOn |  |  | `720` |  | Sets the time of day using the amount of minutes after midnight. |
-| DockEnabled_BloxyStatueReMadeDock | `true` |  |  |  |  |
-| DockEnabled_BobTheMobDock | `true` |  |  |  |  |
-| DockEnabled_CampFireDock | `true` |  |  |  |  |
-| DockEnabled_ColorBlocksDock | `false` |  |  |  |  |
-| DockEnabled_ColorMixerDock | `false` |  |  |  |  |
-| DockEnabled_ConstructionBarrierDock | `true` |  |  |  |  |
-| DockEnabled_DonationsDock | `true` |  |  |  |  |
-| DockEnabled_EventsDock | `false` |  |  |  |  |
-| DockEnabled_GameInfoDock | `true` |  |  |  |  |
-| DockEnabled_GameRoomsDock | `false` |  | `true` | `true` |  |
-| DockEnabled_IceCubeTrayDcok | `true` |  |  |  |  |
-| DockEnabled_IndustrialLightDock | `true` |  |  |  |  |
-| DockEnabled_LighthouseDock | `true` |  |  |  |  |
-| DockEnabled_MineDock | `true` |  |  |  |  |
-| DockEnabled_MovingSpotlightDock | `true` |  |  |  |  |
-| DockEnabled_NoStandingJokeDock | `true` |  |  |  |  |
-| DockEnabled_NPCsKeyDock | `true` |  |  |  |  |
-| DockEnabled_OldGameRoomsDock | `true` |  |  |  |  |
-| DockEnabled_RainbowDanceFloorDock | `true` |  |  |  |  |
-| DockEnabled_RobloxIconsDock | `true` |  |  |  |  |
-| DockEnabled_ServerAndGameInfoDock | `false` |  |  | R |  |
-| DockEnabled_ServerControlDock | `false` |  |  | `true` |  |
-| DockEnabled_Stage | `true` |  |  |  |  |
-| DockEnabled_UpdateLogsDock | `false` |  |  | R |  |
-| DockEnabled_WeirdHillsDock | `true` |  |  |  |  |
-| DockEnabled_WheelOfOdditiesDock | `true` |  |  |  |  |
-| DockEnabled_WindowShowcaseDock | `true` |  |  |  |  |
-| DockEnabled_WindowShowcaseV2Dock | `true` |  |  |  |  |
+| DockEnabled_BloxyStatueReMadeDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_BobTheMobDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_CampFireDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_ColorBlocksDock | `false` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_ColorMixerDock | `false` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_ConstructionBarrierDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_DonationsDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_EventsDock | `false` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_GameInfoDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_GameRoomsDock | `false` |  | `true` | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_IceCubeTrayDcok | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_IndustrialLightDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_LighthouseDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_MineDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_MovingSpotlightDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_NoStandingJokeDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_NPCsKeyDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_OldGameRoomsDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_RainbowDanceFloorDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_RobloxIconsDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_ServerAndGameInfoDock | `false` |  |  | R | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_ServerControlDock | `false` |  |  | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_Stage | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_UpdateLogsDock | `false` |  |  | R | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_WeirdHillsDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_WheelOfOdditiesDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_WindowShowcaseDock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| DockEnabled_WindowShowcaseV2Dock | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEntrance_BarriersDisabled | U |  |  | `false` | Disables the barriers that prevent from crossing through dock entrances when closed. This only exists for fun and is ineffective outside of the dev build. |
 | DonationsDock_FireworksEnabled | `false` |  |  |  | Toggles whether or not the donation fireworks animation plays after a player purchases a donation. |
 | DonationsDock_OpenInStudio | `true` |  |  |  | Controls whether or not the donations dock's dock entrance is open in studio. |
 | DonationsDock_OpenOutsideMain | `false` |  |  | `true` | Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build. |
-| Entrance_ArrivalTimeSignsEnabled |  |  |  |  | This controls weather or not 2 signs that display the time until the elevator arrives are enabled. BOB made it mostly just as a fun side project and is likely to not be enabled outside of the dev build for some time. |
 | FavoriteColor_BOB | `rgb 0 255 255 pls` - U |  |  |  |  |
 | FavoriteColor_Unbitterness | `rgb 71 13 83 pls` - U |  |  |  |  |
 | Files_DevBuildGameVersion | `Game-Version/Dev-Build` |  |  |  |  |
@@ -64,8 +63,8 @@
 | GameRooms_StartDelay | `15` |  |  | R |  |
 | GameRoomsDock_Game |  |  |  | `24` |  |
 | GameRoomsDock_StartDelay |  |  |  | `15` |  |
-| Holidays_HalloweenLockedOn | U |  | `false` |  |  |
-| Holidays_SnowDayLockedOn | U |  | `false` |  |  |
+| HolidaysLockedOn_Halloween | U |  | `false` |  | Controls whether or not the corresponding holiday is locked in use. |
+| HolidaysLockedOn_SnowDay | U |  | `false` |  | Controls whether or not the corresponding holiday is locked in use. |
 | Intro_QuietAnimateScript | `false` |  |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
 | Lighthouse_LightSpinDisabled |  |  | `true` |  | Disables the spinning of the lighthouse's spinning light. |
 | Lighthouse_RemoveLight |  |  | `true` |  | Removes the lighthouse's spinning light. |
@@ -73,7 +72,7 @@
 | NewDocks_NotNewCheckStop | `true` |  |  |  |  |
 | NewDocks_NotNewTime | `1635966000` |  |  |  |  |
 | RainbowEffect_ColorLockedOn | U |  | `rgb 0 255 255 pls` |  | Locks the rainbow effect on only one color. |
-| Season_LockedOn | U |  | `Summer` |  |  |
+| Season_LockedOn | U |  | `Summer` |  | Controls what season is locked in use. |
 | Season_LockInSummer | `false` |  |  | R | Locks the game's season in summer. This is only intended to be used for imaging purposes. |
 | ServerInfo_RunTimeDisplayExactSeconds | `false` |  |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
 | ServerInfo_RunTimeDisplaySeconds | `false` |  |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |
