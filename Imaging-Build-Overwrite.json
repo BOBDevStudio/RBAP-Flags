@@ -9,7 +9,7 @@
   "GameRoomDock_GameRoom1HostGames": false,
   "GameRoomDock_GameRoom2HostGames": false,
   "GameRoomDock_GameRoom3HostGames": false,
-  "GameRoomDock_HostGames": true,
+  "GameRoomDock_HostGames": false,
   "HolidaysLockedOn_Halloween": false,
   "HolidaysLockedOn_SnowDay": false,
   "Lighthouse_LightSpinDisabled": true,

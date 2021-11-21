@@ -57,7 +57,7 @@
 | `GameRoomDock_GameRoom1HostGames` |  |  | `false` |  | Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag. |
 | `GameRoomDock_GameRoom2HostGames` |  |  | `false` |  | Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag. |
 | `GameRoomDock_GameRoom3HostGames` |  |  | `false` |  | Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag. |
-| `GameRoomDock_HostGames` |  |  | `true` |  | Stops the Game Rooms Dock from running games. |
+| `GameRoomDock_HostGames` |  |  | `false` |  | Stops the Game Rooms Dock from running games. |
 | `GameRooms_Game` | `24` |  |  | [Removed] |  |
 | `GameRooms_ImprovedLightChaserEnabled` | `false` |  |  | [Removed] |  |
 | `GameRooms_LightChaserInfoRewriting` - U | `false` |  |  |  | Stops the Light Chaser game from rewriting the instruction info every single round. |
