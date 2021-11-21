@@ -8,7 +8,7 @@
 | Game_IsMainBuild | Bool | false |
 | Game_IsPreUpdateBuild | Bool | false |
 | Game_UIHidden | Bool | false |
-| GameRoomDock_GameRoom1HostGames | Bool | true |
+| GameRoomDock_GameRoom1HostGames | Bool | false |
 | GameRoomDock_GameRoom2HostGames | Bool | false |
 | GameRoomDock_GameRoom3HostGames | Bool | false |
 | GameRoomDock_HostGames | Bool | true |
