@@ -59,7 +59,7 @@ GameRoomDock_GameRoom3HostGames,,,false,,false,
 GameRoomDock_HostGames,,,true,,false,Stops the game rooms dock from running games.
 GameRooms_Game,24,,,[Removed],false,
 GameRooms_ImprovedLightChaserEnabled,false,,,[Removed],false,
-GameRooms_LightChaserInfoRewriting,false,,,,false,Stops the Light Chaser game from rewriting the instruction info every single round.
+GameRooms_LightChaserInfoRewriting,false,,,,true,Stops the Light Chaser game from rewriting the instruction info every single round.
 GameRooms_StartDelay,15,,,[Removed],false,
 GameRoomsDock_Game,,,,24,false,
 GameRoomsDock_StartDelay,,,,15,false,

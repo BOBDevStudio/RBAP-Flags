@@ -1,12 +1,13 @@
 [
-  "TimeZone_Difference",
+  "DayAndNight_StreetLightsLockedOn",
+  "DockEntrance_BarriersDisabled",
   "FavoriteColor_BOB",
   "FavoriteColor_Unbitterness",
-  "DockEntrance_BarriersDisabled",
-  "Season_LockedOn",
+  "GameRooms_LightChaserInfoRewriting",
   "HolidaysLockedOn_Halloween",
   "HolidaysLockedOn_SnowDay",
-  "CommaAvoiderFlag",
-  "DayAndNight_StreetLightsLockedOn",
-  "RainbowEffect_ColorLockedOn"
+  "RainbowEffect_ColorLockedOn",
+  "Season_LockedOn",
+  "TimeZone_Difference",
+  "CommaAvoiderFlag"
 ]
