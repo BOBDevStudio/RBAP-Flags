@@ -1,6 +1,5 @@
 {
   "AvatarEditor_Enabled": true,
-  "DockEnabled_GameRoomsDock": true,
   "DockEnabled_ServerAndGameInfoDock": "pls remove",
   "DockEnabled_ServerControlDock": true,
   "DockEnabled_UpdateLogsDock": "pls remove",
