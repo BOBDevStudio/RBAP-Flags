@@ -38,6 +38,7 @@
 | FlagsSystem_UpdateCheckTime | Controls the number of seconds until the system should check if there's any updates to the flags. |
 | Game_UIHidden | Hides all UI rendered in 3D space. |
 | GameRoomDock_HostGames | Stops the game rooms dock from running games. |
+| GameRooms_LightChaserInfoRewriting | Stops the Light Chaser game from rewriting the instruction info every single round. |
 | HolidaysLockedOn_Halloween | Controls whether or not the corresponding holiday is locked in use. |
 | HolidaysLockedOn_SnowDay | Controls whether or not the corresponding holiday is locked in use. |
 | Intro_QuietAnimateScript | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |

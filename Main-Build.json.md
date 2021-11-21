@@ -52,6 +52,7 @@
 | Game_IsPreUpdateBuild | Bool | false |
 | GameRooms_Game | Number | 24 |
 | GameRooms_ImprovedLightChaserEnabled | Bool | false |
+| GameRooms_LightChaserInfoRewriting | Bool | false |
 | GameRooms_StartDelay | Number | 15 |
 | Intro_QuietAnimateScript | Bool | false |
 | NameTag_TitlePreferencePlaceKeep | Bool | true |

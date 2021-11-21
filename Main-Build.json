@@ -50,6 +50,7 @@
   "Game_IsPreUpdateBuild": false,
   "GameRooms_Game": 24,
   "GameRooms_ImprovedLightChaserEnabled": false,
+  "GameRooms_LightChaserInfoRewriting": false,
   "GameRooms_StartDelay": 15,
   "Intro_QuietAnimateScript": false,
   "NameTag_TitlePreferencePlaceKeep": true,

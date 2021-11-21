@@ -60,6 +60,7 @@
 | GameRoomDock_HostGames |  |  | `true` |  | Stops the game rooms dock from running games. |
 | GameRooms_Game | `24` |  |  | R |  |
 | GameRooms_ImprovedLightChaserEnabled | `false` |  |  | R |  |
+| GameRooms_LightChaserInfoRewriting | `false` |  |  |  | Stops the Light Chaser game from rewriting the instruction info every single round. |
 | GameRooms_StartDelay | `15` |  |  | R |  |
 | GameRoomsDock_Game |  |  |  | `24` |  |
 | GameRoomsDock_StartDelay |  |  |  | `15` |  |
