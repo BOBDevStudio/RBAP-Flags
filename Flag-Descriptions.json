@@ -7,7 +7,6 @@
   "DonationsDock_FireworksEnabled": "Toggles whether or not the donation fireworks animation plays after a player purchases a donation.",
   "DonationsDock_OpenInStudio": "Controls whether or not the donations dock's dock entrance is open in studio.",
   "DonationsDock_OpenOutsideMain": "Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build.",
-  "Entrance_ArrivalTimeSignsEnabled": "This controls weather or not 2 signs that display the time until the elevator arrives are enabled. BOB made it mostly just as a fun side project and is likely to not be enabled outside of the dev build for some time.",
   "FlagsSystem_UpdateCheckTime": "Controls the number of seconds until the system should check if there's any updates to the flags.",
   "Game_UIHidden": "Hides all UI rendered in 3D space.",
   "GameRoomDock_HostGames": "Stops the game rooms dock from running games.",
