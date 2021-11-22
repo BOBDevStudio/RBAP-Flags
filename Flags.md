@@ -2,6 +2,7 @@
 |-|-|-|-|-|-|
 | `AvatarEditor_DebugOutputsEnabled` | `false` |  |  |  |  |
 | `AvatarEditor_Enabled` | `false` |  |  | `true` | Enables an in-game avatar editor. |
+| `ChatCommandEnabled_Mute` - U | `true` |  |  |  | Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command. |
 | `DayAndNight_StreetLightsLockedOn`U |  |  | `true` |  | Controls whether or not the street lights are locked on. |
 | `DayAndNight_TimeLockedOn` |  |  | `720` |  | Sets the time of day using the amount of minutes after midnight. |
 | `DockEnabled_BloxyStatueReMadeDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
