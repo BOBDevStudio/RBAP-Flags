@@ -27,5 +27,6 @@
   "TimeUTC_*": "This flag is only used for performance reasons.",
   "TopbarPlus_DisableUselessOutputs": "Topbar plus makes some useless outputs to the dev console so this flag blocks it from doing that.",
   "GameRoomDock_GameRoom1HostGames,GameRoomDock_GameRoom2HostGames,GameRoomDock_GameRoom3HostGames": "Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag.",
+  "ChatCommandEnabled_*": "Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command.",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
