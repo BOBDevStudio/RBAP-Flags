@@ -1,6 +1,7 @@
 | Flag Name | Flag Description |
 |-|-|
 | AvatarEditor_Enabled | Enables an in-game avatar editor. |
+| ChatCommandEnabled_BubbleChat | Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command. |
 | ChatCommandEnabled_Mute | Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command. |
 | DayAndNight_StreetLightsLockedOn | Controls whether or not the street lights are locked on. |
 | DayAndNight_TimeLockedOn | Sets the time of day using the amount of minutes after midnight. |
