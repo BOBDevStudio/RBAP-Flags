@@ -74,5 +74,6 @@ TimeUTC_MinuteTrackingEnabled,Bool,true
 TimeUTC_MonthTrackingEnabled,Bool,false
 TimeZone_Difference,Number,-8
 TopbarPlus_DisableUselessOutputs,Bool,true
+UpdateLogs_HideUsedPoints,Bool,true
 UpdateLogs_TitleClass,String,page-title non-splash-page-title
 UpdateLogs_TitleId,String,page-title

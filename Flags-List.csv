@@ -65,6 +65,7 @@ TimeUTC_HourTrackingEnabled,This flag is only used for performance reasons.
 TimeUTC_MinuteTrackingEnabled,This flag is only used for performance reasons.
 TimeUTC_MonthTrackingEnabled,This flag is only used for performance reasons.
 TopbarPlus_DisableUselessOutputs,Topbar plus makes some useless outputs to the dev console so this flag blocks it from doing that.
+UpdateLogs_HideUsedPoints,Hides (bullet) points on the Update Logs Sign on the Game Info Dock that are not the closest to the text of a note.
 AvatarEditor_DebugOutputsEnabled,
 FavoriteColor_BOB,
 FavoriteColor_Unbitterness,

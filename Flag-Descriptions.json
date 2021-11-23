@@ -1,5 +1,6 @@
 {
   "AvatarEditor_Enabled": "Enables an in-game avatar editor.",
+  "ChatCommandEnabled_*": "Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command.",
   "DayAndNight_StreetLightsLockedOn": "Controls whether or not the street lights are locked on.",
   "DayAndNight_TimeLockedOn": "Sets the time of day using the amount of minutes after midnight.",
   "DockEnabled_*": "Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.",
@@ -9,6 +10,7 @@
   "DonationsDock_OpenOutsideMain": "Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build.",
   "FlagsSystem_UpdateCheckTime": "Controls the number of seconds until the system should check if there's any updates to the flags.",
   "Game_UIHidden": "Hides all UI rendered in 3D space.",
+  "GameRoomDock_GameRoom1HostGames,GameRoomDock_GameRoom2HostGames,GameRoomDock_GameRoom3HostGames": "Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag.",
   "GameRoomDock_HostGames": "Stops the Game Rooms Dock from running games.",
   "GameRooms_LightChaserInfoRewriting": "Stops the Light Chaser game from rewriting the instruction info every single round.",
   "HolidaysLockedOn_*": "Controls whether or not the corresponding holiday is locked in use.",
@@ -26,7 +28,6 @@
   "TimeGameTime_*": "This flag is only used for performance reasons.",
   "TimeUTC_*": "This flag is only used for performance reasons.",
   "TopbarPlus_DisableUselessOutputs": "Topbar plus makes some useless outputs to the dev console so this flag blocks it from doing that.",
-  "GameRoomDock_GameRoom1HostGames,GameRoomDock_GameRoom2HostGames,GameRoomDock_GameRoom3HostGames": "Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag.",
-  "ChatCommandEnabled_*": "Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command.",
+  "UpdateLogs_HideUsedPoints": "Hides (bullet) points on the Update Logs Sign on the Game Info Dock that are not the closest to the text of a note.",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
