@@ -38,7 +38,7 @@
 | DonationsDock_OpenInStudio | Controls whether or not the donations dock's dock entrance is open in studio. |
 | DonationsDock_OpenOutsideMain | Controls whether or not the donations dock's dock entrance is open in builds of RBAP other than the main build. |
 | FlagsSystem_UpdateCheckTime | Controls the number of seconds until the system should check if there's any updates to the flags. |
-| Game_ForceTemporarilySaveData | All save data that would normally be permanently saved is forced to be temporarily saved. This flag is ineffective in the main build. |
+| Game_ForceTemporarilySavingData | All save data that would normally be permanently saved is forced to be temporarily saved. This flag is ineffective in the main build. |
 | Game_UIHidden | Hides all UI rendered in 3D space. |
 | GameRoomDock_GameRoom1HostGames | Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag. |
 | GameRoomDock_GameRoom2HostGames | Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag. |

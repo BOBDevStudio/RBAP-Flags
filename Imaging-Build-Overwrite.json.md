@@ -3,7 +3,7 @@
 | CommaAvoiderFlag | String | This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas. |
 | DayAndNight_StreetLightsLockedOn | Bool | true |
 | DayAndNight_TimeLockedOn | Number | 720 |
-| Game_ForceTemporarilySaveData | Bool | true |
+| Game_ForceTemporarilySavingData | Bool | true |
 | Game_IsDevBuild | Bool | false |
 | Game_IsImagingBuild | Bool | true |
 | Game_IsMainBuild | Bool | false |

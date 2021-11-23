@@ -1,7 +1,7 @@
 {
   "DayAndNight_StreetLightsLockedOn": true,
   "DayAndNight_TimeLockedOn": 720,
-  "Game_ForceTemporarilySaveData": true,
+  "Game_ForceTemporarilySavingData": true,
   "Game_IsDevBuild": false,
   "Game_IsImagingBuild": true,
   "Game_IsMainBuild": false,

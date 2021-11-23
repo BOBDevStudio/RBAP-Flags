@@ -6,7 +6,7 @@
   "DockEntrance_BarriersDisabled": false,
   "DonationsDock_OpenOutsideMain": true,
   "FlagsSystem_UpdateCheckTime": 60,
-  "Game_ForceTemporarilySaveData": true,
+  "Game_ForceTemporarilySavingData": true,
   "Game_IsDevBuild": true,
   "Game_IsImagingBuild": false,
   "Game_IsMainBuild": false,

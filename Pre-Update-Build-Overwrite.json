@@ -1,5 +1,5 @@
 {
-  "Game_ForceTemporarilySaveData": true,
+  "Game_ForceTemporarilySavingData": true,
   "Game_IsDevBuild": false,
   "Game_IsImagingBuild": false,
   "Game_IsMainBuild": false,

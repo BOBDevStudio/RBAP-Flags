@@ -50,7 +50,7 @@
 | `Files_PreUpdateBuildListedUpdateLogs` | `Listed-Update-Logs/Pre-Update-Build` |  |  |  |  |
 | `Files_UpdateLogsURLStart` | `https://bobdevstudio.github.io/RBAP-Wiki/Posts/Update-Log` |  |  |  |  |
 | `FlagsSystem_UpdateCheckTime` | `300` |  |  | `60` | Controls the number of seconds until the system should check if there's any updates to the flags. |
-| `Game_ForceTemporarilySaveData` | `false` | `true` | `true` | `true` | All save data that would normally be permanently saved is forced to be temporarily saved. This flag is ineffective in the main build. |
+| `Game_ForceTemporarilySavingData` | `false` | `true` | `true` | `true` | All save data that would normally be permanently saved is forced to be temporarily saved. This flag is ineffective in the main build. |
 | `Game_IsDevBuild` | `false` | `false` | `false` | `true` |  |
 | `Game_IsImagingBuild` | `false` | `false` | `true` | `false` |  |
 | `Game_IsMainBuild` | `true` | `false` | `false` | `false` |  |

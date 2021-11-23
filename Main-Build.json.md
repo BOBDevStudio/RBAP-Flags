@@ -48,7 +48,7 @@
 | Files_PreUpdateBuildListedUpdateLogs | String | Listed-Update-Logs/Pre-Update-Build |
 | Files_UpdateLogsURLStart | String | https://bobdevstudio.github.io/RBAP-Wiki/Posts/Update-Log |
 | FlagsSystem_UpdateCheckTime | Number | 300 |
-| Game_ForceTemporarilySaveData | Bool | false |
+| Game_ForceTemporarilySavingData | Bool | false |
 | Game_IsDevBuild | Bool | false |
 | Game_IsImagingBuild | Bool | false |
 | Game_IsMainBuild | Bool | true |

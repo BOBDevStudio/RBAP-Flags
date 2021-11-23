@@ -8,7 +8,7 @@
 | DockEntrance_BarriersDisabled | Bool | false |
 | DonationsDock_OpenOutsideMain | Bool | true |
 | FlagsSystem_UpdateCheckTime | Number | 60 |
-| Game_ForceTemporarilySaveData | Bool | true |
+| Game_ForceTemporarilySavingData | Bool | true |
 | Game_IsDevBuild | Bool | true |
 | Game_IsImagingBuild | Bool | false |
 | Game_IsMainBuild | Bool | false |
