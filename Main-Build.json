@@ -46,6 +46,7 @@
   "Files_PreUpdateBuildListedUpdateLogs": "Listed-Update-Logs/Pre-Update-Build",
   "Files_UpdateLogsURLStart": "https://bobdevstudio.github.io/RBAP-Wiki/Posts/Update-Log",
   "FlagsSystem_UpdateCheckTime": 300,
+  "Game_ForcedTemporarilySavedDataExpiration": 86100,
   "Game_ForceTemporarilySavingData": false,
   "Game_IsDevBuild": false,
   "Game_IsImagingBuild": false,
