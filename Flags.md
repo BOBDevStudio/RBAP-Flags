@@ -91,7 +91,7 @@
 | `TimeUTC_MonthTrackingEnabled` | `false` |  |  |  | This flag is only used for performance reasons. |
 | `TimeZone_Difference` - U | `-8` |  |  |  |  |
 | `TopbarPlus_DisableUselessOutputs` | `true` |  |  |  | Topbar plus makes some useless outputs to the dev console so this flag blocks it from doing that. |
-| `UpdateLogs_HideUsedPoints` | `true` |  |  |  | Hides (bullet) points on the Update Logs Sign on the Game Info Dock that are not the closest to the text of a note. |
+| `UpdateLogs_HideNotUsedPoints` | `true` |  |  |  | Hides (bullet) points on the Update Logs Sign on the Game Info Dock that are not the closest to the text of a note. |
 | `UpdateLogs_TitleClass` | `page-title non-splash-page-title` |  |  |  |  |
 | `UpdateLogs_TitleId` | `page-title` |  |  |  |  |
 

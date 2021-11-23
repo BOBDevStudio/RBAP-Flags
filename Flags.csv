@@ -90,6 +90,6 @@ TimeUTC_MinuteTrackingEnabled,true,,,,false,This flag is only used for performan
 TimeUTC_MonthTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
 TimeZone_Difference,-8,,,,true,
 TopbarPlus_DisableUselessOutputs,true,,,,false,Topbar plus makes some useless outputs to the dev console so this flag blocks it from doing that.
-UpdateLogs_HideUsedPoints,true,,,,false,Hides (bullet) points on the Update Logs Sign on the Game Info Dock that are not the closest to the text of a note.
+UpdateLogs_HideNotUsedPoints,true,,,,false,Hides (bullet) points on the Update Logs Sign on the Game Info Dock that are not the closest to the text of a note.
 UpdateLogs_TitleClass,page-title non-splash-page-title,,,,false,
 UpdateLogs_TitleId,page-title,,,,false,
