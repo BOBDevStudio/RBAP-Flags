@@ -48,7 +48,7 @@
 | `Files_MainBuildListedUpdateLogs` | `Listed-Update-Logs/Main-Build` |  |  |  |  |
 | `Files_PreUpdateBuildGameVersion` | `Game-Version/Pre-Update-Build` |  |  |  |  |
 | `Files_PreUpdateBuildListedUpdateLogs` | `Listed-Update-Logs/Pre-Update-Build` |  |  |  |  |
-| `Files_UpdateLogsURLStart` | `https://rbap.bobdevstudio.org/RBAP-Wiki/Posts/Update-Log` |  |  |  |  |
+| `Files_UpdateLogsURLStart` | `https://rbap.bobdevstudio.org/Posts/Update-Log` |  |  |  |  |
 | `FlagsSystem_UpdateCheckTime` | `300` |  |  | `60` | Controls the number of seconds until the system should check if there's any updates to the flags. |
 | `Game_ForcedTemporarilySavedDataExpiration` | `86100` |  |  |  | Controls how long until data that is usually saved without an expiration date gets automatically removed when it is forced to be temporary. |
 | `Game_ForceTemporarilySavingData` | `false` | `true` | `true` | `true` | Controls if all save data that would normally be saved without an expiration date is forced to be temporarily saved. This flag is ineffective in the main build. |
