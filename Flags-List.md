@@ -25,10 +25,8 @@
 | DockEnabled_OldGameRoomsDock | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_RainbowDanceFloorDock | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_RobloxIconsDock | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| DockEnabled_ServerAndGameInfoDock | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_ServerControlDock | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_Stage | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| DockEnabled_UpdateLogsDock | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_WeirdHillsDock | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_WheelOfOdditiesDock | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | DockEnabled_WindowShowcaseDock | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
@@ -54,7 +52,6 @@
 | NameTag_TitlePreferencePlaceKeep | Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates. |
 | RainbowEffect_ColorLockedOn | Locks the rainbow effect on only one color. |
 | Season_LockedOn | Controls what season is locked in use. |
-| Season_LockInSummer | Locks the game's season in summer. This is only intended to be used for imaging purposes. |
 | ServerInfo_RunTimeDisplayExactSeconds | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
 | ServerInfo_RunTimeDisplaySeconds | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |
 | StreetLights_DebugColorEnabled | Toggles whether or not the street lights are randomly color coded. This is only intended to be used on certain occasions for debugging purposes. |
@@ -86,9 +83,6 @@
 | Game_IsMainBuild |  |
 | Game_IsPreUpdateBuild |  |
 | Game_NotAllowedGroupRanks |  |
-| GameRooms_Game |  |
-| GameRooms_ImprovedLightChaserEnabled |  |
-| GameRooms_StartDelay |  |
 | GameRoomsDock_Game |  |
 | GameRoomsDock_StartDelay |  |
 | NewDocks_NotNewCheckStop |  |

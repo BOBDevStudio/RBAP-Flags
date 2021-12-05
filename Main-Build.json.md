@@ -25,10 +25,8 @@
 | DockEnabled_OldGameRoomsDock | Bool | true |
 | DockEnabled_RainbowDanceFloorDock | Bool | true |
 | DockEnabled_RobloxIconsDock | Bool | true |
-| DockEnabled_ServerAndGameInfoDock | Bool | false |
 | DockEnabled_ServerControlDock | Bool | false |
 | DockEnabled_Stage | Bool | true |
-| DockEnabled_UpdateLogsDock | Bool | false |
 | DockEnabled_WeirdHillsDock | Bool | true |
 | DockEnabled_WheelOfOdditiesDock | Bool | true |
 | DockEnabled_WindowShowcaseDock | Bool | true |
@@ -46,7 +44,7 @@
 | Files_MainBuildListedUpdateLogs | String | Listed-Update-Logs/Main-Build |
 | Files_PreUpdateBuildGameVersion | String | Game-Version/Pre-Update-Build |
 | Files_PreUpdateBuildListedUpdateLogs | String | Listed-Update-Logs/Pre-Update-Build |
-| Files_UpdateLogsURLStart | String | https://rbap.bobdevstudio.org/Posts/Update-Log |
+| Files_UpdateLogsURLStart | String | https://rbap.bobdevstudio.org/wiki/posts/update-log/ |
 | FlagsSystem_UpdateCheckTime | Number | 300 |
 | Game_ForcedTemporarilySavedDataExpiration | Number | 86100 |
 | Game_ForceTemporarilySavingData | Bool | false |
@@ -54,15 +52,13 @@
 | Game_IsImagingBuild | Bool | false |
 | Game_IsMainBuild | Bool | true |
 | Game_IsPreUpdateBuild | Bool | false |
-| GameRooms_Game | Number | 24 |
-| GameRooms_ImprovedLightChaserEnabled | Bool | false |
 | GameRooms_LightChaserInfoRewriting | Bool | false |
-| GameRooms_StartDelay | Number | 15 |
+| GameRoomsDock_Game | Number | 24 |
+| GameRoomsDock_StartDelay | Number | 15 |
 | Intro_QuietAnimateScript | Bool | false |
 | NameTag_TitlePreferencePlaceKeep | Bool | true |
 | NewDocks_NotNewCheckStop | Bool | true |
 | NewDocks_NotNewTime | Number | 1635966000 |
-| Season_LockInSummer | Bool | false |
 | ServerInfo_RunTimeDisplayExactSeconds | Bool | false |
 | ServerInfo_RunTimeDisplaySeconds | Bool | false |
 | StreetLights_DebugColorEnabled | Bool | false |

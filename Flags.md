@@ -26,10 +26,8 @@
 | `DockEnabled_OldGameRoomsDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_RainbowDanceFloorDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_RobloxIconsDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `DockEnabled_ServerAndGameInfoDock` | `false` |  |  | [Removed] | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_ServerControlDock` | `false` |  |  | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_Stage` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `DockEnabled_UpdateLogsDock` | `false` |  |  | [Removed] | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_WeirdHillsDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_WheelOfOdditiesDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_WindowShowcaseDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
@@ -48,7 +46,7 @@
 | `Files_MainBuildListedUpdateLogs` | `Listed-Update-Logs/Main-Build` |  |  |  |  |
 | `Files_PreUpdateBuildGameVersion` | `Game-Version/Pre-Update-Build` |  |  |  |  |
 | `Files_PreUpdateBuildListedUpdateLogs` | `Listed-Update-Logs/Pre-Update-Build` |  |  |  |  |
-| `Files_UpdateLogsURLStart` | `https://rbap.bobdevstudio.org/Posts/Update-Log` |  |  |  |  |
+| `Files_UpdateLogsURLStart` | `https://rbap.bobdevstudio.org/wiki/posts/update-log/` |  |  |  |  |
 | `FlagsSystem_UpdateCheckTime` | `300` |  |  | `60` | Controls the number of seconds until the system should check if there's any updates to the flags. |
 | `Game_ForcedTemporarilySavedDataExpiration` | `86100` |  |  |  | Controls how long until data that is usually saved without an expiration date gets automatically removed when it is forced to be temporary. |
 | `Game_ForceTemporarilySavingData` | `false` | `true` | `true` | `true` | Controls if all save data that would normally be saved without an expiration date is forced to be temporarily saved. This flag is ineffective in the main build. |
@@ -62,12 +60,9 @@
 | `GameRoomDock_GameRoom2HostGames` |  |  | `false` |  | Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag. |
 | `GameRoomDock_GameRoom3HostGames` |  |  | `false` |  | Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag. |
 | `GameRoomDock_HostGames` |  |  | `false` |  | Stops the Game Rooms Dock from running games. |
-| `GameRooms_Game` | `24` |  |  | [Removed] |  |
-| `GameRooms_ImprovedLightChaserEnabled` | `false` |  |  | [Removed] |  |
 | `GameRooms_LightChaserInfoRewriting` - U | `false` |  |  |  | Stops the Light Chaser game from rewriting the instruction info every single round. |
-| `GameRooms_StartDelay` | `15` |  |  | [Removed] |  |
-| `GameRoomsDock_Game` |  |  |  | `24` |  |
-| `GameRoomsDock_StartDelay` |  |  |  | `15` |  |
+| `GameRoomsDock_Game` | `24` |  |  |  |  |
+| `GameRoomsDock_StartDelay` | `15` |  |  |  |  |
 | `HolidaysLockedOn_Halloween`U |  |  | `false` |  | Controls whether or not the corresponding holiday is locked in use. |
 | `HolidaysLockedOn_SnowDay`U |  |  | `false` |  | Controls whether or not the corresponding holiday is locked in use. |
 | `Intro_QuietAnimateScript` | `false` |  |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
@@ -78,7 +73,6 @@
 | `NewDocks_NotNewTime` | `1635966000` |  |  |  |  |
 | `RainbowEffect_ColorLockedOn`U |  |  | `rgb 0 255 255 pls` |  | Locks the rainbow effect on only one color. |
 | `Season_LockedOn`U |  |  | `Summer` |  | Controls what season is locked in use. |
-| `Season_LockInSummer` | `false` |  |  | [Removed] | Locks the game's season in summer. This is only intended to be used for imaging purposes. |
 | `ServerInfo_RunTimeDisplayExactSeconds` | `false` |  |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
 | `ServerInfo_RunTimeDisplaySeconds` | `false` |  |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |
 | `StreetLights_DebugColorEnabled` | `false` |  |  |  | Toggles whether or not the street lights are randomly color coded. This is only intended to be used on certain occasions for debugging purposes. |

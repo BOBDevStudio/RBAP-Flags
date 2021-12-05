@@ -25,10 +25,8 @@ DockEnabled_NPCsKeyDock,true,,,,false,Toggles whether or not the corresponding d
 DockEnabled_OldGameRoomsDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_RainbowDanceFloorDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_RobloxIconsDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_ServerAndGameInfoDock,false,,,[Removed],false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_ServerControlDock,false,,,true,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_Stage,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_UpdateLogsDock,false,,,[Removed],false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_WeirdHillsDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_WheelOfOdditiesDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_WindowShowcaseDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
@@ -47,7 +45,7 @@ Files_MainBuildGameVersion,Game-Version/Main-Build,,,,false,
 Files_MainBuildListedUpdateLogs,Listed-Update-Logs/Main-Build,,,,false,
 Files_PreUpdateBuildGameVersion,Game-Version/Pre-Update-Build,,,,false,
 Files_PreUpdateBuildListedUpdateLogs,Listed-Update-Logs/Pre-Update-Build,,,,false,
-Files_UpdateLogsURLStart,https://rbap.bobdevstudio.org/Posts/Update-Log,,,,false,
+Files_UpdateLogsURLStart,https://rbap.bobdevstudio.org/wiki/posts/update-log/,,,,false,
 FlagsSystem_UpdateCheckTime,300,,,60,false,Controls the number of seconds until the system should check if there's any updates to the flags.
 Game_ForcedTemporarilySavedDataExpiration,86100,,,,false,Controls how long until data that is usually saved without an expiration date gets automatically removed when it is forced to be temporary.
 Game_ForceTemporarilySavingData,false,true,true,true,false,Controls if all save data that would normally be saved without an expiration date is forced to be temporarily saved. This flag is ineffective in the main build.
@@ -61,12 +59,9 @@ GameRoomDock_GameRoom1HostGames,,,false,,false,Stops the corresponding Game Room
 GameRoomDock_GameRoom2HostGames,,,false,,false,Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag.
 GameRoomDock_GameRoom3HostGames,,,false,,false,Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag.
 GameRoomDock_HostGames,,,false,,false,Stops the Game Rooms Dock from running games.
-GameRooms_Game,24,,,[Removed],false,
-GameRooms_ImprovedLightChaserEnabled,false,,,[Removed],false,
 GameRooms_LightChaserInfoRewriting,false,,,,true,Stops the Light Chaser game from rewriting the instruction info every single round.
-GameRooms_StartDelay,15,,,[Removed],false,
-GameRoomsDock_Game,,,,24,false,
-GameRoomsDock_StartDelay,,,,15,false,
+GameRoomsDock_Game,24,,,,false,
+GameRoomsDock_StartDelay,15,,,,false,
 HolidaysLockedOn_Halloween,,,false,,true,Controls whether or not the corresponding holiday is locked in use.
 HolidaysLockedOn_SnowDay,,,false,,true,Controls whether or not the corresponding holiday is locked in use.
 Intro_QuietAnimateScript,false,,,,false,Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness.
@@ -77,7 +72,6 @@ NewDocks_NotNewCheckStop,true,,,,false,
 NewDocks_NotNewTime,1635966000,,,,false,
 RainbowEffect_ColorLockedOn,,,rgb 0 255 255 pls,,true,Locks the rainbow effect on only one color.
 Season_LockedOn,,,Summer,,true,Controls what season is locked in use.
-Season_LockInSummer,false,,,[Removed],false,Locks the game's season in summer. This is only intended to be used for imaging purposes.
 ServerInfo_RunTimeDisplayExactSeconds,false,,,true,false,Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build.
 ServerInfo_RunTimeDisplaySeconds,false,,,true,false,Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds.
 StreetLights_DebugColorEnabled,false,,,,false,Toggles whether or not the street lights are randomly color coded. This is only intended to be used on certain occasions for debugging purposes.
