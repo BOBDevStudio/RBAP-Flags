@@ -43,7 +43,7 @@ Files_MainBuildGameVersion,String,Game-Version/Main-Build
 Files_MainBuildListedUpdateLogs,String,Listed-Update-Logs/Main-Build
 Files_PreUpdateBuildGameVersion,String,Game-Version/Pre-Update-Build
 Files_PreUpdateBuildListedUpdateLogs,String,Listed-Update-Logs/Pre-Update-Build
-Files_UpdateLogsURLStart,String,https://rbap.bobdevstudio.org/wiki/posts/update-log/
+Files_UpdateLogsURLStart,String,https://rbap.bobdevstudio.org/wiki/posts/update-log
 FlagsSystem_UpdateCheckTime,Number,300
 Game_ForcedTemporarilySavedDataExpiration,Number,86100
 Game_ForceTemporarilySavingData,Bool,false
