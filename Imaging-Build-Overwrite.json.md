@@ -18,7 +18,7 @@
 | Lighthouse_LightSpinDisabled | Bool | true |
 | Lighthouse_RemoveLight | Bool | true |
 | RainbowEffect_ColorLockedOn | Color | rgb(0, 255, 255) |
-| Season_LockedOn | String | Fall |
+| Season_LockedOn | String | Summer |
 
 ### Type Key:
 
