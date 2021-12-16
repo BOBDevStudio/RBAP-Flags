@@ -63,7 +63,7 @@
 | `GameRooms_LightChaserInfoRewriting` - U | `false` |  |  |  | Stops the Light Chaser game from rewriting the instruction info every single round. |
 | `GameRoomsDock_Game` | `24` |  |  |  |  |
 | `GameRoomsDock_StartDelay` | `15` |  |  |  |  |
-| `HolidaysLockedOn_Halloween`U |  |  | `true` |  | Controls whether or not the corresponding holiday is locked in use. |
+| `HolidaysLockedOn_Halloween`U |  |  | `false` |  | Controls whether or not the corresponding holiday is locked in use. |
 | `HolidaysLockedOn_SnowDay`U |  |  | `false` |  | Controls whether or not the corresponding holiday is locked in use. |
 | `Intro_QuietAnimateScript` | `false` |  |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
 | `Lighthouse_LightSpinDisabled` |  |  | `true` |  | Disables the spinning of the lighthouse's spinning light. |
