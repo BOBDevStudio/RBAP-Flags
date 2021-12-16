@@ -16,6 +16,6 @@
   "Lighthouse_LightSpinDisabled": true,
   "Lighthouse_RemoveLight": true,
   "RainbowEffect_ColorLockedOn": "rgb 0 255 255 pls",
-  "Season_LockedOn": "Summer",
+  "Season_LockedOn": "Fall",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }

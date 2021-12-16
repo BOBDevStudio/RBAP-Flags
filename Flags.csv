@@ -71,7 +71,7 @@ NameTag_TitlePreferencePlaceKeep,true,,,,false,"Confusing name aside, this toggl
 NewDocks_NotNewCheckStop,true,,,,false,
 NewDocks_NotNewTime,1635966000,,,,false,
 RainbowEffect_ColorLockedOn,,,rgb 0 255 255 pls,,true,Locks the rainbow effect on only one color.
-Season_LockedOn,,,Summer,,true,Controls what season is locked in use.
+Season_LockedOn,,,Fall,,true,Controls what season is locked in use.
 ServerInfo_RunTimeDisplayExactSeconds,false,,,true,false,Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build.
 ServerInfo_RunTimeDisplaySeconds,false,,,true,false,Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds.
 StreetLights_DebugColorEnabled,false,,,,false,Toggles whether or not the street lights are randomly color coded. This is only intended to be used on certain occasions for debugging purposes.

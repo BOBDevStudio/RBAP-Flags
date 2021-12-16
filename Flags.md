@@ -72,7 +72,7 @@
 | `NewDocks_NotNewCheckStop` | `true` |  |  |  |  |
 | `NewDocks_NotNewTime` | `1635966000` |  |  |  |  |
 | `RainbowEffect_ColorLockedOn`U |  |  | `rgb 0 255 255 pls` |  | Locks the rainbow effect on only one color. |
-| `Season_LockedOn`U |  |  | `Summer` |  | Controls what season is locked in use. |
+| `Season_LockedOn`U |  |  | `Fall` |  | Controls what season is locked in use. |
 | `ServerInfo_RunTimeDisplayExactSeconds` | `false` |  |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
 | `ServerInfo_RunTimeDisplaySeconds` | `false` |  |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |
 | `StreetLights_DebugColorEnabled` | `false` |  |  |  | Toggles whether or not the street lights are randomly color coded. This is only intended to be used on certain occasions for debugging purposes. |
