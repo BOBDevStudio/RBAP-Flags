@@ -62,7 +62,7 @@ GameRoomDock_HostGames,,,false,,false,Stops the Game Rooms Dock from running gam
 GameRooms_LightChaserInfoRewriting,false,,,,true,Stops the Light Chaser game from rewriting the instruction info every single round.
 GameRoomsDock_Game,24,,,,false,
 GameRoomsDock_StartDelay,15,,,,false,
-HolidaysLockedOn_Halloween,,,false,,true,Controls whether or not the corresponding holiday is locked in use.
+HolidaysLockedOn_Halloween,,,true,,true,Controls whether or not the corresponding holiday is locked in use.
 HolidaysLockedOn_SnowDay,,,false,,true,Controls whether or not the corresponding holiday is locked in use.
 Intro_QuietAnimateScript,false,,,,false,Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness.
 Lighthouse_LightSpinDisabled,,,true,,false,Disables the spinning of the lighthouse's spinning light.
