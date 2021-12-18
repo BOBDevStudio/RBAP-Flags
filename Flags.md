@@ -50,10 +50,6 @@
 | `FlagsSystem_UpdateCheckTime` | `300` |  |  | `60` | Controls the number of seconds until the system should check if there's any updates to the flags. |
 | `Game_ForcedTemporarilySavedDataExpiration` | `86100` |  |  |  | Controls how long until data that is usually saved without an expiration date gets automatically removed when it is forced to be temporary. |
 | `Game_ForceTemporarilySavingData` | `false` | `true` | `true` | `true` | Controls if all save data that would normally be saved without an expiration date is forced to be temporarily saved. This flag is ineffective in the main build. |
-| `Game_IsDevBuild` | `false` | `false` | `false` | `true` |  |
-| `Game_IsImagingBuild` | `false` | `false` | `true` | `false` |  |
-| `Game_IsMainBuild` | `true` | `false` | `false` | `false` |  |
-| `Game_IsPreUpdateBuild` | `false` | `true` | `false` | `false` |  |
 | `Game_NotAllowedGroupRanks` |  | `[0,1,3]` |  |  |  |
 | `Game_UIHidden` |  |  | `false` |  | Hides all UI rendered in 3D space. |
 | `GameRoomDock_GameRoom1HostGames` |  |  | `false` |  | Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag. |
@@ -83,7 +79,7 @@
 | `TimeGameTime_MonthTrackingEnabled` | `false` |  |  |  | This flag is only used for performance reasons. |
 | `TimeUTC_DayTrackingEnabled` | `false` |  |  |  | This flag is only used for performance reasons. |
 | `TimeUTC_HourTrackingEnabled` | `false` |  |  |  | This flag is only used for performance reasons. |
-| `TimeUTC_MinuteTrackingEnabled` | `true` |  |  |  | This flag is only used for performance reasons. |
+| `TimeUTC_MinuteTrackingEnabled` | `false` |  |  |  | This flag is only used for performance reasons. |
 | `TimeUTC_MonthTrackingEnabled` | `false` |  |  |  | This flag is only used for performance reasons. |
 | `TimeZone_Difference` - U | `-8` |  |  |  |  |
 | `TopbarPlus_DisableUselessOutputs` | `true` |  |  |  | Topbar plus makes some useless outputs to the dev console so this flag blocks it from doing that. |

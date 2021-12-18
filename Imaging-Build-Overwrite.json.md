@@ -4,10 +4,6 @@
 | DayAndNight_StreetLightsLockedOn | Bool | true |
 | DayAndNight_TimeLockedOn | Number | 720 |
 | Game_ForceTemporarilySavingData | Bool | true |
-| Game_IsDevBuild | Bool | false |
-| Game_IsImagingBuild | Bool | true |
-| Game_IsMainBuild | Bool | false |
-| Game_IsPreUpdateBuild | Bool | false |
 | Game_UIHidden | Bool | false |
 | GameRoomDock_GameRoom1HostGames | Bool | false |
 | GameRoomDock_GameRoom2HostGames | Bool | false |

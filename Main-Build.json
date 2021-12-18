@@ -63,7 +63,7 @@
   "TimeGameTime_MonthTrackingEnabled": false,
   "TimeUTC_DayTrackingEnabled": false,
   "TimeUTC_HourTrackingEnabled": false,
-  "TimeUTC_MinuteTrackingEnabled": true,
+  "TimeUTC_MinuteTrackingEnabled": false,
   "TimeUTC_MonthTrackingEnabled": false,
   "TimeZone_Difference": -8,
   "TopbarPlus_DisableUselessOutputs": true,

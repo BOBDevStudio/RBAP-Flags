@@ -2,10 +2,6 @@
 |-|-|-|
 | CommaAvoiderFlag | String | This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas. |
 | Game_ForceTemporarilySavingData | Bool | true |
-| Game_IsDevBuild | Bool | false |
-| Game_IsImagingBuild | Bool | false |
-| Game_IsMainBuild | Bool | false |
-| Game_IsPreUpdateBuild | Bool | true |
 | Game_NotAllowedGroupRanks | Table | [0,1,3] |
 
 ### Type Key:

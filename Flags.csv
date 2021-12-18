@@ -49,10 +49,6 @@ Files_UpdateLogsURLStart,https://rbap.bobdevstudio.org/wiki/posts/update-log,,,,
 FlagsSystem_UpdateCheckTime,300,,,60,false,Controls the number of seconds until the system should check if there's any updates to the flags.
 Game_ForcedTemporarilySavedDataExpiration,86100,,,,false,Controls how long until data that is usually saved without an expiration date gets automatically removed when it is forced to be temporary.
 Game_ForceTemporarilySavingData,false,true,true,true,false,Controls if all save data that would normally be saved without an expiration date is forced to be temporarily saved. This flag is ineffective in the main build.
-Game_IsDevBuild,false,false,false,true,false,
-Game_IsImagingBuild,false,false,true,false,false,
-Game_IsMainBuild,true,false,false,false,false,
-Game_IsPreUpdateBuild,false,true,false,false,false,
 Game_NotAllowedGroupRanks,,"[0,1,3]",,,false,
 Game_UIHidden,,,false,,false,Hides all UI rendered in 3D space.
 GameRoomDock_GameRoom1HostGames,,,false,,false,Stops the corresponding Game Room from running games. The global version of this flag has priority over this flag.
@@ -82,7 +78,7 @@ TimeGameTime_MinuteTrackingEnabled,true,,,,false,This flag is only used for perf
 TimeGameTime_MonthTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
 TimeUTC_DayTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
 TimeUTC_HourTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
-TimeUTC_MinuteTrackingEnabled,true,,,,false,This flag is only used for performance reasons.
+TimeUTC_MinuteTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
 TimeUTC_MonthTrackingEnabled,false,,,,false,This flag is only used for performance reasons.
 TimeZone_Difference,-8,,,,true,
 TopbarPlus_DisableUselessOutputs,true,,,,false,Topbar plus makes some useless outputs to the dev console so this flag blocks it from doing that.

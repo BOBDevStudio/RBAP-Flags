@@ -48,10 +48,6 @@
 | FlagsSystem_UpdateCheckTime | Number | 300 |
 | Game_ForcedTemporarilySavedDataExpiration | Number | 86100 |
 | Game_ForceTemporarilySavingData | Bool | false |
-| Game_IsDevBuild | Bool | false |
-| Game_IsImagingBuild | Bool | false |
-| Game_IsMainBuild | Bool | true |
-| Game_IsPreUpdateBuild | Bool | false |
 | GameRooms_LightChaserInfoRewriting | Bool | false |
 | GameRoomsDock_Game | Number | 24 |
 | GameRoomsDock_StartDelay | Number | 15 |
@@ -69,7 +65,7 @@
 | TimeGameTime_MonthTrackingEnabled | Bool | false |
 | TimeUTC_DayTrackingEnabled | Bool | false |
 | TimeUTC_HourTrackingEnabled | Bool | false |
-| TimeUTC_MinuteTrackingEnabled | Bool | true |
+| TimeUTC_MinuteTrackingEnabled | Bool | false |
 | TimeUTC_MonthTrackingEnabled | Bool | false |
 | TimeZone_Difference | Number | -8 |
 | TopbarPlus_DisableUselessOutputs | Bool | true |
