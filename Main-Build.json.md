@@ -19,7 +19,7 @@
 | DockEnabled_IndustrialLightDock | Bool | true |
 | DockEnabled_LighthouseDock | Bool | true |
 | DockEnabled_MineDock | Bool | true |
-| DockEnabled_MovingSpotlightDock | Bool | false |
+| DockEnabled_MovingSpotlightDock | Bool | true |
 | DockEnabled_NoStandingJokeDock | Bool | true |
 | DockEnabled_NPCsKeyDock | Bool | true |
 | DockEnabled_OldGameRoomsDock | Bool | true |

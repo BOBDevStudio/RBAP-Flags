@@ -17,7 +17,7 @@
   "DockEnabled_IndustrialLightDock": true,
   "DockEnabled_LighthouseDock": true,
   "DockEnabled_MineDock": true,
-  "DockEnabled_MovingSpotlightDock": false,
+  "DockEnabled_MovingSpotlightDock": true,
   "DockEnabled_NoStandingJokeDock": true,
   "DockEnabled_NPCsKeyDock": true,
   "DockEnabled_OldGameRoomsDock": true,

@@ -1,6 +1,5 @@
 Key,Type,Value
 CommaAvoiderFlag,String,This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas.
-DockEnabled_MovingSpotlightDock,Bool,true
 DockEnabled_ServerControlDock,Bool,true
 DockEntrance_BarriersDisabled,Bool,false
 DonationsDock_OpenOutsideMain,Bool,true

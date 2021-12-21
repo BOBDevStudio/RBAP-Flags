@@ -20,7 +20,7 @@
 | `DockEnabled_IndustrialLightDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_LighthouseDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_MineDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `DockEnabled_MovingSpotlightDock` | `false` |  |  | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_MovingSpotlightDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_NoStandingJokeDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_NPCsKeyDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_OldGameRoomsDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
