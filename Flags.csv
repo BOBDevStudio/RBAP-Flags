@@ -19,7 +19,7 @@ DockEnabled_IceCubeTrayDcok,true,,,,false,Toggles whether or not the correspondi
 DockEnabled_IndustrialLightDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_LighthouseDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_MineDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_MovingSpotlightDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_MovingSpotlightDock,false,,,true,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_NoStandingJokeDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_NPCsKeyDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_OldGameRoomsDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.

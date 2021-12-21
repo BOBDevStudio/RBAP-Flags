@@ -1,4 +1,5 @@
 {
+  "DockEnabled_MovingSpotlightDock": true,
   "DockEnabled_ServerControlDock": true,
   "DockEntrance_BarriersDisabled": false,
   "DonationsDock_OpenOutsideMain": true,
