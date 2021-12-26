@@ -2,6 +2,7 @@
   "AvatarEditor_DebugOutputsEnabled": false,
   "AvatarEditor_Enabled": false,
   "ChatCommandEnabled_BubbleChat": true,
+  "ChatCommandEnabled_Emote": true,
   "ChatCommandEnabled_Mute": true,
   "DockEnabled_BloxyStatueReMadeDock": true,
   "DockEnabled_BobTheMobDock": true,
