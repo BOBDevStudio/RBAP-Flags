@@ -49,7 +49,7 @@
 | FlagsSystem_UpdateCheckTime | Number | 300 |
 | Game_ForcedTemporarilySavedDataExpiration | Number | 86100 |
 | Game_ForceTemporarilySavingData | Bool | false |
-| Game_MusicDisabledInStudio | Bool | true |
+| Game_MusicDisabledInStudio | Bool | false |
 | GameRooms_LightChaserInfoRewriting | Bool | false |
 | GameRoomsDock_Game | Number | 24 |
 | GameRoomsDock_StartDelay | Number | 15 |

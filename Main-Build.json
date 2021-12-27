@@ -47,7 +47,7 @@
   "FlagsSystem_UpdateCheckTime": 300,
   "Game_ForcedTemporarilySavedDataExpiration": 86100,
   "Game_ForceTemporarilySavingData": false,
-  "Game_MusicDisabledInStudio": true,
+  "Game_MusicDisabledInStudio": false,
   "GameRooms_LightChaserInfoRewriting": false,
   "GameRoomsDock_Game": 24,
   "GameRoomsDock_StartDelay": 15,
