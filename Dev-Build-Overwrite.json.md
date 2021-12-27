@@ -1,5 +1,6 @@
 | Key | Type | Value |
 |-|-|-|
+| ChatCommandEnabled_Mute | Bool | false |
 | CommaAvoiderFlag | String | This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas. |
 | DockEnabled_ServerControlDock | Bool | true |
 | DockEntrance_BarriersDisabled | Bool | false |
