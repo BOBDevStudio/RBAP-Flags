@@ -5,7 +5,6 @@
 | DockEntrance_BarriersDisabled | Bool | false |
 | DonationsDock_OpenOutsideMain | Bool | true |
 | FlagsSystem_UpdateCheckTime | Number | 60 |
-| Game_ForcedTemporarilySavedDataExpiration | Number | 60 |
 | Game_ForceTemporarilySavingData | Bool | true |
 | ServerInfo_RunTimeDisplayExactSeconds | Bool | true |
 | ServerInfo_RunTimeDisplaySeconds | Bool | true |
