@@ -3,6 +3,7 @@
   "DockEntrance_BarriersDisabled": false,
   "DonationsDock_OpenOutsideMain": true,
   "FlagsSystem_UpdateCheckTime": 60,
+  "Game_ForcedTemporarilySavedDataExpiration": 60,
   "Game_ForceTemporarilySavingData": true,
   "ServerInfo_RunTimeDisplayExactSeconds": true,
   "ServerInfo_RunTimeDisplaySeconds": true,
