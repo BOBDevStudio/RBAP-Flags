@@ -3,7 +3,7 @@
   "DockEntrance_BarriersDisabled": false,
   "DonationsDock_OpenOutsideMain": true,
   "FlagsSystem_UpdateCheckTime": 60,
-  "Game_ForceTemporarilySavingData": false,
+  "Game_ForceTemporarilySavingData": true,
   "ServerInfo_RunTimeDisplayExactSeconds": true,
   "ServerInfo_RunTimeDisplaySeconds": true,
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
