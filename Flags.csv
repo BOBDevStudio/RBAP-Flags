@@ -63,7 +63,7 @@ GameRoomsDock_Game,24,,,,false,
 GameRoomsDock_StartDelay,15,,,,false,
 HolidaysLockedOn_Halloween,,,false,,true,Controls whether or not the corresponding holiday is locked in use.
 HolidaysLockedOn_SnowDay,,,false,,true,Controls whether or not the corresponding holiday is locked in use.
-Intro_QuietAnimateScript,false,,,,false,Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness.
+Intro_QuietAnimateScript,false,,,[Removed],false,Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness.
 Lighthouse_LightSpinDisabled,,,true,,false,Disables the spinning of the lighthouse's spinning light.
 Lighthouse_RemoveLight,,,true,,false,Removes the lighthouse's spinning light.
 NameTag_TitlePreferencePlaceKeep,true,,,,false,"Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates."

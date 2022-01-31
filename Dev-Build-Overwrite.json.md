@@ -8,6 +8,7 @@
 | DonationsDock_OpenOutsideMain | Bool | true |
 | FlagsSystem_UpdateCheckTime | Number | 60 |
 | Game_ForceTemporarilySavingData | Bool | true |
+| Intro_QuietAnimateScript | (Remove Code) String | pls remove |
 | ServerInfo_RunTimeDisplayExactSeconds | Bool | true |
 | ServerInfo_RunTimeDisplaySeconds | Bool | true |
 

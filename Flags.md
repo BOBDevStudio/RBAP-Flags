@@ -64,7 +64,7 @@
 | `GameRoomsDock_StartDelay` | `15` |  |  |  |  |
 | `HolidaysLockedOn_Halloween`U |  |  | `false` |  | Controls whether or not the corresponding holiday is locked in use. |
 | `HolidaysLockedOn_SnowDay`U |  |  | `false` |  | Controls whether or not the corresponding holiday is locked in use. |
-| `Intro_QuietAnimateScript` | `false` |  |  |  | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
+| `Intro_QuietAnimateScript` | `false` |  |  | [Removed] | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
 | `Lighthouse_LightSpinDisabled` |  |  | `true` |  | Disables the spinning of the lighthouse's spinning light. |
 | `Lighthouse_RemoveLight` |  |  | `true` |  | Removes the lighthouse's spinning light. |
 | `NameTag_TitlePreferencePlaceKeep` | `true` |  |  |  | Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates. |
