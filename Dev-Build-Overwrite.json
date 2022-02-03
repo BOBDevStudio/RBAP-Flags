@@ -1,7 +1,7 @@
 {
   "AvatarEditor_DebugOutputsEnabled": "pls remove",
   "AvatarEditor_Enabled": "pls remove",
-  "DockEnabled_ServerControlDock": true,
+  "DockEnabled_ServerControlDock": "pls remove",
   "DockEntrance_BarriersDisabled": false,
   "DonationsDock_OpenOutsideMain": true,
   "FlagsSystem_UpdateCheckTime": 60,

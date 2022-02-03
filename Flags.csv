@@ -27,7 +27,7 @@ DockEnabled_NPCsKeyDock,true,,,,false,Toggles whether or not the corresponding d
 DockEnabled_OldGameRoomsDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_RainbowDanceFloorDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_RobloxIconsDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
-DockEnabled_ServerControlDock,false,,,true,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
+DockEnabled_ServerControlDock,false,,,[Removed],false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_Stage,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_WeirdHillsDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.
 DockEnabled_WheelOfOdditiesDock,true,,,,false,Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock.

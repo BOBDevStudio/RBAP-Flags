@@ -28,7 +28,7 @@
 | `DockEnabled_OldGameRoomsDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_RainbowDanceFloorDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_RobloxIconsDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
-| `DockEnabled_ServerControlDock` | `false` |  |  | `true` | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEnabled_ServerControlDock` | `false` |  |  | [Removed] | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_Stage` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_WeirdHillsDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_WheelOfOdditiesDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
