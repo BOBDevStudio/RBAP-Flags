@@ -5,6 +5,7 @@
   "DockEntrance_BarriersDisabled": false,
   "DonationsDock_OpenOutsideMain": true,
   "FlagsSystem_UpdateCheckTime": 60,
+  "Game_ForcedTemporarilySavedDataExpiration": 3600,
   "Game_ForceTemporarilySavingData": true,
   "Intro_QuietAnimateScript": "pls remove",
   "ServerInfo_RunTimeDisplayExactSeconds": true,
