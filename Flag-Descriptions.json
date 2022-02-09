@@ -31,5 +31,7 @@
   "TimeUTC_*": "This flag is only used for performance reasons.",
   "TopbarPlus_DisableUselessOutputs": "Topbar plus makes some useless outputs to the dev console so this flag blocks it from doing that.",
   "UpdateLogs_HideNotUsedPoints": "Hides (bullet) points on the Update Logs Sign on the Game Info Dock that are not the closest to the text of a note.",
+  "Shop_Enabled": "Enables to the shop and associated systems and functionality.",
+  "Shop_BetaEnabled": "Puts the shop in a beta mode.",
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }

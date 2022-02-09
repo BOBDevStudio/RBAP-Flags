@@ -73,5 +73,8 @@
   "UpdateLogs_HideNotUsedPoints": true,
   "UpdateLogs_TitleClass": "page-title non-splash-page-title",
   "UpdateLogs_TitleId": "page-title",
+  "Shop_Enabled": false,
+  "Shop_BetaEnabled": false,
+  "ChatCommandEnabled_ShopBeta": true,
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }
