@@ -3,6 +3,7 @@
 | AvatarEditor_DebugOutputsEnabled | (Remove Code) String | pls remove |
 | AvatarEditor_Enabled | (Remove Code) String | pls remove |
 | CommaAvoiderFlag | String | This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas. |
+| DockEnabled_DonationsDock | Bool | false |
 | DockEnabled_ServerControlDock | (Remove Code) String | pls remove |
 | DockEntrance_BarriersDisabled | Bool | false |
 | DonationsDock_OpenOutsideMain | Bool | true |
@@ -12,6 +13,8 @@
 | Intro_QuietAnimateScript | (Remove Code) String | pls remove |
 | ServerInfo_RunTimeDisplayExactSeconds | Bool | true |
 | ServerInfo_RunTimeDisplaySeconds | Bool | true |
+| Shop_BetaEnabled | Bool | false |
+| Shop_Enabled | Bool | true |
 
 ### Type Key:
 

@@ -1,4 +1,7 @@
 Key,Type,Value
 CommaAvoiderFlag,String,This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas.
+DockEnabled_DonationsDock,Bool,false
 Game_ForceTemporarilySavingData,Bool,true
 Game_NotAllowedGroupRanks,Table,"[0,1,3]"
+Shop_BetaEnabled,Bool,true
+Shop_Enabled,Bool,true

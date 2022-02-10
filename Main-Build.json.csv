@@ -5,6 +5,7 @@ ChatCommandEnabled_BubbleChat,Bool,true
 ChatCommandEnabled_Emote,Bool,true
 ChatCommandEnabled_Help,Bool,true
 ChatCommandEnabled_Mute,Bool,true
+ChatCommandEnabled_ShopBeta,Bool,true
 CommaAvoiderFlag,String,This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas.
 DockEnabled_BloxyStatueReMadeDock,Bool,true
 DockEnabled_BobTheMobDock,Bool,true
@@ -59,6 +60,8 @@ NewDocks_NotNewCheckStop,Bool,true
 NewDocks_NotNewTime,Number,1635966000
 ServerInfo_RunTimeDisplayExactSeconds,Bool,false
 ServerInfo_RunTimeDisplaySeconds,Bool,false
+Shop_BetaEnabled,Bool,false
+Shop_Enabled,Bool,false
 StreetLights_DebugColorEnabled,Bool,false
 Time_SecondTrackingEnabled,Bool,false
 TimeGameTime_DayTrackingEnabled,Bool,false
