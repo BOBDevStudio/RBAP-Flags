@@ -1,14 +1,14 @@
-### Note: Some flags are missing in this list due to some recent fixes to the bot's file compiler. Those flags will be added back the next time the bot is run.
-
 | Flag Name | Base Value | Pre-Update Build Overwrite | Imaging Build Overwrite | Dev Build Overwrite | Flag Description |
 |-|-|-|-|-|-|
 | `AvatarEditor_DebugOutputsEnabled` | `false` |  |  | [Removed] |  |
 | `AvatarEditor_Enabled` | `false` |  |  | [Removed] | Enables an in-game avatar editor. |
+| `Chat_CleanUpTabs` | `true` |  |  |  | Instead of the chat regulations returning an error when a message contains a tab character the chat regulations will simply replace tab characters with something else. |
 | `ChatCommandEnabled_BubbleChat` - U | `true` |  |  |  | Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command. |
 | `ChatCommandEnabled_Emote` | `true` |  |  |  | Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command. |
 | `ChatCommandEnabled_Help` | `true` |  |  |  | Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command. |
 | `ChatCommandEnabled_Mute` - U | `true` |  |  |  | Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command. |
 | `ChatCommandEnabled_ShopBeta` | `true` |  |  |  | Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command. |
+| `DayAndNight_StreetLightsLockedOn`U |  |  | `true` |  | Controls whether or not the street lights are locked on. This flag is ineffective in the main build. |
 | `DayAndNight_TimeLockedOn` |  |  | `720` |  | Sets the time of day using the amount of minutes after midnight. This flag is ineffective in the main build. |
 | `DockEnabled_BloxyStatueReMadeDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_BobTheMobDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
@@ -36,6 +36,7 @@
 | `DockEnabled_WheelOfOdditiesDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_WindowShowcaseDock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
 | `DockEnabled_WindowShowcaseV2Dock` | `true` |  |  |  | Toggles whether or not the corresponding dock will be loaded. This is used as a hard on-off switch for the corresponding dock. |
+| `DockEntrance_BarriersDisabled`U |  |  |  | `false` | Disables the barriers that prevent from crossing through dock entrances when closed. This only exists for fun and is ineffective outside of the dev build. |
 | `DonationsDock_FireworksEnabled` | `false` |  |  |  | Toggles whether or not the donation fireworks animation plays after a player purchases a donation. |
 | `DonationsDock_OpenInStudio` | `true` |  |  |  | Controls whether or not the donations dock's dock entrance is open in studio. |
 | `DonationsDock_OpenOutsideMain` | `false` |  |  | `true` | Controls whether or not the donations dock's dock entrance is open in builds other than the main build. |
@@ -63,12 +64,16 @@
 | `GameRooms_LightChaserInfoRewriting` - U | `false` |  |  |  | Stops the Light Chaser game from rewriting the instruction info every single round. |
 | `GameRoomsDock_Game` | `24` |  |  |  |  |
 | `GameRoomsDock_StartDelay` | `15` |  |  |  |  |
+| `HolidaysLockedOn_Halloween`U |  |  | `false` |  | Controls whether or not the corresponding holiday is locked in use. This flag is ineffective in the main build. |
+| `HolidaysLockedOn_SnowDay`U |  |  | `false` |  | Controls whether or not the corresponding holiday is locked in use. This flag is ineffective in the main build. |
 | `Intro_QuietAnimateScript` | `false` |  |  | [Removed] | Quiets the error outputs from the Roblox Animate script during the intro (or at least attempts to). This has been disabled for now due to its ineffectiveness. |
 | `Lighthouse_LightSpinDisabled` |  |  | `true` |  | Disables the spinning of the lighthouse's spinning light. This flag is only intended for use in images and is ineffective outside of the imaging build. |
 | `Lighthouse_RemoveLight` |  |  | `true` |  | Removes the lighthouse's spinning light. This flag is only intended for use in images and is ineffective outside of the imaging build. |
 | `NameTag_TitlePreferencePlaceKeep` | `true` |  |  |  | Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates. |
 | `NewDocks_NotNewCheckStop` | `true` |  |  |  |  |
 | `NewDocks_NotNewTime` | `1635966000` |  |  |  |  |
+| `RainbowEffect_ColorLockedOn`U |  |  | `rgb 0 255 255 pls` |  | Locks the rainbow effect on only one color. This flag is only intended for use in images and is ineffective outside of the imaging build. |
+| `Season_LockedOn`U |  |  | `Summer` |  | Controls what season is locked in use. This flag is ineffective in the main build. |
 | `ServerInfo_RunTimeDisplayExactSeconds` | `false` |  |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
 | `ServerInfo_RunTimeDisplaySeconds` | `false` |  |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |
 | `Shop_BetaEnabled` | `false` | `true` |  | `false` | Puts the shop in a beta mode. |

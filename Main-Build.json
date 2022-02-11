@@ -1,10 +1,12 @@
 {
   "AvatarEditor_DebugOutputsEnabled": false,
   "AvatarEditor_Enabled": false,
+  "Chat_CleanUpTabs": true,
   "ChatCommandEnabled_BubbleChat": true,
   "ChatCommandEnabled_Emote": true,
   "ChatCommandEnabled_Help": true,
   "ChatCommandEnabled_Mute": true,
+  "ChatCommandEnabled_ShopBeta": true,
   "DockEnabled_BloxyStatueReMadeDock": true,
   "DockEnabled_BobTheMobDock": true,
   "DockEnabled_CampFireDock": true,
@@ -58,6 +60,8 @@
   "NewDocks_NotNewTime": 1635966000,
   "ServerInfo_RunTimeDisplayExactSeconds": false,
   "ServerInfo_RunTimeDisplaySeconds": false,
+  "Shop_BetaEnabled": false,
+  "Shop_Enabled": false,
   "StreetLights_DebugColorEnabled": false,
   "Time_SecondTrackingEnabled": false,
   "TimeGameTime_DayTrackingEnabled": false,
@@ -73,8 +77,5 @@
   "UpdateLogs_HideNotUsedPoints": true,
   "UpdateLogs_TitleClass": "page-title non-splash-page-title",
   "UpdateLogs_TitleId": "page-title",
-  "Shop_Enabled": false,
-  "Shop_BetaEnabled": false,
-  "ChatCommandEnabled_ShopBeta": true,
   "CommaAvoiderFlag": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 }

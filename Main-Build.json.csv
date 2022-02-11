@@ -1,6 +1,7 @@
 Key,Type,Value
 AvatarEditor_DebugOutputsEnabled,Bool,false
 AvatarEditor_Enabled,Bool,false
+Chat_CleanUpTabs,Bool,true
 ChatCommandEnabled_BubbleChat,Bool,true
 ChatCommandEnabled_Emote,Bool,true
 ChatCommandEnabled_Help,Bool,true
