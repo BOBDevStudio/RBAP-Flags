@@ -2,6 +2,7 @@
 |-|-|-|-|-|-|
 | `AvatarEditor_DebugOutputsEnabled` | `false` |  |  | [Removed] |  |
 | `AvatarEditor_Enabled` | `false` |  |  | [Removed] | Enables an in-game avatar editor. |
+| `Chat_CleanUpNewLines` | `true` |  |  |  | Instead of the chat regulations returning an error when a message contains a new line character the chat regulations will simply replace new line characters with something else. |
 | `Chat_CleanUpTabs` | `true` |  |  |  | Instead of the chat regulations returning an error when a message contains a tab character the chat regulations will simply replace tab characters with something else. |
 | `ChatCommandEnabled_BubbleChat` - U | `true` |  |  |  | Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command. |
 | `ChatCommandEnabled_Emote` | `true` |  |  |  | Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command. |

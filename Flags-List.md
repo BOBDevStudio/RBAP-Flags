@@ -1,6 +1,7 @@
 | Flag Name | Flag Description |
 |-|-|
 | AvatarEditor_Enabled | Enables an in-game avatar editor. |
+| Chat_CleanUpNewLines | Instead of the chat regulations returning an error when a message contains a new line character the chat regulations will simply replace new line characters with something else. |
 | Chat_CleanUpTabs | Instead of the chat regulations returning an error when a message contains a tab character the chat regulations will simply replace tab characters with something else. |
 | ChatCommandEnabled_BubbleChat | Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command. |
 | ChatCommandEnabled_Emote | Disables the corresponding command making running it ineffective as attempts to use it will result in an error. This is used as a hard on-off switch for the corresponding command. |

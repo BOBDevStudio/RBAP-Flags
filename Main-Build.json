@@ -1,6 +1,7 @@
 {
   "AvatarEditor_DebugOutputsEnabled": false,
   "AvatarEditor_Enabled": false,
+  "Chat_CleanUpNewLines": true,
   "Chat_CleanUpTabs": true,
   "ChatCommandEnabled_BubbleChat": true,
   "ChatCommandEnabled_Emote": true,

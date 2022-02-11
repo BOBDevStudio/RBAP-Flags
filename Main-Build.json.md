@@ -2,6 +2,7 @@
 |-|-|-|
 | AvatarEditor_DebugOutputsEnabled | Bool | false |
 | AvatarEditor_Enabled | Bool | false |
+| Chat_CleanUpNewLines | Bool | true |
 | Chat_CleanUpTabs | Bool | true |
 | ChatCommandEnabled_BubbleChat | Bool | true |
 | ChatCommandEnabled_Emote | Bool | true |
