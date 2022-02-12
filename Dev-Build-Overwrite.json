@@ -9,6 +9,7 @@
   "Game_ForcedTemporarilySavedDataExpiration": 3600,
   "Game_ForceTemporarilySavingData": true,
   "Intro_QuietAnimateScript": "pls remove",
+  "Season_TreesAreTrees": true,
   "ServerInfo_RunTimeDisplayExactSeconds": true,
   "ServerInfo_RunTimeDisplaySeconds": true,
   "Shop_BetaEnabled": false,

@@ -25,6 +25,7 @@
   "NameTag_TitlePreferencePlaceKeep": "Confusing name aside, this toggles whether or not a player can have a title that is not currently in the same placement as the save data indicates.",
   "RainbowEffect_ColorLockedOn": "Locks the rainbow effect on only one color. This flag is only intended for use in images and is ineffective outside of the imaging build.",
   "Season_LockedOn": "Controls what season is locked in use. This flag is ineffective in the main build.",
+  "Season_TreesAreTrees": "Enables an experimental new tree designing system that aims to (at least somewhat) make the trees look more real. The flag name is also a joke.",
   "ServerInfo_RunTimeDisplayExactSeconds": "Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build.",
   "ServerInfo_RunTimeDisplaySeconds": "Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds.",
   "Shop_BetaEnabled": "Puts the shop in a beta mode.",
