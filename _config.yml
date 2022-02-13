@@ -1,17 +1,23 @@
 exclude:
-  - Flags.csv
-  - Flags.md
-  - Flags-List.csv
-  - Flags-List.md
-  - Main-Build.json.csv
-  - Main-Build.json.md
-  - Pre-Update-Build-Overwrite.json.csv
-  - Pre-Update-Build-Overwrite.json.md
-  - Imaging-Build-Overwrite.json.csv
-  - Imaging-Build-Overwrite.json.md
-  - Dev-Build-Overwrite.json.csv
-  - Dev-Build-Overwrite.json.md
-  - Flag-Descriptions.json
+
+# --// Global
+
   - Readme.md
   - License
   - .github
+  
+# --// V1
+
+  - V1/Flags.csv
+  - V1/Flags.md
+  - V1/Flags-List.csv
+  - V1/Flags-List.md
+  - V1/Main-Build.json.csv
+  - V1/Main-Build.json.md
+  - V1/Pre-Update-Build-Overwrite.json.csv
+  - V1/Pre-Update-Build-Overwrite.json.md
+  - V1/Imaging-Build-Overwrite.json.csv
+  - V1/Imaging-Build-Overwrite.json.md
+  - V1/Dev-Build-Overwrite.json.csv
+  - V1/Dev-Build-Overwrite.json.md
+  - V1/Flag-Descriptions.json
