@@ -75,7 +75,7 @@
 | `NewDocks_NotNewTime` | `1635966000` |  |  |  |  |
 | `RainbowEffect_ColorLockedOn` - U |  |  | `rgb 0 255 255 pls` |  | Locks the rainbow effect on only one color. This flag is only intended for use in images and is ineffective outside of the imaging build. |
 | `Season_LockedOn` - U |  |  | `Summer` |  | Controls what season is locked in use. This flag is ineffective in the main build. |
-| `Season_TreesAreTrees` | `false` |  |  | `true` | Enables an experimental new tree designing system that aims to (at least somewhat) make the trees look more real. The flag name is also a joke. |
+| `Season_TreesAreTrees` | `true` |  |  |  | Enables an experimental new tree designing system that aims to (at least somewhat) make the trees look more real. The flag name is also a joke. |
 | `ServerInfo_RunTimeDisplayExactSeconds` | `false` |  |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display the exact decimal number of seconds. This is only intended to be used for debugging purposes and will likely never be enabled outside of the dev build. |
 | `ServerInfo_RunTimeDisplaySeconds` | `false` |  |  | `true` | Controls whether or not the `Server Running Time` statistic on the server and game info dock will display seconds. |
 | `Shop_BetaEnabled` | `false` | `true` |  | `false` | Puts the shop in a beta mode. |

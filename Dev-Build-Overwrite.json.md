@@ -11,7 +11,6 @@
 | Game_ForcedTemporarilySavedDataExpiration | Number | 3600 |
 | Game_ForceTemporarilySavingData | Bool | true |
 | Intro_QuietAnimateScript | (Remove Code) String | pls remove |
-| Season_TreesAreTrees | Bool | true |
 | ServerInfo_RunTimeDisplayExactSeconds | Bool | true |
 | ServerInfo_RunTimeDisplaySeconds | Bool | true |
 | Shop_BetaEnabled | Bool | false |

@@ -61,7 +61,7 @@
 | NameTag_TitlePreferencePlaceKeep | Bool | true |
 | NewDocks_NotNewCheckStop | Bool | true |
 | NewDocks_NotNewTime | Number | 1635966000 |
-| Season_TreesAreTrees | Bool | false |
+| Season_TreesAreTrees | Bool | true |
 | ServerInfo_RunTimeDisplayExactSeconds | Bool | false |
 | ServerInfo_RunTimeDisplaySeconds | Bool | false |
 | Shop_BetaEnabled | Bool | false |
