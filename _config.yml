@@ -1,10 +1,4 @@
 exclude:
-
-# --// Global
-
-  - Readme.md
-  - License
-  - .github
   
 # --// V1
 
@@ -21,3 +15,13 @@ exclude:
   - V1/Dev-Build-Overwrite.json.csv
   - V1/Dev-Build-Overwrite.json.md
   - V1/Flag-Descriptions.json
+  
+# --// V2
+
+  - V2/Readme.md
+
+# --// Global
+
+  - Readme.md
+  - License
+  - .github
