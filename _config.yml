@@ -19,6 +19,7 @@ exclude:
 # --// V2
 
   - V2/Readme.md
+  - V2/Flags.json
 
 # --// Global
 
