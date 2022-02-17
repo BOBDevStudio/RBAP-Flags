@@ -1,6 +1,4 @@
 {
-  "AvatarEditor_DebugOutputsEnabled": false,
-  "AvatarEditor_Enabled": false,
   "Chat_CleanUpNewLines": true,
   "Chat_CleanUpTabs": true,
   "ChatCommandEnabled_BubbleChat": true,
@@ -28,7 +26,6 @@
   "DockEnabled_OldGameRoomsDock": true,
   "DockEnabled_RainbowDanceFloorDock": true,
   "DockEnabled_RobloxIconsDock": true,
-  "DockEnabled_ServerControlDock": false,
   "DockEnabled_Stage": true,
   "DockEnabled_WeirdHillsDock": true,
   "DockEnabled_WheelOfOdditiesDock": true,
@@ -55,7 +52,6 @@
   "GameRooms_LightChaserInfoRewriting": false,
   "GameRoomsDock_Game": 24,
   "GameRoomsDock_StartDelay": 15,
-  "Intro_QuietAnimateScript": false,
   "NameTag_TitlePreferencePlaceKeep": true,
   "NewDocks_NotNewCheckStop": true,
   "NewDocks_NotNewTime": 1635966000,
