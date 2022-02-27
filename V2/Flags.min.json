@@ -142,6 +142,8 @@
 	},
 	"FavoriteColor_BOB": {
 		"Value": {
+			"IsRobloxDataType": true,
+			"RobloxDataType": "Color3",
 			"ColorType": "RGB",
 			"Red": 0,
 			"Green": 255,
@@ -151,6 +153,8 @@
 	},
 	"FavoriteColor_Unbitterness": {
 		"Value": {
+			"IsRobloxDataType": true,
+			"RobloxDataType": "Color3",
 			"ColorType": "RGB",
 			"Red": 71,
 			"Green": 13,
@@ -182,7 +186,7 @@
 			{
 				"_Type": "Build",
 				"_SubType": "MainBuild",
-				"Value": null
+				"Value": "null"
 			}
 		]
 	},
@@ -359,7 +363,7 @@
 		]
 	},
 	"DockEntrance_BarriersDisabled": {
-		"Value": null,
+		"Value": "null",
 		"Overwrites": [
 			{
 				"_Type": "Build",
@@ -370,7 +374,7 @@
 		]
 	},
 	"DayAndNight_StreetLightsLockedOn": {
-		"Value": null,
+		"Value": "null",
 		"Overwrites": [
 			{
 				"_Type": "Build",
@@ -381,7 +385,7 @@
 		]
 	},
 	"DayAndNight_TimeLockedOn": {
-		"Value": null,
+		"Value": "null",
 		"Overwrites": [
 			{
 				"_Type": "Build",
@@ -391,7 +395,7 @@
 		]
 	},
 	"Game_UIHidden": {
-		"Value": null,
+		"Value": "null",
 		"Overwrites": [
 			{
 				"_Type": "Build",
@@ -401,7 +405,7 @@
 		]
 	},
 	"GameRoomDock_GameRoom1HostGames": {
-		"Value": null,
+		"Value": "null",
 		"Overwrites": [
 			{
 				"_Type": "Build",
@@ -411,7 +415,7 @@
 		]
 	},
 	"GameRoomDock_GameRoom2HostGames": {
-		"Value": null,
+		"Value": "null",
 		"Overwrites": [
 			{
 				"_Type": "Build",
@@ -421,7 +425,7 @@
 		]
 	},
 	"GameRoomDock_GameRoom3HostGames": {
-		"Value": null,
+		"Value": "null",
 		"Overwrites": [
 			{
 				"_Type": "Build",
@@ -431,7 +435,7 @@
 		]
 	},
 	"GameRoomDock_HostGames": {
-		"Value": null,
+		"Value": "null",
 		"Overwrites": [
 			{
 				"_Type": "Build",
@@ -441,7 +445,7 @@
 		]
 	},
 	"HolidaysLockedOn_Halloween": {
-		"Value": null,
+		"Value": "null",
 		"CanUpdate": true,
 		"Overwrites": [
 			{
@@ -452,12 +456,12 @@
 			{
 				"_Type": "Build",
 				"_SubType": "MainBuild",
-				"CanUpdate": null
+				"CanUpdate": "null"
 			}
 		]
 	},
 	"HolidaysLockedOn_SnowDay": {
-		"Value": null,
+		"Value": "null",
 		"CanUpdate": true,
 		"Overwrites": [
 			{
@@ -468,12 +472,12 @@
 			{
 				"_Type": "Build",
 				"_SubType": "MainBuild",
-				"CanUpdate": null
+				"CanUpdate": "null"
 			}
 		]
 	},
 	"Lighthouse_LightSpinDisabled": {
-		"Value": null,
+		"Value": "null",
 		"Overwrites": [
 			{
 				"_Type": "Build",
@@ -483,7 +487,7 @@
 		]
 	},
 	"Lighthouse_RemoveLight": {
-		"Value": null,
+		"Value": "null",
 		"Overwrites": [
 			{
 				"_Type": "Build",
@@ -493,13 +497,15 @@
 		]
 	},
 	"RainbowEffect_ColorLockedOn": {
-		"Value": null,
+		"Value": "null",
 		"CanUpdate": true,
 		"Overwrites": [
 			{
 				"_Type": "Build",
 				"_SubType": "ImagingBuild",
 				"Value": {
+					"IsRobloxDataType": true,
+					"RobloxDataType": "Color3",
 					"ColorType": "RGB",
 					"Red": 0,
 					"Green": 255,
@@ -509,12 +515,12 @@
 			{
 				"_Type": "Build",
 				"_SubType": "MainBuild",
-				"CanUpdate": null
+				"CanUpdate": "null"
 			}
 		]
 	},
 	"Season_LockedOn": {
-		"Value": null,
+		"Value": "null",
 		"CanUpdate": true,
 		"Overwrites": [
 			{
@@ -525,7 +531,7 @@
 			{
 				"_Type": "Build",
 				"_SubType": "MainBuild",
-				"CanUpdate": null
+				"CanUpdate": "null"
 			}
 		]
 	},
