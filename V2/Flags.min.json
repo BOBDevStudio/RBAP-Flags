@@ -47,18 +47,18 @@
 		"Value": true,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "PreUpdateBuild",
+				"_Type": "Build",
+				"_SubType": "PreUpdateBuild",
 				"Value": false
 			},
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": false
 			},
 			{
-				"Type": "Build",
-				"SubType": "DevBuild",
+				"_Type": "Build",
+				"_SubType": "DevBuild",
 				"Value": false
 			}
 		]
@@ -124,18 +124,18 @@
 		"Value": false,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": true
 			},
 			{
-				"Type": "Build",
-				"SubType": "DevBuild",
+				"_Type": "Build",
+				"_SubType": "DevBuild",
 				"Value": true
 			},
 			{
-				"Type": "Studio",
-				"SubType": "Base",
+				"_Type": "Studio",
+				"_SubType": "Base",
 				"Value": true
 			}
 		]
@@ -165,8 +165,8 @@
 		"Value": 300,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "DevBuild",
+				"_Type": "Build",
+				"_SubType": "DevBuild",
 				"Value": 60
 			}
 		]
@@ -175,13 +175,13 @@
 		"Value": 86100,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "DevBuild",
+				"_Type": "Build",
+				"_SubType": "DevBuild",
 				"Value": 3600
 			},
 			{
-				"Type": "Build",
-				"SubType": "MainBuild",
+				"_Type": "Build",
+				"_SubType": "MainBuild",
 				"Value": null
 			}
 		]
@@ -190,18 +190,18 @@
 		"Value": false,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "PreUpdateBuild",
+				"_Type": "Build",
+				"_SubType": "PreUpdateBuild",
 				"Value": true
 			},
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": true
 			},
 			{
-				"Type": "Build",
-				"SubType": "DevBuild",
+				"_Type": "Build",
+				"_SubType": "DevBuild",
 				"Value": true
 			}
 		]
@@ -235,8 +235,8 @@
 		"Value": false,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "DevBuild",
+				"_Type": "Build",
+				"_SubType": "DevBuild",
 				"Value": true
 			}
 		]
@@ -245,8 +245,8 @@
 		"Value": false,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "DevBuild",
+				"_Type": "Build",
+				"_SubType": "DevBuild",
 				"Value": true
 			}
 		]
@@ -255,8 +255,8 @@
 		"Value": false,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "PreUpdateBuild",
+				"_Type": "Build",
+				"_SubType": "PreUpdateBuild",
 				"Value": true
 			}
 		]
@@ -265,13 +265,13 @@
 		"Value": false,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "PreUpdateBuild",
+				"_Type": "Build",
+				"_SubType": "PreUpdateBuild",
 				"Value": true
 			},
 			{
-				"Type": "Build",
-				"SubType": "DevBuild",
+				"_Type": "Build",
+				"_SubType": "DevBuild",
 				"Value": true
 			}
 		]
@@ -362,8 +362,8 @@
 		"Value": null,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "DevBuild",
+				"_Type": "Build",
+				"_SubType": "DevBuild",
 				"Value": false,
 				"CanUpdate": true
 			}
@@ -373,8 +373,8 @@
 		"Value": null,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": true,
 				"CanUpdate": true
 			}
@@ -384,8 +384,8 @@
 		"Value": null,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": 720
 			}
 		]
@@ -394,8 +394,8 @@
 		"Value": null,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": false
 			}
 		]
@@ -404,8 +404,8 @@
 		"Value": null,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": false
 			}
 		]
@@ -414,8 +414,8 @@
 		"Value": null,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": false
 			}
 		]
@@ -424,8 +424,8 @@
 		"Value": null,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": false
 			}
 		]
@@ -434,8 +434,8 @@
 		"Value": null,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": false
 			}
 		]
@@ -445,13 +445,13 @@
 		"CanUpdate": true,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": false
 			},
 			{
-				"Type": "Build",
-				"SubType": "MainBuild",
+				"_Type": "Build",
+				"_SubType": "MainBuild",
 				"CanUpdate": null
 			}
 		]
@@ -461,13 +461,13 @@
 		"CanUpdate": true,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": false
 			},
 			{
-				"Type": "Build",
-				"SubType": "MainBuild",
+				"_Type": "Build",
+				"_SubType": "MainBuild",
 				"CanUpdate": null
 			}
 		]
@@ -476,8 +476,8 @@
 		"Value": null,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": true
 			}
 		]
@@ -486,8 +486,8 @@
 		"Value": null,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": true
 			}
 		]
@@ -497,8 +497,8 @@
 		"CanUpdate": true,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": {
 					"ColorType": "RGB",
 					"Red": 0,
@@ -507,8 +507,8 @@
 				}
 			},
 			{
-				"Type": "Build",
-				"SubType": "MainBuild",
+				"_Type": "Build",
+				"_SubType": "MainBuild",
 				"CanUpdate": null
 			}
 		]
@@ -518,13 +518,13 @@
 		"CanUpdate": true,
 		"Overwrites": [
 			{
-				"Type": "Build",
-				"SubType": "ImagingBuild",
+				"_Type": "Build",
+				"_SubType": "ImagingBuild",
 				"Value": "Summer"
 			},
 			{
-				"Type": "Build",
-				"SubType": "MainBuild",
+				"_Type": "Build",
+				"_SubType": "MainBuild",
 				"CanUpdate": null
 			}
 		]
