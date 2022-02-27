@@ -1,7 +1,10 @@
 {
 	"FlagsSystem_FlagsFilePaths": {
 		"Value": {
-			"Flags"
+			{
+				"Name": "Flags",
+				"Minimized": true
+			}
 		}
 	},
 	"CommaAvoiderFlag": {
