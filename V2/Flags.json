@@ -45,19 +45,23 @@
 	},
 	"DockEnabled_DonationsDock": {
 		"Value": true,
-		"Overwrites": {
-			"Builds": {
-				"DevBuild": {
-					"Value": false
-				},
-				"ImagingBuild": {
-					"Value": false
-				},
-				"PreUpdateBuild": {
-					"Value": false
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "PreUpdateBuild",
+				"Value": false
+			},
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": false
+			},
+			{
+				"Type": "Build",
+				"SubType": "DevBuild",
+				"Value": false
 			}
-		}
+		]
 	},
 	"DockEnabled_EventsDock": {
 		"Value": false
@@ -118,19 +122,23 @@
 	},
 	"DonationsDock_OpenOutsideMain": {
 		"Value": false,
-		"Overwrites": {
-			"Builds": {
-				"DevBuild": {
-					"Value": true
-				},
-				"ImagingBuild": {
-					"Value": true
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": true
 			},
-			"Studio": {
+			{
+				"Type": "Build",
+				"SubType": "DevBuild",
+				"Value": true
+			},
+			{
+				"Type": "Studio",
+				"SubType": "Base",
 				"Value": true
 			}
-		}
+		]
 	},
 	"FavoriteColor_BOB": {
 		"Value": {
@@ -155,42 +163,48 @@
 	},
 	"FlagsSystem_UpdateCheckTime": {
 		"Value": 300,
-		"Overwrites": {
-			"Builds": {
-				"DevBuild": {
-					"Value": 60
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "DevBuild",
+				"Value": 60
 			}
-		}
+		]
 	},
 	"Game_ForcedTemporarilySavedDataExpiration": {
 		"Value": 86100,
-		"Overwrites": {
-			"Builds": {
-				"DevBuild": {
-					"Value": 3600
-				},
-				"MainBuild": {
-					"Value": null
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "DevBuild",
+				"Value": 3600
+			},
+			{
+				"Type": "Build",
+				"SubType": "MainBuild",
+				"Value": null
 			}
-		}
+		]
 	},
 	"Game_ForceTemporarilySavingData": {
 		"Value": false,
-		"Overwrites": {
-			"Builds": {
-				"DevBuild": {
-					"Value": true
-				},
-				"ImagingBuild": {
-					"Value": true
-				},
-				"PreUpdateBuild": {
-					"Value": true
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "PreUpdateBuild",
+				"Value": true
+			},
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": true
+			},
+			{
+				"Type": "Build",
+				"SubType": "DevBuild",
+				"Value": true
 			}
-		}
+		]
 	},
 	"Game_MusicDisabledInStudio": {
 		"Value": true
@@ -219,46 +233,48 @@
 	},
 	"ServerInfo_RunTimeDisplayExactSeconds": {
 		"Value": false,
-		"Overwrites": {
-			"Builds": {
-				"DevBuild": {
-					"Value": true
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "DevBuild",
+				"Value": true
 			}
-		}
+		]
 	},
 	"ServerInfo_RunTimeDisplaySeconds": {
 		"Value": false,
-		"Overwrites": {
-			"Builds": {
-				"DevBuild": {
-					"Value": true
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "DevBuild",
+				"Value": true
 			}
-		}
+		]
 	},
 	"Shop_BetaEnabled": {
 		"Value": false,
-		"Overwrites": {
-			"Builds": {
-				"PreUpdateBuild": {
-					"Value": true
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "PreUpdateBuild",
+				"Value": true
 			}
-		}
+		]
 	},
 	"Shop_Enabled": {
 		"Value": false,
-		"Overwrites": {
-			"Builds": {
-				"DevBuild": {
-					"Value": true
-				},
-				"PreUpdateBuild": {
-					"Value": true
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "PreUpdateBuild",
+				"Value": true
+			},
+			{
+				"Type": "Build",
+				"SubType": "DevBuild",
+				"Value": true
 			}
-		}
+		]
 	},
 	"StreetLights_DebugColorEnabled": {
 		"Value": false
@@ -344,166 +360,174 @@
 	},
 	"DockEntrance_BarriersDisabled": {
 		"Value": null,
-		"Overwrites": {
-			"Builds": {
-				"DevBuild": {
-					"Value": false,
-					"CanUpdate": true
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "DevBuild",
+				"Value": false,
+				"CanUpdate": true
 			}
-		}
+		]
 	},
 	"DayAndNight_StreetLightsLockedOn": {
 		"Value": null,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": true,
-					"CanUpdate": true
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": true,
+				"CanUpdate": true
 			}
-		}
+		]
 	},
 	"DayAndNight_TimeLockedOn": {
 		"Value": null,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": 720
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": 720
 			}
-		}
+		]
 	},
 	"Game_UIHidden": {
 		"Value": null,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": false
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": false
 			}
-		}
+		]
 	},
 	"GameRoomDock_GameRoom1HostGames": {
 		"Value": null,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": false
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": false
 			}
-		}
+		]
 	},
 	"GameRoomDock_GameRoom2HostGames": {
 		"Value": null,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": false
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": false
 			}
-		}
+		]
 	},
 	"GameRoomDock_GameRoom3HostGames": {
 		"Value": null,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": false
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": false
 			}
-		}
+		]
 	},
 	"GameRoomDock_HostGames": {
 		"Value": null,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": false
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": false
 			}
-		}
+		]
 	},
 	"HolidaysLockedOn_Halloween": {
 		"Value": null,
 		"CanUpdate": true,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": false
-				},
-				"MainBuild": {
-					"CanUpdate": null
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": false
+			},
+			{
+				"Type": "Build",
+				"SubType": "MainBuild",
+				"CanUpdate": null
 			}
-		}
+		]
 	},
 	"HolidaysLockedOn_SnowDay": {
 		"Value": null,
 		"CanUpdate": true,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": false
-				},
-				"MainBuild": {
-					"CanUpdate": null
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": false
+			},
+			{
+				"Type": "Build",
+				"SubType": "MainBuild",
+				"CanUpdate": null
 			}
-		}
+		]
 	},
 	"Lighthouse_LightSpinDisabled": {
 		"Value": null,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": true
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": true
 			}
-		}
+		]
 	},
 	"Lighthouse_RemoveLight": {
 		"Value": null,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": true
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": true
 			}
-		}
+		]
 	},
 	"RainbowEffect_ColorLockedOn": {
 		"Value": null,
 		"CanUpdate": true,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": {
-						"ColorType": "RGB",
-						"Red": 0,
-						"Green": 255,
-						"Blue": 255
-					}
-				},
-				"MainBuild": {
-					"CanUpdate": null
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": {
+					"ColorType": "RGB",
+					"Red": 0,
+					"Green": 255,
+					"Blue": 255
 				}
+			},
+			{
+				"Type": "Build",
+				"SubType": "MainBuild",
+				"CanUpdate": null
 			}
-		}
+		]
 	},
 	"Season_LockedOn": {
 		"Value": null,
 		"CanUpdate": true,
-		"Overwrites": {
-			"Builds": {
-				"ImagingBuild": {
-					"Value": "Summer"
-				},
-				"MainBuild": {
-					"CanUpdate": null
-				}
+		"Overwrites": [
+			{
+				"Type": "Build",
+				"SubType": "ImagingBuild",
+				"Value": "Summer"
+			},
+			{
+				"Type": "Build",
+				"SubType": "MainBuild",
+				"CanUpdate": null
 			}
-		}
+		]
 	},
 	"CommaAvoiderFlag": {
 		"Value": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
