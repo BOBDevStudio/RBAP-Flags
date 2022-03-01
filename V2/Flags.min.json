@@ -331,7 +331,8 @@
 			"Big": 6,
 			"Medium": 0,
 			"Small": 0
-		}
+		},
+		"CanUpdate": true
 	},
 	"UpdateLogs_Listed": {
 		"Value": [
@@ -353,7 +354,8 @@
 			"3-1-0",
 			"3-0-1",
 			"3-0-0"
-		]
+		],
+		"CanUpdate": true
 	},
 	"Game_NotAllowedGroupRanks": {
 		"Value": [
