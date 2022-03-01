@@ -237,6 +237,7 @@
 	},
 	"ServerInfo_RunTimeDisplayExactSeconds": {
 		"Value": false,
+		"CanUpdate": true,
 		"Overwrites": [
 			{
 				"_Type": "Build",
@@ -247,6 +248,7 @@
 	},
 	"ServerInfo_RunTimeDisplaySeconds": {
 		"Value": false,
+		"CanUpdate": true,
 		"Overwrites": [
 			{
 				"_Type": "Build",
