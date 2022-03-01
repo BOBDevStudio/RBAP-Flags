@@ -535,6 +535,10 @@
 			}
 		]
 	},
+	"ThisIsATestOfLiveUpdating": {
+		"Value": 123,
+		"CanUpdate": true
+	},
 	"CommaAvoiderFlag": {
 		"Value": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 	}
