@@ -2,6 +2,7 @@ exclude:
   
 # --// V1
 
+  - V1/Readme.md
   - V1/Flags.csv
   - V1/Flags.md
   - V1/Flags-List.csv

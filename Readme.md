@@ -1,5 +1,6 @@
-This repository holds some files that are used by RBAP in a system inspired by Roblox's Fast Flags. `Main-Build.json` is the base file used in all versions of the game and other JSON files that names end with the word overwrite are for specific versions of the game. Each of the overwrite files are applied on top of the base file meaning if there there is a flag referenced in both files the value of the flag in the overwrite file will be used.
+This repository holds some files that are used by RBAP in a system inspired by Roblox's Fast Flags.
 
-There is also some other files that are there for easy reading. They are called `Flags.md` and `Flags.csv` and both of which are automatically compiled by the bot when it makes commits. Those 2 files are virtually the same, the only difference being `Flags.md` takes advantage of markdown and `Flags.csv` just lists everything plainly in a table.
+## Flags System Versions
 
-Similar files to `Flags.md` and `Flags.csv` also exist and the ones that end with `.json.md` and `.json.csv` are there for easy reading of a specific JSON file and are sorted alphabetically.
+* [`V1`](/V1) - Out of service and no longer maintained. The RBAP system running it was completely thrown out.
+* [`V2`](/V2) - In active use currently. Features many improvements over V1 and addresses many of BOB's issues with V1.
