@@ -162,7 +162,7 @@
 		},
 		"CanUpdate": true
 	},
-	"Files_UpdateLogsURLStart": {
+	"UpdateLogs_URLStart": {
 		"Value": "https://rbap.bobdevstudio.org/wiki/posts/update-log"
 	},
 	"FlagsSystem_UpdateCheckTime": {
