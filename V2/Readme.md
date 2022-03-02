@@ -1,5 +1,3 @@
 # Flags System Version 2
 
-### V2 of the the flags system is a WIP!
-
-The exact structure of the data files among other things may be changed at any time. Generally speaking V2 is aiming to be much more flexible than V1 along with adding some new features and merging separate systems into the flags system. Documentation on what each data file is used for will not be available for now at least.
+V2 improves upon V1 In a number of ways including supporting stuff like version overwrites and more flexibility (along with running into at least a little bit less rate limit errors :) ). It also merged some previously separate systems into the flags system to help combat against those previously mentioned rate limit errors among other things. Exact specifics will not be explained here due to how complicated the system is. And in case you're wondering V2 replaced V1 in RBAP update `V6.0.1` even though it wasn't mentioned in the update log for that update (mainly due to the fact that it is a backend only system).
