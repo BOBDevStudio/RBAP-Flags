@@ -258,14 +258,7 @@
 		]
 	},
 	"Shop_BetaEnabled": {
-		"Value": false,
-		"Overwrites": [
-			{
-				"_Type": "Build",
-				"_SubType": "PreUpdateBuild",
-				"Value": true
-			}
-		]
+		"Value": false
 	},
 	"Shop_Enabled": {
 		"Value": false,
