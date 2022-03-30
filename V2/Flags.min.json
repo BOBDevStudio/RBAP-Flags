@@ -191,22 +191,17 @@
 		]
 	},
 	"Game_ForceTemporarilySavingData": {
-		"Value": false,
+		"Value": true,
 		"Overwrites": [
 			{
 				"_Type": "Build",
-				"_SubType": "PreUpdateBuild",
-				"Value": true
-			},
-			{
-				"_Type": "Build",
-				"_SubType": "ImagingBuild",
-				"Value": true
-			},
-			{
-				"_Type": "Build",
 				"_SubType": "DevBuild",
-				"Value": true
+				"Value": false
+			},
+			{
+				"_Type": "Build",
+				"_SubType": "MainBuild",
+				"Value": false
 			}
 		]
 	},
