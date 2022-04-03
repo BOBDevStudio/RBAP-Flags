@@ -385,6 +385,11 @@
 				"_Type": "Build",
 				"_SubType": "ImagingBuild",
 				"Value": 720
+			},
+			{
+				"_Type": "Build",
+				"_SubType": "DevBuild",
+				"Value": 0
 			}
 		]
 	},
