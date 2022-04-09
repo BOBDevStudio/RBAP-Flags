@@ -195,11 +195,6 @@
 		"Overwrites": [
 			{
 				"_Type": "Build",
-				"_SubType": "DevBuild",
-				"Value": false
-			},
-			{
-				"_Type": "Build",
 				"_SubType": "MainBuild",
 				"Value": false
 			}
