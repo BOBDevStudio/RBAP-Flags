@@ -44,22 +44,17 @@
 		"Value": true
 	},
 	"DockEnabled_DonationsDock": {
-		"Value": true,
+		"Value": false,
 		"Overwrites": [
 			{
 				"_Type": "Build",
-				"_SubType": "PreUpdateBuild",
-				"Value": false
+				"_SubType": "MainBuild",
+				"Value": true
 			},
 			{
 				"_Type": "Build",
 				"_SubType": "ImagingBuild",
-				"Value": false
-			},
-			{
-				"_Type": "Build",
-				"_SubType": "DevBuild",
-				"Value": false
+				"Value": true
 			}
 		]
 	},
@@ -82,13 +77,29 @@
 		"Value": true
 	},
 	"DockEnabled_MineDock": {
-		"Value": true
+		"Value": true,
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousOnly",
+				"Value": false
+			}
+		]
 	},
 	"DockEnabled_MovingSpotlightDock": {
 		"Value": true
 	},
 	"DockEnabled_NoStandingJokeDock": {
-		"Value": true
+		"Value": true,
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousOnly",
+				"Value": false
+			}
+		]
 	},
 	"DockEnabled_NPCsKeyDock": {
 		"Value": true
@@ -317,7 +328,18 @@
 			"Medium": 0,
 			"Small": 2
 		},
-		"CanUpdate": true
+		"CanUpdate": true,
+		"Overwrites": [
+			{
+				"_Type": "Build",
+				"_SubType": "DevBuild",
+				"Value": {
+					"Big": 6,
+					"Medium": 1,
+					"Small": 0
+				}
+			}
+		]
 	},
 	"UpdateLogs_Listed": {
 		"Value": [
@@ -380,11 +402,6 @@
 				"_Type": "Build",
 				"_SubType": "ImagingBuild",
 				"Value": 720
-			},
-			{
-				"_Type": "Build",
-				"_SubType": "DevBuild",
-				"Value": 0
 			}
 		]
 	},
