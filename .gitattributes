@@ -1,0 +1,7 @@
+* -linguist-detectable
+*.json linguist-detectable
+/* -linguist-detectable
+/.github/** -linguist-detectable
+**/Readme.md -linguist-detectable
+**/Readme.txt -linguist-detectable
+*.min.json linguist-generated
