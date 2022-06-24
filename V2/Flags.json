@@ -325,24 +325,14 @@
 	"Game_Version": {
 		"Value": {
 			"Big": 6,
-			"Medium": 0,
-			"Small": 2
+			"Medium": 1,
+			"Small": 0
 		},
-		"CanUpdate": true,
-		"Overwrites": [
-			{
-				"_Type": "Build",
-				"_SubType": "DevBuild",
-				"Value": {
-					"Big": 6,
-					"Medium": 1,
-					"Small": 0
-				}
-			}
-		]
+		"CanUpdate": true
 	},
 	"UpdateLogs_Listed": {
 		"Value": [
+			"6-1-0",
 			"6-0-2",
 			"6-0-1",
 			"6-0-0",
