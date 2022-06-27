@@ -145,9 +145,27 @@
 				"Value": true
 			},
 			{
-				"_Type": "Studio",
-				"_SubType": "Base",
-				"Value": true
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Overwrites": [
+					{
+						"_Type": "Studio",
+						"_SubType": "This just needs to be a string I don't know what made me think making it required was a good idea lol",
+						"Value": false
+					}
+				]
+			},
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "NextOnly",
+				"Overwrites": [
+					{
+						"_Type": "Studio",
+						"Value": false
+					}
+				]
 			}
 		]
 	},
@@ -563,8 +581,27 @@
 		"Value": false,
 		"Overwrites": [
 			{
-				"_Type": "Studio",
-				"Value": true
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Overwrites": [
+					{
+						"_Type": "Studio",
+						"_SubType": "This just needs to be a string I don't know what made me think making it required was a good idea lol",
+						"Value": true
+					}
+				]
+			},
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "NextOnly",
+				"Overwrites": [
+					{
+						"_Type": "Studio",
+						"Value": true
+					}
+				]
 			},
 			{
 				"_Type": "Build",
