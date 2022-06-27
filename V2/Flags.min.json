@@ -336,7 +336,18 @@
 			"Medium": 1,
 			"Small": 0
 		},
-		"CanUpdate": true
+		"CanUpdate": true,
+		"Overwrites": [
+			{
+				"_Type": "Build",
+				"_SubType": "DevBuild",
+				"Value": {
+					"Big": 6,
+					"Medium": 2,
+					"Small": 0
+				}
+			}
+		]
 	},
 	"UpdateLogs_Listed": {
 		"Value": [
