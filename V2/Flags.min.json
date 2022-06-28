@@ -152,7 +152,7 @@
 					{
 						"_Type": "Studio",
 						"_SubType": "This just needs to be a string I don't know what made me think making it required was a good idea lol",
-						"Value": false
+						"Value": true
 					}
 				]
 			},
@@ -163,7 +163,7 @@
 				"Overwrites": [
 					{
 						"_Type": "Studio",
-						"Value": false
+						"Value": true
 					}
 				]
 			}
