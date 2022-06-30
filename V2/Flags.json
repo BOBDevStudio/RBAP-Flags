@@ -35,10 +35,26 @@
 		"Value": true
 	},
 	"DockEnabled_ColorBlocksDock": {
-		"Value": false
+		"Value": false,
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "NextOnly",
+				"Value": "null"
+			}
+		]
 	},
 	"DockEnabled_ColorMixerDock": {
-		"Value": false
+		"Value": false,
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "NextOnly",
+				"Value": "null"
+			}
+		]
 	},
 	"DockEnabled_ConstructionBarrierDock": {
 		"Value": true
@@ -59,7 +75,15 @@
 		]
 	},
 	"DockEnabled_EventsDock": {
-		"Value": false
+		"Value": false,
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "NextOnly",
+				"Value": "null"
+			}
+		]
 	},
 	"DockEnabled_GameInfoDock": {
 		"Value": true
@@ -625,6 +649,12 @@
 				"Value": "null"
 			}
 		]
+	},
+	"Chat_LoggedMessagesMax": {
+		"Value": 100
+	},
+	"Chat_MessagesMax": {
+		"Value": 2000
 	},
 	"CommaAvoiderFlag": {
 		"Value": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
