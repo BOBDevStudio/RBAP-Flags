@@ -647,17 +647,120 @@
 				"_Type": "Build",
 				"_SubType": "MainBuild",
 				"Value": "null"
+			},
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Value": "null"
 			}
 		]
 	},
 	"Chat_LoggedMessagesMax": {
-		"Value": 100
+		"Value": 100,
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Value": "null"
+			}
+		]
 	},
 	"Chat_MessagesMax": {
-		"Value": 2000
+		"Value": 2000,
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Value": "null"
+			}
+		]
 	},
 	"Chat_ShowOldMessages": {
-		"Value": true
+		"Value": true,
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Value": "null"
+			}
+		]
+	},
+	"MusicLockedOn_Christmas": {
+		"Value": "null",
+		"CanUpdate": true,
+		"Overwrites": [
+			{
+				"_Type": "Build",
+				"_SubType": "MainBuild",
+				"Value": "null",
+				"CanUpdate": "null"
+			},
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Value": "null",
+				"CanUpdate": "null"
+			}
+		]
+	},
+	"MusicLockedOn_ChristmasDay": {
+		"Value": "null",
+		"CanUpdate": true,
+		"Overwrites": [
+			{
+				"_Type": "Build",
+				"_SubType": "MainBuild",
+				"Value": "null",
+				"CanUpdate": "null"
+			},
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Value": "null",
+				"CanUpdate": "null"
+			}
+		]
+	},
+	"Game_SkipIntro": {
+		"Value": false,
+		"CanUpdate": true,
+		"Overwrites": [
+			{
+				"_Type": "Build",
+				"_SubType": "DevBuild",
+				"Overwrites": [
+					{
+						"_Type": "GameVersion",
+						"_SubType": "6.1.0",
+						"_QualificationType": "NextOnly",
+						"Overwrites": [
+							{
+								"_Type": "Studio",
+								"Value": true
+							}
+						]
+					}
+				]
+			},
+			{
+				"_Type": "Build",
+				"_SubType": "MainBuild",
+				"Value": "null",
+				"CanUpdate": "null"
+			},
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Value": "null"
+			}
+		]
 	},
 	"CommaAvoiderFlag": {
 		"Value": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
