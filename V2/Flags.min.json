@@ -758,7 +758,8 @@
 				"_Type": "GameVersion",
 				"_SubType": "6.1.0",
 				"_QualificationType": "PreviousAndIncluding",
-				"Value": "null"
+				"Value": "null",
+				"CanUpdate": "null"
 			}
 		]
 	},
