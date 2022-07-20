@@ -216,7 +216,15 @@
 		"CanUpdate": true
 	},
 	"UpdateLogs_URLStart": {
-		"Value": "https://rbap.bobdevstudio.org/wiki/posts/update-log"
+		"Value": "https://rbap.bobdevstudio.org/wiki/posts/update-log",
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "NextOnly",
+				"Value": "null"
+			}
+		]
 	},
 	"FlagsSystem_UpdateCheckTime": {
 		"Value": 300,
@@ -367,10 +375,26 @@
 		"Value": true
 	},
 	"UpdateLogs_TitleClass": {
-		"Value": "page-title non-splash-page-title"
+		"Value": "page-title non-splash-page-title",
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "NextOnly",
+				"Value": "null"
+			}
+		]
 	},
 	"UpdateLogs_TitleId": {
-		"Value": "page-title"
+		"Value": "page-title",
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "NextOnly",
+				"Value": "null"
+			}
+		]
 	},
 	"Game_Version": {
 		"Value": {
@@ -415,7 +439,37 @@
 			"3-0-1",
 			"3-0-0"
 		],
-		"CanUpdate": true
+		"CanUpdate": true,
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "NextOnly",
+				"Value": [
+					"6.1.0",
+					"6.0.2",
+					"6.0.1",
+					"6.0.0",
+					"5.3.0",
+					"5.2.2",
+					"5.2.1",
+					"5.2.0",
+					"5.1.2",
+					"5.1.1",
+					"5.1.0",
+					"5.0.0",
+					"4.1.2",
+					"4.1.1",
+					"4.1.0",
+					"4.0.0",
+					"3.1.2",
+					"3.1.1",
+					"3.1.0",
+					"3.0.1",
+					"3.0.0"
+				]
+			}
+		]
 	},
 	"Game_NotAllowedGroupRanks": {
 		"Value": [
@@ -786,6 +840,28 @@
 				"_Type": "Build",
 				"_SubType": "MainBuild",
 				"Value": "null"
+			},
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Value": "null"
+			}
+		]
+	},
+	"UpdateLogs_URLFormat": {
+		"Value": "https://rbap.bobdevstudio.org/Assets/Compiled/Update-Logs/{1}-{2}-{3}",
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.2.0",
+				"Overwrites": [
+					{
+						"_Type": "Build",
+						"_SubType": "DevBuild",
+						"Value": "https://testing.bobdevstudio.org/Assets/Compiled/Update-Logs/{1}-{2}-{3}"
+					}
+				]
 			},
 			{
 				"_Type": "GameVersion",
