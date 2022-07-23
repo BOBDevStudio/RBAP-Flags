@@ -851,6 +851,7 @@
 	},
 	"UpdateLogs_URLFormat": {
 		"Value": "https://rbap.bobdevstudio.org/Assets/Compiled/Update-Logs/{1}-{2}-{3}",
+		"CanUpdate": true,
 		"Overwrites": [
 			{
 				"_Type": "GameVersion",
