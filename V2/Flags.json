@@ -885,6 +885,30 @@
 			}
 		]
 	},
+	"Game_WikiEasyLinksDataURL": {
+		"Value": "https://rbap.bobdevstudio.org/Assets/Compiled/Easy-Links",
+		"CanUpdate": true,
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.2.0",
+				"Overwrites": [
+					{
+						"_Type": "Build",
+						"_SubType": "DevBuild",
+						"Value": "https://testing.bobdevstudio.org/Assets/Compiled/Easy-Links"
+					}
+				]
+			},
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Value": "null",
+				"CanUpdate": "null"
+			}
+		]
+	},
 	"CommaAvoiderFlag": {
 		"Value": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 	}
