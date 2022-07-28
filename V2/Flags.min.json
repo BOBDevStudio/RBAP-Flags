@@ -834,7 +834,7 @@
 			{
 				"_Type": "Build",
 				"_SubType": "DevBuild",
-				"value": true
+				"Value": true
 			},
 			{
 				"_Type": "Build",
@@ -932,7 +932,7 @@
 			{
 				"_Type": "Build",
 				"_SubType": "DevBuild",
-				"value": true
+				"Value": true
 			},
 			{
 				"_Type": "Build",
