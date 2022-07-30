@@ -913,6 +913,11 @@
 		"Value": "null",
 		"Overwrites": [
 			{
+				"_Type": "Build",
+				"_SubType": "DevBuild",
+				"Value": true
+			},
+			{
 				"_Type": "GameVersion",
 				"_SubType": "6.1.0",
 				"_QualificationType": "NextOnly",
@@ -928,11 +933,6 @@
 						]
 					}
 				]
-			},
-			{
-				"_Type": "Build",
-				"_SubType": "DevBuild",
-				"Value": true
 			},
 			{
 				"_Type": "Build",
