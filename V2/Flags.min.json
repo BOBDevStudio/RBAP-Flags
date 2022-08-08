@@ -909,44 +909,6 @@
 			}
 		]
 	},
-	"Game_TempEditsEnabled": {
-		"Value": "null",
-		"Overwrites": [
-			{
-				"_Type": "Build",
-				"_SubType": "DevBuild",
-				"Value": true
-			},
-			{
-				"_Type": "GameVersion",
-				"_SubType": "6.1.0",
-				"_QualificationType": "NextOnly",
-				"Overwrites": [
-					{
-						"_Type": "Build",
-						"_SubType": "DevBuild",
-						"Overwrites": [
-							{
-								"_Type": "Studio",
-								"Value": false
-							}
-						]
-					}
-				]
-			},
-			{
-				"_Type": "Build",
-				"_SubType": "MainBuild",
-				"Value": "null"
-			},
-			{
-				"_Type": "GameVersion",
-				"_SubType": "6.1.0",
-				"_QualificationType": "PreviousAndIncluding",
-				"Value": "null"
-			}
-		]
-	},
 	"Game_URLTintColorEnabled": {
 		"Value": true,
 		"Overwrites": [
