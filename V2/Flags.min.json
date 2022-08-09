@@ -661,18 +661,6 @@
 			{
 				"_Type": "GameVersion",
 				"_SubType": "6.1.0",
-				"_QualificationType": "PreviousAndIncluding",
-				"Overwrites": [
-					{
-						"_Type": "Studio",
-						"_SubType": "This just needs to be a string I don't know what made me think making it required was a good idea lol",
-						"Value": true
-					}
-				]
-			},
-			{
-				"_Type": "GameVersion",
-				"_SubType": "6.1.0",
 				"_QualificationType": "NextOnly",
 				"Overwrites": [
 					{
@@ -917,6 +905,17 @@
 				"_SubType": "MainBuild",
 				"Value": false
 			},
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Value": "null"
+			}
+		]
+	},
+	"Game_PreloadAllMusic": {
+		"Value": false,
+		"Overwrites": [
 			{
 				"_Type": "GameVersion",
 				"_SubType": "6.1.0",
