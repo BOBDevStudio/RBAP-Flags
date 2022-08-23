@@ -924,6 +924,30 @@
 			}
 		]
 	},
+	"Game_DataSavingQueues": {
+		"Value": [
+			[
+				"Get"
+			],
+			[
+				"Get"
+			],
+			[
+				"Set",
+				"Increment",
+				"Update",
+				"Remove"
+			]
+		],
+		"Overwrites": [
+			{
+				"_Type": "GameVersion",
+				"_SubType": "6.1.0",
+				"_QualificationType": "PreviousAndIncluding",
+				"Value": "null"
+			}
+		]
+	},
 	"CommaAvoiderFlag": {
 		"Value": "This is a special flag as it is ignored by the flags system. It is just here so I don't have to worry about commas."
 	}
