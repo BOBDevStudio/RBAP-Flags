@@ -258,6 +258,11 @@
 				"_Type": "Build",
 				"_SubType": "MainBuild",
 				"Value": false
+			},
+			{
+				"_Type": "Build",
+				"_SubType": "DevBuild",
+				"Value": false
 			}
 		]
 	},
