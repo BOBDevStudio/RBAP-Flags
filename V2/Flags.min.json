@@ -370,7 +370,7 @@
 		"Value": false
 	},
 	"TimeZone_Difference": {
-		"Value": -7,
+		"Value": -8,
 		"CanUpdate": true
 	},
 	"TopbarPlus_DisableUselessOutputs": {
