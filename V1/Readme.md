@@ -3,8 +3,8 @@
 V1 (originally just called the flags system) was the first version of the flags system. Although V1 was great and did a lot of things well there were many things that it did not support and it was not very flexible. Its successor V2 fixed all or most of the issues BOB had with V1. Today the files in this directory sit unchanged since V1 was put out of service.
 
 There were many reasons that warranted a V2 of the flags system instead of just an update to V1. Among them were:
-* The system that maintained and ran V1 sometimes ran into rate limit errors near the end of its use which heavily encouraged BOB to make V2. The exact cause of the errors was never identified before the system was thrown out and a newer better replacement was made.
-* BOB had reason to believe that the live updating feature didn't exactly work completely. Although much like the one above, this one was never verified before the system was thrown out.
+* The system that maintained and ran V1 sometimes ran into rate limit errors near the end of its use which heavily encouraged BOB to make V2. The exact cause of the errors was never identified before the system was removed and a newer better replacement was made.
+* BOB had reason to believe that the live updating feature didn't exactly work completely. Although much like the one above, this one was never verified before the system was removed.
 * V1 only supported overwrites via builds and not specific versions of the game (and it was especially frustrating when new versions were being released to the main build).
 
 Also it is worth noting that most if not all of the `.md` and `.csv` files are outdated compared to the data files due to the bot that maintained them breaking due to a directory change soon before V2 started being worked on.
