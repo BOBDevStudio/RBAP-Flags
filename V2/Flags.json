@@ -144,7 +144,14 @@
 		"Value": true
 	},
 	"DockEnabled_WheelOfOdditiesDock": {
-		"Value": true
+		"Value": true,
+		"Overwrites": [
+			{
+				"_Type": "Build",
+				"_SubType": "MainBuild",
+				"Value": false
+			}
+		]
 	},
 	"DockEnabled_WindowShowcaseDock": {
 		"Value": true
